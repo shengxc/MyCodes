@@ -25,8 +25,8 @@ def getinfobox(entryhxs):
   if(len(infoboxhxs) != 0):
     infoboxhxs = infoboxhxs[0]
     for tdhxs in infoboxhxs.select('.//td[not(@class)]'):
-      key = tdhxs.select('./strong/text()').extract()[0]
-      #value need special deal,for some urls
+      key = tdhxs.select('./strong').extract()[0]
+      key = clearhtmltags(key)
       value = tdhxs.select('./span').extract()[0]
       value = clearhtmltags(value)
       knowledge[key] = value
