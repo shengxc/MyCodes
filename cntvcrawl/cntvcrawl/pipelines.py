@@ -4,12 +4,13 @@
 # See: http://doc.scrapy.org/en/latest/topics/item-pipeline.html
 
 import MySQLdb
+import string
 def gettopiccategoryid(time):
   date = time.split(" ")[0]
   year = string.atoi(date.split("-")[0])
   month = string.atoi(date.split("-")[1])
   return str((year - 2013) * 12 + month)
-  
+
 class CntvcrawlPipeline(object):
   conn = None
   cursor = None
@@ -20,19 +21,15 @@ class CntvcrawlPipeline(object):
 
 
   def process_item(self, item, spider):
-    sql = "SELECT id FROM topics WHERE title='%s' AND category_id=%s",(item["topictitle"],gettopiccategoryid(item["time"]))
-    print sql
-    return item
-'''
+    sql = "SELECT id FROM topics WHERE title='%s' AND category_id=%s" % (item["topictitle"],gettopiccategoryid(item["time"]))
     if self.cursor.execute(sql) == 0:
       raise DropItem
     topic_id = self.cursor.fetchone()[0]
-    sql = "INSERT INTO new_videos (title,video_url,img_url,published_at,topicid) VALUES ('%s','%s','%s','%s',%s)" % (item["title"],item["videourl"],item["imgurl"],item["time"],str(topicid))
+    sql = "INSERT INTO new_videos (title,video_url,img_url,published_at,topic_id) VALUES ('%s','%s','%s','%s',%s)" % (item["title"],item["videourl"],item["imgurl"],item["time"],str(topic_id))
     #self.outf.write((sql + "\n").encode("utf-8"))
     self.cursor.execute(sql)
     self.conn.commit()
     return item
-'''
 
   def close_spider(self,spider):
     #self.outf.close()

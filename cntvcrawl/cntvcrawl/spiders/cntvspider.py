@@ -25,13 +25,15 @@ class cntvSpider(BaseSpider):
   start_urls = []
   keyword = ""
   topictitle = ""
-  def __init__(self,keyword=None,topictitle=None):
+  def __init__(self,keyword = None,topictitle = None):
+    print keyword
+    print topictitle
     assert keyword != None
     assert topictitle != None
     self.keyword = unicode(keyword,"utf-8")
     self.topictitle = unicode(topictitle,"utf-8")
     super(cntvSpider,self).__init__()
-    self.start_urls.append("http://search.cctv.com/search.php?qtext=%s&type=video" % (keyword,))
+    self.start_urls.append("http://search.cctv.com/search.php?qtext=%s&type=video&datepid=5" % (keyword,))
 
   def parse(self,response):
     nextpagerequest = []
