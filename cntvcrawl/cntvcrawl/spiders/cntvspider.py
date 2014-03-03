@@ -24,10 +24,12 @@ class cntvSpider(BaseSpider):
   allowed_domains = ["cctv.com"]
   start_urls = []
   keyword = ""
-
-  def __init__(self,keyword=None):
+  topictitle = ""
+  def __init__(self,keyword=None,topictitle=None):
     assert keyword != None
+    assert topictitle != None
     self.keyword = unicode(keyword,"utf-8")
+    self.topictitle = unicode(topictitle,"utf-8")
     super(cntvSpider,self).__init__()
     self.start_urls.append("http://search.cctv.com/search.php?qtext=%s&type=video" % (keyword,))
 
@@ -42,6 +44,7 @@ class cntvSpider(BaseSpider):
       videourl = video.xpath('./a[@class="p_txt"]/@href').extract()[0]
       if response.url[0:7] == 'http://':
         domain = response.url[7:]
+      item["topictitle"] = self.topictitle
       item["videourl"] = adddomainandclearvideourl(domain.split("/")[0],videourl)
       item["imgurl"] = video.xpath('.//img/@src').extract()[0]
       item["time"] = video.xpath('./p[@class="p_date"]/text()').extract()[0]

@@ -8,6 +8,7 @@ from scrapy.item import Item, Field
 class CntvcrawlItem(Item):
     # define the fields for your item here like:
     # name = Field()
+    topictitle = Field()
     title = Field()
     videourl = Field()
     imgurl = Field()
