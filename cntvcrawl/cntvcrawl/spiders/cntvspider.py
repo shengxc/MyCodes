@@ -33,7 +33,7 @@ class cntvSpider(BaseSpider):
     self.keyword = unicode(keyword,"utf-8")
     self.topictitle = unicode(topictitle,"utf-8")
     super(cntvSpider,self).__init__()
-    self.start_urls.append("http://search.cctv.com/search.php?qtext=%s&type=video&datepid=5" % (keyword,))
+    self.start_urls.append("http://search.cctv.com/search.php?qtext=%s&type=video" % (keyword,))
 
   def parse(self,response):
     nextpagerequest = []
