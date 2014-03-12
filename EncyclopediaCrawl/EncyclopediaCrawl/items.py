@@ -12,3 +12,8 @@ class EncyclopediacrawlItem(Item):
     infobox = Field()     #dict
     categories = Field()  #list
     pass
+
+class HudongcateItem(Item):
+  maincont = Field()
+  pagecont = Field()
+  pass
