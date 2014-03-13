@@ -11,7 +11,9 @@ import os
 import re
 from neo4jrestclient.client import GraphDatabase
 gdb = GraphDatabase("http://localhost:7474/db/data/")
-replacemap = {u'0':u'零',u'1':u'一',u'2':u'二',u'3':u'三',u'4':u'四',u'5':u'五',u'6':u'六',u'7':u'七',u'8':u'八',u'9':u'九',u'"':u'',u'（':u'',u'）':u'',u'“':u'',u'”':u''}
+fout = open("run.log","a")
+'''
+replacemap = {u'0':u'零',u'1':u'一',u'2':u'二',u'3':u'三',u'4':u'四',u'5':u'五',u'6':u'六',u'7':u'七',u'8':u'八',u'9':u'九',u'"':u'',u'（':u'',u'）':u'',u'“':u'',u'”':u'',u'-':u''}
 def makedictrepl(inputdict):
   rx = re.compile('|'.join(inputdict))
   def eachrepl(match):
@@ -20,16 +22,22 @@ def makedictrepl(inputdict):
     return rx.sub(eachrepl,text)
   return repl
 typereplacefunc = makedictrepl(replacemap)
-
-def dealnodename(nodename):
-  nodename = nodename.strip()
-  return nodename.replace("\\",",").replace('"','\\"')
-
-
 def dealtype(elemtype):
   elemtype = elemtype.strip()
-  elemtype.replace(".","")    #delete . character in type
-  return typereplacefunc(elemtype)
+  res = elemtype.replace(u".",u"")    #delete . character in type
+  res = typereplacefunc(elemtype)
+  if elemtype != res:
+    fout.write(("typechange:" + elemtyp + "-->" + res + "\n").encode("utf-8"))
+    fout.flush()
+  return res
+'''
+def dealname(nodename):
+  nodename = nodename.strip()
+  res = nodename.replace("\\",",").replace('"','\\"')
+  if nodename != res:
+    fout.write(("nodenamechanged:" + nodename + "-->" + res + "\n").encode("utf-8"))
+    fout.flush()
+  return res
 
 def execute(query):
   try:
@@ -38,39 +46,43 @@ def execute(query):
     print "wrong:\t",query
     pass
 
-def addnode(name,categories = []):
-  def isexist(name):
-    testexistquery = '''match (n {name:"%s"}) return count(n)''' % name
+def addnode(nodetype,nodename):
+  assert(nodetype == 'ENTITY' or nodetype == 'CATEGORY')
+  def isexist(nodetype,nodename):
+    testexistquery = '''match (n:%s {name:"%s"}) return count(n)''' % (nodetype,nodename)
     res = execute(testexistquery)
     return res[0][0] > 0
-  if not isexist(name):
-    if len(categories) > 0:
-      addnodequery = '''create (n :%s {name:"%s"})''' % (":".join(categories),name)
-    else:
-      addnodequery = '''create (n {name:"%s"})''' % (name)
+  if not isexist(nodetype,nodename):
+    addnodequery = '''create (n:%s {name:"%s"})''' % (nodetype,nodename)
     execute(addnodequery)
-  else:
-    if len(categories) > 0:
-      editnodequery = '''match (n {name:"%s"}) set n:%s''' % (name,":".join(categories))
-      execute(editnodequery)
 
-def addrel(nodename1,nodename2,relname):
-  addnode(nodename1)
-  addnode(nodename2)
-  addrelquery = '''match (ent {name:"%s"}),(att {name:"%s"}) create ent-[:%s]->att''' % (nodename1,nodename2,relname)
+def addrel(nodename1,nodename2,reltype,relname=None):
+  assert(reltype == 'PROPERTY' or reltype == 'CATEGORY')
+  if reltype == 'PROPERTY':
+    addrelquery = '''match (ent:ENTITY {name:"%s"}),(att:ENTITY {name:"%s"}) create ent-[:%s {name:"%s"}]->att''' % (nodename1,nodename2,reltype,relname)
+  else:
+    addrelquery = '''match (ent:ENTITY {name:"%s"}),(cate:CATEGORY {name:"%s"}) create ent-[:%s]->cate''' % (nodename1,nodename2,reltype)
   execute(addrelquery)
 
 hudongfilename = "/media/sxc/Seagate Backup Plus Drive/EncyclopediaData/hudongbaikeknowledgesmerge.json"
 with open(hudongfilename) as inputfile:
   items = json.load(inputfile)
 for item in items:
-  infobox = item["infobox"]           #dict
-  entry = item["entry"].strip()       #unicode
+  entry = dealname(item["entry"])       #unicode
   categories = item["categories"]     #list
-  addnode(dealnodename(entry),map(dealtype,categories))
-  for k,v in infobox.items():
-    k = k.strip()
-    v = v.strip()
-    if k[-1] == u"：":
-      k = k[0:-1]
-    addrel(dealnodename(entry),dealnodename(v),dealtype(k))
+  infobox = item["infobox"]           #dict
+  for cate in categories:
+    cate = dealname(cate)
+    if cate == "":
+      continue
+    addnode("ENTITY",entry)
+    addnode("CATEGORY",cate)
+    addrel(entry,cate,"CATEGORY")
+  for prop,value in infobox.items():
+    value = dealname(value)
+    prop = dealname(prop)
+    if value == "" or prop == "":
+      continue
+    addnode("ENTITY",value)
+    addrel(entry,value,"PROPERTY",prop)
+fout.close()
