@@ -9,8 +9,9 @@
 import json
 import os
 import re
+import sys
 from neo4jrestclient.client import GraphDatabase
-gdb = GraphDatabase("http://localhost:7474/db/data/")
+gdb = GraphDatabase("http://10.21.31.91:7474/db/data/")
 fout = open("run.log","w")
 dealf = open("deal.log","w")
 
@@ -55,7 +56,8 @@ def addrel(nodename1,nodename2,reltype,relname=None):
       addrelquery = '''match (ent:ENTITY {name:"%s"}),(cate:CATEGORY {name:"%s"}) create ent-[:%s]->cate''' % (nodename1,nodename2,reltype)
     execute(addrelquery)
 
-hudongfilename = "/media/sxc/Seagate Backup Plus Drive/EncyclopediaData/hudongbaikeknowledgesmerge.json"
+#hudongfilename = "/media/sxc/Seagate Backup Plus Drive/EncyclopediaData/hudongbaikeknowledgesmerge.json"
+hudongfilename = sys.argv[1]
 with open(hudongfilename) as inputfile:
   items = json.load(inputfile)
 index = 0

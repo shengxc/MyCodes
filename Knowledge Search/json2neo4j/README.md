@@ -8,3 +8,5 @@
       表示一个节点属于某种类型
     2.entity节点之间PROPERTY类型的连接：
       表示infobox的关系，边的name值表示infobox的属性，被指向的节点表示infobox的值
+
+用法：python savehudongjson.py filename.json
