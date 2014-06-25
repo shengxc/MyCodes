@@ -1,16 +1,20 @@
+#-*- coding:utf-8 -*-
 #这份代码依赖于foodbk爬虫存入数据库的东西
 #目的是构建层次词典的xml文件，并把那个数据库的东西导进来
-#-*- coding:utf-8 -*-
 from lxml import etree as ET
 import MySQLdb
+def add_one_node(parent,node):
+  n = ET.SubElement(parent,"category")
+  n.attrib["name"] = node
+  return n
 def add_sons(parent,sons):
-  return [ET.SubElement(parent,son) for son in sons]
+  return [add_one_node(parent,son) for son in sons]
 def gettype(url):
   if "Category" in url:
     return "category"
   else:
     return "entity"
-root = ET.Element(u'实体')
+root = ET.Element('dict')
 tmp = [u'通用实体',u'食品安全实体']
 son_of_root = add_sons(root,tmp)
 #tmp = ['anatomy','automobile','facility','health_condition','holiday','job_title','movie','music_group','natural_disaster','operating_system','print_media','sport','technology','television_show','television_station','location']
