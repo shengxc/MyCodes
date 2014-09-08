@@ -1,0 +1,6753 @@
+中国	China
+阿尔巴尼亚	Albania
+爱尔巴桑	Elbasan
+迪勃拉	Dibra
+地拉那	Tirana
+都拉斯	Honduras
+发罗拉	Valona
+费里	Ferry
+吉诺卡斯特	Gjirokastra
+科尔察	Korca
+库克斯	Kukes
+莱什	Lash
+培拉特	Berat
+斯库台	Scutari
+阿尔及利亚	Algeria
+阿德拉尔	Adrar
+阿尔及尔	Algiers
+艾因·德夫拉	Ain Dearbhla
+艾因·蒂姆尚特	Ain Timshant
+安纳巴	Annaba
+奥兰	Oran
+巴特纳	Buttler
+贝贾亚	Bejaia
+贝沙尔	Beshr
+贝伊德	Beid
+比斯克拉	Biskra
+布尔吉·布阿雷里吉	Bugi Buararigi
+布利达	Blida
+布迈德斯	Bbu Aed J
+布依拉	Buira
+蒂巴扎	Tibaza
+蒂斯姆西勒特	Thys M Schiller Te
+盖尔达耶	Gail Daye
+盖尔马	Gelma
+罕西拉	Hanxila
+赫利赞	Helizan
+吉杰尔	Gijl
+杰勒法	Jelfa
+君士坦丁	Constantin
+拉格瓦特	La Ghemawat
+马斯卡拉	Mascia La
+麦迪亚	Medea
+密拉	Mylar
+莫斯塔加纳姆	Mositajianamu
+姆西拉	Msila
+纳阿马	Naama
+塞蒂夫	Setif
+赛伊达	Sada
+斯基克达	Skikda
+苏克·阿赫拉斯	Suk Akhlas
+塔里夫	Tarif
+塔曼拉塞特	Tamra Seth
+特贝萨	Tebessa
+特莱姆森	Te Ramsden
+提济乌祖	Tizi ouzou
+提亚雷特	Tia Leite
+廷杜夫	Tindouf
+瓦德	Ward
+瓦尔格拉	Vargo La
+乌姆布阿基	Umm Bbu Aki
+西迪贝勒阿贝斯	Sidi Belle Abes
+谢里夫	Sheriff
+伊利齐	Yiliqi
+阿富汗	Afghanistan
+赫拉特	Herat
+喀布尔	Kabul
+坎大哈	Kandaha
+马扎里沙里夫	Mazari Sharif
+阿根廷	Argentina
+巴拉那	Parana
+别德马	Viedma
+波萨达斯	Posadas
+布兰卡港	Blanca
+布宜诺斯艾利斯	Buenos Aires
+福莫萨	Formosa
+胡胡伊	Hu Huyi
+卡塔马卡	Catamarca
+科尔多瓦	Cordoba
+科连特斯	Corrientes
+克劳斯城	The city of Claus
+肯考迪娅	Ken Cody A
+拉里奥哈	Lalio Ha
+拉普拉塔	La Plata
+雷西斯滕匹亚	Resistencia
+里奥加耶戈斯	Leo Gallegos
+里奥夸尔托	Leo Guare Tor
+里瓦达维亚海军准将城	Comodoro Rivadavia
+罗萨里奥	Rosario
+罗森	Rosen
+马德普拉塔	Mardel Plata
+门多萨	Mendoza
+内乌肯	Neuquen
+萨尔塔	Salta
+圣地亚哥-德尔埃斯特罗	Santiago Del Estero
+圣菲	Santa Fe
+圣胡安	Sheng Huan
+圣拉斐尔	Rafael
+圣路易斯	Saint Louis
+圣罗莎	Santa Rosa
+圣米格尔-德图库曼	San Miguel de Tucuman
+圣尼古拉斯	San Nicolas
+特雷利乌	Torey Liou
+乌斯怀亚	Ushuaia
+阿拉伯联合酋长国	Arabia and the United Arab Emirates
+阿布扎比	Abu Zabi
+艾因	Ein
+迪拜	Dubai
+沙迦	Sharjah
+阿鲁巴	Aruba
+阿曼	Oman
+巴提奈地区	Al batinah region
+达希莱地区	Daxilai area
+东部地区	The eastern region
+马斯喀特省	Muscat Province
+穆桑达姆省	Mu Sandham Province
+内地地区	The mainland area
+中部地区	The central region
+佐法尔省	Dhofar
+阿塞拜疆	Azerbaijan
+阿布歇隆	Absheron
+哈奇马斯	Hacci Maas
+卡尔巴卡尔	Karl Bakar
+卡扎赫	Kazach
+连科兰	Lian Kelan
+密尔-卡拉巴赫	The Karabakh
+穆甘-萨连	Kur-mugan - link on Sacha
+纳戈尔诺－卡拉巴赫	Nagorno Karabakh
+纳希切万	Nakhichevan
+普利亚拉克斯	Puliyalakesi
+舍基	Shirky
+苏姆盖特	Shum Gate
+锡尔万	Silvan
+占贾	Ganja
+阿森松岛	Ascension Island
+埃及	Egypt
+阿斯旺	Aswan
+古尔代盖	Hurghada
+开罗	Cairo
+苏布拉开马	Sublake Ma
+亚历山大	Alexander
+埃塞俄比亚	Ethiopia
+阿法尔	Afall
+阿姆哈拉	Amhara
+奥罗米亚	Oromia
+宾香古尔	Bin Xiang Gul
+德雷达瓦	Delle Dava
+甘贝拉各族	All ethnic groups in Gambella
+哈勒里民族	Haller in national
+南方各族	All ethnic groups in Southern
+索马里	Somalia
+提格雷	Tigre
+亚的斯亚贝巴	Addisababa
+爱尔兰	Ireland
+奥法利	Offaly
+蒂珀雷里	Tipperary
+都柏林	Dublin
+多内加尔	Donegal
+戈尔韦	Galway
+基尔代尔	Kildare
+基尔肯尼	Gilbert Kenny
+卡范	Cavan
+卡洛	Carlo
+凯里	Kaili
+科克	Kirk
+克莱尔	Claire
+朗福德	Lang Fude
+劳斯	Routh
+崂斯	Laois
+利默里克	Limerick
+利特里姆	Leitrim
+罗斯康芒	Ross Kang Mang
+梅奥	Mayo
+米斯	Mis
+莫内根	Monaghan
+斯莱戈	Sligo
+威克洛	Wiklo
+韦克斯福德	Wexford
+沃特福德	Wouter Forde
+西米斯	Simis
+爱沙尼亚	Estonia
+贝尔瓦	Belwar
+哈留	Harju
+拉普拉	Rapla
+里亚内	Riane
+帕尔努	Parnu
+萨雷	Sa Lei
+塔尔图	Tartu
+瓦尔加	Varga
+维良地	Weiliangdi
+维鲁	Viru
+沃鲁	VRU
+希尤	Xi You
+耶尔韦	Jelved
+耶盖瓦	Egeva
+依达－维鲁	Aida - viru
+安道尔	Andorra
+安道尔城	Andorra la Vella
+奥尔迪诺	Orr Dino
+恩坎普	Encamp
+卡尼略	Canillo
+莱塞斯卡尔德－恩戈尔达	Lacey Scarl de and David Ngog as
+马萨纳	La Massana
+圣胡利娅－德洛里亚	Shenghuliyadeluoliya
+安哥拉	Angola
+北宽扎	Kwanza Norte
+北隆达	Lunda Norte
+本戈	Ben
+本格拉	Benguela
+比耶	Biyah
+卡宾达	Cabinda
+库内内	Cunene
+宽多库邦戈	Kuanduokubangge
+罗安达	Luanda
+马兰热	Marange
+莫希科	Mo Xike
+纳米贝	Namibe
+南宽扎	Nan Kuanzha
+南隆达	Nan Longda
+万博	Huambo
+威拉	Willa
+威热	In Uige
+扎伊尔	Zaire
+安圭拉	Anguilla
+安提瓜岛和巴布达	The island of Antigua and Barbuda
+澳大利亚	Australia
+北部地区	Northern region
+北帕默斯顿	North Palmerston
+达尔文	Darwin
+堪培拉	Canberra
+昆士兰	Queensland
+布里斯班	Brisbane
+黄金海岸	Gold Coast
+凯恩斯	Keynes
+日光海岸	Sunny day
+汤斯维尔	Townsville
+图文巴	Toowoomba
+南澳大利亚	South Australia
+阿德莱德	Adelaide
+奥古斯塔港	Port of Augusta
+甘比亚山	Mount Gambier
+怀阿拉	Whyalla
+林肯港	Port Lincoln
+默里布里奇	Murray Buri
+皮里港	Port Pirie
+维克托港	Port Victor
+塔斯马尼亚	Tasmania
+伯尼港	Port Bernie
+德文波特	Devenport
+霍巴特	Hobart
+朗塞斯顿	Ron Seth Don
+维多利亚	Victoria
+吉朗	Geelong
+墨尔本	Melbourne
+西澳大利亚	Western Australia
+奥尔巴尼	Albany
+班伯里	Banbury
+弗里曼特尔港	Freeman Fremantle port
+杰拉尔顿	Jay Lardon
+卡尔古利	Carle gurry
+曼哲拉	Manjera
+珀斯	Perth
+新南威尔士	New South Wales
+纽卡斯尔	Newcastle
+伍伦贡	Wollongong
+悉尼	Sydney
+奥地利	Austria
+布尔根兰	Burgenland
+蒂罗尔	Tyrol
+福拉尔贝格	Fuhrer Begg
+克恩顿	Kernton
+萨尔茨堡	Salzburg
+上奥地利	Austria
+施蒂利亚	Skei Tillya
+维也纳	Vienna
+下奥地利	Austria
+奥兰群岛	Aland Islands
+巴巴多斯岛	The island of Barbados
+巴布亚新几内亚	Papua New Guinea
+北部	North
+布干维尔	Bougainville
+东部高地	The Eastern Highlands
+东塞皮克	East Sepik
+东新不列颠	East New Britain
+恩加	Enga
+海湾	Gulf
+马当	The horse
+马努斯	Manus
+米尔恩湾	Milne Bay
+莫尔兹比港	Port Moresby
+莫罗贝	Morro Bay
+南部高地	The southern highlands
+钦布	Thimphu
+桑道恩	Sang Daoen
+西部	West
+西部高地	The West Highland
+西新不列颠	West New Britain
+新爱尔兰	The New Ireland
+巴哈马	The Bahamas
+巴基斯坦	Pakistan
+白沙瓦	Peshawar
+费萨拉巴德	Faisalabad
+故吉软瓦拉	Therefore	 soft Valla
+海德拉巴	Hyderabad
+卡拉奇	Karachi
+拉合尔	Lahore
+拉瓦尔品第	Rawalpindi
+木尔坦	Multan
+伊斯兰堡	Islamabad
+巴拉圭	Paraguay
+阿曼拜	Amanbai
+阿耶斯总统省	President Ayers Province
+巴拉瓜里	Bala Guari
+博克龙	Bo Kelong
+瓜伊拉	Guaira
+卡瓜苏	Angola
+卡嫩迪尤	Canen Di Jo
+卡萨帕	Casapa
+康塞普西翁	Concepcion
+科迪勒拉	Cordillera
+米西奥内斯	Mi Theo Ness
+涅恩布库	Ne Don Bbu Cu
+上巴拉圭	Paraguay
+上巴拉那	Parana
+圣佩德罗	San Pedro
+亚松森特别区	Asuncion special zone
+伊塔普亚	Yitapuya
+中央	The central
+巴勒斯坦	Palestinian
+加沙地带	The Gaza Strip
+西岸	West Bank
+巴林	Bahrain
+哈德	HUD
+哈马德	Hamad
+里法	In law
+麦纳麦	Manama
+穆哈拉格	Muharraq
+伊萨城	The city of Issa
+中部	Central section
+巴拿马	Panama
+巴西	Brazil
+阿克里	Akri
+阿拉戈斯	Arago J
+阿马帕	Amapa
+巴西利亚	Brasilia
+巴伊亚	Bahia
+北里奥格兰德	Rio Grande do Norte
+伯南布哥	Pernambuco
+戈亚斯	Goias
+朗多尼亚	Rond NIA
+里约热内卢	Rio De Janeiro
+罗赖马	Luo Laima
+马拉尼昂	Maranhao
+马托格罗索	Mato Grosso
+米纳斯吉拉斯	Minas Djilas
+南里奥格兰德	Rio Grande do Sul
+南马托格罗索	Mato Grosso do Sul
+帕拉	Para
+帕拉伊巴	Parra Iba
+皮奥伊	Pioi
+塞阿拉	Saara
+塞尔希培	Sergi Phoui
+圣埃斯皮里图	Espiritu Santo
+圣保罗	St Paul
+圣卡塔琳娜	Santa Catarina
+托坎廷斯	Tocantins
+亚马孙	The Amazon
+白俄罗斯	Belarus
+布列斯特	Brest
+戈梅利	Homyel
+格罗德诺	Hrodna
+明斯克市	The city of Minsk
+莫吉廖夫	Mogilev
+维捷布斯克	Vitebsk
+百慕大	Bermuda
+保加利亚	Bulgaria
+布尔加斯	Burgas
+卡斯科伏	Casco V
+鲁塞	Ruse
+洛维奇	Boris
+蒙塔纳	Montana
+普罗夫迪夫	Plovdiv
+索非亚	Sofia
+索非亚市	Sofia City
+瓦尔纳	Varna
+北马里亚纳群岛	Northern Mariana Islands
+贝宁	Benin
+阿黎博里	A Leigh Boli
+阿塔科拉	A Taccola
+滨海	Coastal
+波希康市	Wave and Kang City
+博尔古	Borgu
+大西洋	The Atlantic
+高原	Plateau
+库福	Kufu
+莫诺	Monod
+丘陵	Hills
+韦梅	Wei Mei
+峡谷	Canyon
+祖	Progenitor
+比利时	Belgium
+埃诺	Eno
+安特卫普	Antwerp
+布拉班特-瓦隆	The Walloon Brabant -
+布鲁塞尔	Brussels
+东佛兰德	East Flanders
+佛兰芒-布拉班特	Flemish Brabant
+列日	Liege
+林堡	Limburg
+卢森堡	Luxemburg
+那慕尔	Namur
+西佛兰德	The West Flanders
+冰岛	Iceland
+波多黎各	Puerto Rico
+波兰	Poland
+埃尔布隆格	El Blom G
+奥尔什丁	Orr J Martin
+奥斯特罗文卡	Oster Rowan C
+比得哥什	Bydgoszcz
+彼得库夫	Peter Cu J
+比托姆	Polonia Bytom
+比亚瓦波德拉斯卡	Biava Podlaska
+比亚维斯托克	Be Yavi Stoker
+波莱	Polet
+波兹南	Poznan
+达布罗瓦戈尼察	Dabuluowagenicha
+大波兰地区戈茹夫	Wielkopolska area Ge Ru Fu
+弗罗茨瓦夫	Wroclaw
+弗沃茨瓦韦克	F Watts Wa Wake
+格但斯克	G Dan Silk
+格丁尼亚	Gdynia
+格利维采	Glee Vee Ce
+格鲁琼兹	Grudziadz
+海乌姆	Kholm
+华沙	Warsaw
+霍茹夫	Huo Rufu
+卡利什	Kalish
+卡托维兹	Katowice
+凯尔采	Kielce
+科宁	Corning
+科沙林	Koshalin
+克拉科夫	Krakow
+克罗斯诺	Cross Nor
+拉多姆	Radom
+莱格尼察	Legge Ni Ca
+莱什诺	Leszno
+卢布林	Lublin
+鲁达	Lu Da
+罗兹	Rhodes
+绿山城	Green Mountain
+米什洛维采	Michelot Vee Ce
+皮瓦	Picowatt
+普热梅希尔	F Rzemysl
+普沃茨克	Pock
+切哈努夫	Che Hannu J
+热舒夫	Rzeszow
+什切青	Szczecin
+斯凯尔涅维采	Skaer Niewice
+斯武普斯克	The Slupsk
+苏瓦乌基	Suva U Ki
+索波特	Saubot
+索斯诺维茨	Sosnowiec
+塔尔努夫	Tal Nur J
+塔尔诺布热格	Tal Nobb Rzeg
+特切	Teqie
+托伦	Torun
+瓦乌布日赫	Wa Ubu Rich
+沃姆扎	OMA
+希米亚诺维采	Cilmi Jano Vee Ce
+希维诺乌伊希切	Heavey Nor U Isi Che
+希维托赫洛维采	Heavey Tuohy Lowe Ce
+谢德尔采	Schaede M Ce
+谢拉兹	Sheraz
+新松奇	Nowy sacz
+雅沃兹诺	Yawozinuo
+耶莱尼亚古拉	Jerzy Leni A Gura
+扎布热	Zabrze
+扎莫希奇	Za Mo Sich
+玻利维亚	Bolivia
+奥尔托	Alto
+奥鲁罗	Oruro
+贝尼	Beni
+波多西	Podosi
+基拉科洛	Kira Kolo
+科恰班巴	Cochabamba
+拉巴斯	La Paz
+潘多	Pan Duo
+丘基萨卡	Chuquisaca
+萨卡巴	Sacaba
+圣克鲁斯	Santa Cruz
+塔里哈	Tarija
+波斯尼亚和黑塞哥维那	Bosnia and Herzegovina
+波萨维纳	Posavina
+波斯尼亚－波德里涅	Bosnian Podrinje
+多米斯拉夫格勒	Domi Islla J Glenn
+黑塞哥维那－涅雷特瓦	Herzegovina Hesse Ne Leite Wa
+萨拉热窝	Sarajevo
+图兹拉－波德里涅	Tuzla Podrinje
+乌纳－萨纳	Una: SANA
+西波斯尼亚	Bosnia
+西黑塞哥维那	Hesse West Herzegovina
+泽尼察－多博伊	Zenica Doboj -
+中波斯尼亚	In Bosnia
+博茨瓦纳	Botswana
+伯利兹	Belize
+橘园	Orchard
+卡约	Cayo
+科罗萨尔	Crosa M
+斯坦港	Inn
+托莱多	Toledo
+不丹	Bhutan
+布基纳法索	Burkina Faso
+巴雷	Barre
+巴姆	BAM
+巴瓦	Bawa
+巴泽加	Baz GA
+波尼	Pawnee
+布尔古	Bulgu
+布尔基恩德	Burki Ende
+布古里巴	Bbu Guri Ba
+冈祖尔古	Gen Zur Gu
+古尔马	Gourma
+济罗	Ziro
+卡焦戈	Kadiogo
+凯内杜古	Kay Hei Modadugu
+科蒙加里	C Mon Gary
+科莫埃	Komoe
+孔皮恩加	Kong Pean Fagafaga
+孔西	Kong Xi
+库尔佩罗戈	Kul Pero Gore
+库尔维奥戈	Kul Vee Aogo
+库里滕加	Currie ten Fagafaga
+雷拉巴	Ray Rabbah
+罗卢姆	Loroum
+穆翁	Mu Weng
+纳门滕加	Na Montenga
+纳乌里	Nauri
+纳亚拉	Naara
+尼亚尼亚	NIA
+努姆比埃尔	Nur M Pierre
+帕索雷	Pasore
+塞诺	The
+桑吉	Sanchi
+桑马滕加	San Maarten Fagafaga
+苏鲁	Su Lu
+苏姆	Susan
+塔波阿	Tapoa
+图伊	Tui
+乌埃	Houet
+乌布里滕加	Ubu Lee ten Fagafaga
+乌达兰	Oudalan
+锡西里	Sissili
+亚加	Arteaga
+亚滕加	Ya Tengjia
+伊奥巴	Ioba
+宗德韦奥戈	Zonder Vee Aogo
+宗多马	Zondoma
+布隆迪	Burundi
+布班扎	Bubanza
+布鲁里	Buruli
+布琼布拉城市	Bujumbura City
+布琼布拉乡村	Rural Bujumbura
+恩戈齐	Ngzi
+基龙多	Kirundo
+基特加	Kitega
+卡鲁济	Karuzi
+卡扬扎	Callanza
+坎库佐	Kankuzo
+鲁塔纳	Rutana
+鲁伊吉	Lu Yiji
+马坎巴	Makamba
+穆拉姆维亚	Muramvya
+穆瓦洛	Muvalo
+穆因加	Mu Yinjia
+锡比托凯	Cibitoke
+布韦岛	Bouvet Island
+朝鲜	North Korea
+海州	Haizhou
+惠山	Huishan
+江界	Kanggye
+开城	Open city
+罗先	Luo Xian
+南浦	Nanpu
+平壤	Pyongyang
+清津	Chongjin
+沙里院	Sariwon
+咸兴	Hamhung
+新义州	Sinuiju
+元山	Wonsan
+丹麦	Denmark
+奥胡斯	Aarhus
+北日德兰	The North Jutland
+博恩霍尔姆	Bohn Holm
+菲特烈堡	Frederiksborg Palace
+菲茵	Fyn
+哥本哈根	Copenhagen
+里伯	Lieb
+灵克宾	Ringk Bing
+罗斯基勒	Roskilde
+南日德兰	South Jutland
+斯多斯特姆	J Dostum
+维堡	Viborg
+维厄勒	Viole
+西希兰	Xi Xilan
+德国	Germany
+阿恩斯贝格	A Byrness Begg
+爱尔福特	Erfurt
+安斯巴格	Ann Spargo
+奥格斯堡	Augsburg
+柏林	Berlin
+拜伊罗特	Bayreuth
+比勒费尔德	Bielefeld
+波茨坦	Potsdam
+波鸿	Bochum
+不来梅	Bremen
+不伦瑞克	Brunswick
+达姆施塔特	Darmstadt
+代特莫尔特	Detmold
+德累斯顿	Dresden
+德绍	Dessau
+杜塞尔多夫	Dusseldorf
+法兰克福	Frankfurt
+弗赖堡	Freiburg
+哈雷	Harley
+汉堡	Hamburger
+汉诺威	Hannover
+基尔	Kiel
+吉森	Giessen
+卡尔斯鲁厄	Karlsruhe
+卡塞尔	Cassell
+开姆尼斯	Chemnitz
+科布伦次	Koblenz
+科隆	Cologne
+莱比锡	Leipzig
+兰茨胡特	Lantz Huth
+吕讷堡	Luneburg
+马格德堡	Magdeburg
+曼海姆	Mannheim
+美因兹	Mainz
+明斯特	Muenster
+慕尼黑	Munich
+纽伦堡	Nuremberg
+什未林	Schwerin
+斯图加特	Stuttgart
+特里尔	Trier
+威斯巴登	Wiesbaden
+维尔茨堡	Wuerzburg
+东帝汶	East Timor
+阿伊莱乌	Aileu
+阿伊纳罗	Ai Nalo
+埃尔梅拉	Ermera
+安贝诺	Anbeinuo
+包考	Package test
+博博纳罗	Bo Bona Lo
+帝力	Dili
+科瓦利马	Koval Ma
+劳滕	Lautem
+利基卡	Liquica
+马纳图托	Manna Toto
+马努法伊	Manu Fay
+维克克	Vik
+多哥	Togo
+滨海区	Coastal zone
+草原区	Steppe region
+高原区	Plateau area
+卡拉区	Cara District
+中部区	The central area
+多米尼加	Dominica
+多米尼加共和国	Dominican Republic
+俄罗斯	Russia
+阿巴坎	Abakan
+阿尔汉格尔斯克	Arkhangelsk
+阿金斯科耶	Akin Skou Jerzy
+阿纳德尔	Anadyr
+阿斯特拉罕	Astrakhan
+埃利斯塔	Ellis Kobita
+奥廖尔	Orel
+奥伦堡	Orenburg
+巴尔瑙尔	Barnaul
+奔萨	Penza
+彼得罗巴甫洛夫斯克	Pietro Pavlov Fisk
+彼得罗扎沃茨克	Petrozavodsk
+彼尔姆	Boehm
+比罗比詹	Birobidzhan
+别尔哥罗德	Belgo Rod
+伯力	Bo Li
+布拉戈维申斯克	Blagoveshchensk
+布良斯克	Bryansk
+车里雅宾斯克	Chelyabinsk
+赤塔	Chita
+顿河畔罗斯托夫	Rostov on don
+鄂木斯克	Omsk
+伏尔加格勒	Volgograd
+弗拉基米尔	Vladimir
+弗拉季高加索	Fra Caucasus
+戈尔诺－阿尔泰斯克	Gorno Altai tesch
+格罗兹尼	Grozny
+海参崴	Vladivostok
+汉特－曼西斯克	Khanty mansiysk:
+基洛夫	Kirov
+加里宁格勒	Kaliningrad
+喀山	Kazan
+卡卢加	Kaluga
+科斯特罗马	Coster Roman
+克拉斯诺达尔	Krasnodar
+克拉斯诺亚尔斯克	Krasnoyarsk
+克麦罗沃	J Melo Wo
+克孜勒	The
+库德姆卡尔	Chude M Karl
+库尔干	Kurgan
+库尔斯克	Kursk
+利佩茨克	Lipetsk
+梁赞	Liang Zan
+马哈奇卡拉	Makhachkala
+马加丹	Ma Jiadan
+马加斯	Madagascar
+迈科普	Maikop
+摩尔曼斯克	Murmansk
+莫斯科	Moscow
+纳尔奇克	Nar Chick
+纳里扬马尔	Nari Jan Mar
+南萨哈林斯克	Yuzhno Sakhalinsk
+诺夫哥罗德	Novgorod
+帕拉纳	Parana
+普斯科夫	Pskov
+切博克萨雷	Che Bock Saleh
+切尔克斯克	Cherkessk
+秋明	Tyumen
+萨拉托夫	Saratov
+萨兰斯克	Saran Silk
+萨列哈尔德	Sa Leo Halder
+萨马拉	Samarra
+瑟克特夫卡尔	Sirk Teff Karl
+圣彼得堡	St Petersburg
+斯摩棱斯克	Smolensk
+斯塔夫罗波尔	Stavropol
+坦波夫	Tambov
+特维尔	Tver
+图拉	Tula
+托木斯克	Tomsk
+沃罗涅什	Vorone J
+沃洛格达	Vologda
+乌法	Ufa
+乌兰乌德	Ulam Uhde
+乌里扬诺夫斯克	Ulyanovsk
+乌斯季奥尔登斯基	Lucius G Alden J Ki
+下诺夫哥罗德	Nizhny Novgorod
+新西伯利亚	Novosibirsk
+雅库茨克	Yakutsk
+雅罗斯拉夫尔	Jaroslav M
+叶卡捷林堡	Yekaterinburg
+伊尔库茨克	Irkutsk
+伊热夫斯克	Izhevsk
+伊万诺沃	Ivanovo
+约什卡尔奥拉	Josh Karl Ola
+厄瓜多尔	Ecuador
+阿苏艾	A Suai
+埃尔奥罗	El Olo
+埃斯梅拉尔达斯	Esme Lal Das
+玻利瓦尔	Bolivar
+瓜亚斯	Guayas
+加拉帕戈斯	Gala Pargo J
+卡尔奇	Kalki
+卡尼亚尔	Cagniard
+科托帕希	Coto Patsy
+洛哈	Loja
+洛斯里奥斯	Los Rios
+马纳比	Manaby
+莫罗纳－圣地亚哥	Morona Santiago
+纳波，奥雷利亚纳	The Napo	 Orellana
+帕斯塔萨	Paz Tassa
+皮钦查	Pi Qincha
+钦博拉索	Cin Bo Russo
+萨莫拉－钦奇佩	Zamora Chinchipe
+苏昆毕奥斯	Sue Quinn Biot J
+通古拉瓦	Tungurahua
+因巴布拉	Hussein Babu La
+厄立特里亚	Eritrea
+安塞巴	Anseba
+北红海	The northern Red Sea
+加什·巴尔卡	Gaash Balka
+南部	South
+南红海	Nan Honghai
+法国	France
+阿尔勒	Arles
+阿雅克修	Aya Ajaccio
+艾克斯	Aike.
+奥尔良	Orlean
+巴黎	Paris
+贝桑松	Besancon
+第戎	Dijon
+弗雷瑞斯	Frey Reiss
+卡昂	Caen
+雷恩	Lei En
+里昂	Leon
+里尔	Lille
+利摩日	Limoges
+鲁昂	Rouen
+马赛	Marseille
+梅斯	Maes
+蒙彼利埃	Montpelier
+南特	Nantes
+尼斯	Kniss
+沙隆	Sellum
+图卢兹	Toulouse
+瓦朗斯	Valens
+亚眠	Amiens
+法罗群岛	The Faroe Islands
+法属波利尼西亚	French Polynesia
+法属圭亚那	French Guiana
+法属南部领地	French Southern Territories
+梵蒂冈	Vatican
+菲律宾	Philippines
+达沃	Davao
+卡卢坎	Kalucan
+马尼拉	Manila
+宿务	Cebu
+斐济	Fiji
+芬兰	Finland
+埃斯波	Espoo
+奥卢	Oulu
+波里	Pori
+博尔沃	Boerwo
+海门林纳	Hameenlinna
+赫尔辛基	Helsinki
+卡亚尼	Kayani
+科科拉	Kokora
+科特卡	Kotka
+库奥皮奥	Kuopio
+拉赫蒂	Lahti
+拉彭兰塔	La Pentti Lan Kobita
+罗瓦涅米	Rovaniemi
+玛丽港	Mariehamn
+米凯利	Mikkeli
+坦佩雷	Tampere
+图尔库	Turku
+瓦萨	Vaasa
+万塔	Vantaa
+约恩苏	Joensuu
+佛得角	Cape Verde
+保尔	Paul
+波多诺伏	Porto Novo
+博阿维斯塔岛	Boa Vista Island
+布拉瓦岛	Brava Island
+大里贝拉	Ribeira Grande
+福古岛	Fogo
+马尤岛	Ma Youdao
+莫斯特罗	Most Lo
+普拉亚	Praia
+萨尔岛	Sal Island
+圣安唐岛	St Tang Island
+圣地亚哥岛	Santiago Island
+圣多明戈	Santo Domingo
+圣菲利普	Philip
+圣米戈尔	Shengmigeer
+圣尼古拉岛	St. Nicola Island
+圣维森特岛	S o Vicente
+塔拉法尔	Tara Farr
+弗兰克群岛	The Frank Islands
+冈比亚	Gambia
+刚果	Congo
+刚果民主共和国	The Democratic Republic of the Congo
+哥伦比亚	Columbia
+阿劳卡	Arauca
+安提奥基亚	Antioquia
+北桑坦德	Norte de Santander
+波哥大首都区	Bogota	 the capital district
+博利瓦尔	Bolivar M
+博亚卡	Boyaka
+瓜维亚雷	Gua Vee Ale
+瓜希拉	Guachira
+瓜伊尼亚	Guiania
+金迪奥	Golden Dior
+卡尔达斯	Caldas
+卡克塔	Kakta
+卡萨纳雷	Kasanalei
+考卡	The Cauca
+考卡山谷	The Cauca Valley
+科尔多巴	Cordoba
+昆迪纳马卡	Cundinamarca
+利萨拉尔达	Lisalaerda
+马格达雷那	Magedaleina
+梅塔	Mehta
+纳里尼奥	Narino
+普图马约	Putumayo
+乔科	Qiao Ke
+塞萨尔	Cesar
+桑坦德	Santander
+圣安德烈斯-普罗维登西亚	San Andres Plo Weeden Thea
+苏克雷	Su Kelei
+托利马	Tolima
+维查达	Victoria Chadha
+沃佩斯	Lopes
+乌伊拉	Uira
+哥斯达黎加	Costa Rica
+阿拉胡埃拉	Ala Huw Ella
+埃雷迪亚	Heredia
+瓜纳卡斯特	Guanacaste
+卡塔戈	Cartago
+利蒙	Limon
+蓬塔雷纳斯	Ponta Leines
+圣何塞	San Jose
+格恩西岛	Guernsey
+格林纳达	Grenada
+格陵兰	Greenland
+古巴	Cuba
+奥尔金	Olgin
+比那尔德里奥	Pinal Delio
+比亚克拉拉	Villa Clara
+格拉玛	Granma
+关塔那摩	Guantanamo
+哈瓦那	Havana
+哈瓦那城	The city of Havana
+卡马圭	Camaguey
+拉斯图纳斯	Las Tunas
+马坦萨斯	Machtan Sass
+马亚里	Ma Yali
+曼萨尼罗	Mansa Nilo
+青年岛特区	Isla de la Juventud
+圣地亚哥	Santiago
+圣斯皮里图斯	Spiritus
+西恩富戈斯	Cienfuegos
+谢戈德阿维拉	Semyon Gold Avila
+瓜德罗普	Gua de Ropp
+关岛	Guam
+圭亚那	Guyana
+埃塞奎博群岛-西德梅拉拉	Essequibo islands West Demerara
+巴里马-瓦伊尼	Barry Wayne
+波默伦-苏佩纳姆	Pomeroon - Sauper Namm
+波塔罗-锡帕鲁尼	Potaro tin Paluni
+德梅拉拉-马海卡	De Melara - Mahai card
+东伯比斯-科兰太因	East Berbice Corran too because
+库尤尼-马扎鲁尼	Kuyuni e Rooney
+马海卡-伯比斯	Mohair card Berbice
+上德梅拉拉-伯比斯	Upper Demerara Berbice
+上塔库图-上埃塞奎博	Upper takutu upper Essequibo
+哈萨克斯坦	Kazakhstan
+阿尔卡累克	Aerkaleike
+阿克莫拉	Ake Mora
+阿克苏	Akesu
+阿克托别	Aktobe
+阿拉木图	Ala Mutu
+阿雷斯	Ares
+阿斯塔纳市	The city of Astana
+阿特劳	Atla
+埃基巴斯图兹	Erkki Ba Stulz
+巴尔喀什	Balkhash
+巴甫洛达尔	Ba P Lo Dahl
+北哈萨克斯坦	North Kazakhstan
+东哈萨克斯坦	East Kazakhstan
+济良诺夫斯克	Zyryanovsk
+江布尔	Jaunpur
+杰兹卡兹甘	Jerzy Katz Gan
+卡拉干达	Karaganda
+卡拉扎尔	C Lazar
+卡普恰盖	Kapchagay
+科斯塔奈	Costa Nai
+克孜勒奥尔达	Kyzy Le Olda
+肯套	Ken set
+库尔恰托夫	Kurchatov
+利萨科夫斯克	Lisa koves J
+列宁诺戈尔斯克	Lenin Nor Gore Silk
+鲁德内	Rudy
+曼格斯套	Mangos Tau
+南哈萨克斯坦	Southern Kazakhstan
+萨兰	Sa Lan
+塞梅伊	Saimeiyi
+沙赫京斯克	Shah Jines J
+斯捷普诺戈尔斯克	J Tepnogorsk
+铁克利	Tekeli
+铁米尔套	Temirtau
+突厥斯坦	Turkestan
+西哈萨克斯坦	West Kazakhstan
+扎纳奥津	Za Na O Zin
+海地	Haiti
+韩国	The Republic of Korea
+大邱	Daegu
+达城郡	Dalseong
+寿城区	Shou City
+大田	Field
+釜山	Busan
+光州	Kwangju
+济州特别自治道	Jeju Province
+江原道	Jiang Yuandao
+春川市	The city of Chuncheon
+东海市	The East China Sea city
+高城郡	Gao Chengjun
+横城郡	Hoengseong
+洪川郡	Hong Chuanjun
+华川郡	Hua Chuanjun
+江陵市	The city of Jiangling
+旌善郡	Jing Shanjun
+麟蹄郡	Inje
+宁越郡	Yeongwol gun
+平昌郡	Ping Changjun
+三陟市	Three Zhi City
+束草市	Sokcho
+太白市	Taebaek City
+铁原郡	Cheorwon
+襄阳郡	Xiangyang County
+杨口郡	Yanggu
+原州市	Wonju City
+京畿道	Gyeonggi do
+安城市	Ann City
+安山市	Ansan City
+安养市	Anyang City
+抱川市	Pocheon
+城南市	Seongnam City
+东豆川市	Dongducheon
+富川市	The city of Fuchuan
+高阳市	Gao Yang City
+光明市	Bright city
+广州市	The city of Guangzhou
+果川市	Gwacheon City
+河南市	The city of Henan
+华城市	China City
+加平郡	Gapyeong
+金浦市	Gimpo City
+九里市	Nine in the city
+军浦市	Gunpo
+骊州郡	Yeoju
+利川市	The city of Lichuan
+涟川郡	Yeoncheon County
+龙仁市	Yongin
+南杨州市	Namyangju
+平泽市	The Pyeongtaek City
+坡州市	Paju City
+始兴市	The city of Shixing
+水原市	Suwon City
+乌山市	Osan
+扬平郡	Yang Pingjun
+杨州市	Yang Zhou City
+仪旺市	Uiwang City
+议政府市	Uijeongbu City
+庆尚北道	North Gyeongsang Province
+安东市	Anton City
+奉化郡	Fenghua County
+高灵郡	Gao Lingjun
+龟尾市	Gumi
+金泉市	The city of Kimcheon
+军威郡	Gunwi gun
+醴泉郡	Yecheon
+浦项市	The city of Pohang
+漆谷郡	The paint Valley County
+淸道郡	Qing Dao County
+靑松郡	Qing Songjun
+庆山市	Qing Shan City
+庆州市	Gyeongju
+荣州市	Yeongju City
+尙州市	Chang Zhou City
+蔚珍郡	Uljin
+闻庆市	Mungyeong
+星州郡	Seongju
+义城郡	Uiseong County
+英阳郡	Yeongyang
+盈德郡	Yingde County
+永川市	The city of Yongchuan
+郁陵郡	Ulleung County
+庆尚南道	The Gyeongnam
+昌宁郡	Changning County
+昌原市	The city of Changwon
+固城郡	Gu Cheng County
+河东郡	East County
+金海市	Gimhae City
+晋州市	The city of Jinzhou
+居昌郡	Geochang
+巨济市	Geoje City
+梁山市	The city of Liangshan
+马山市	Masan City
+密阳市	Miryang City
+南海郡	County in the South China Sea
+山淸郡	Shan Qing County
+泗川市	Sacheon City
+统营市	Tongyeong
+陜川郡	Hapcheon
+咸安郡	Xian'an County
+咸阳郡	Xianyang County
+宜宁郡	Uiryeong gun
+鎭海市	Sea city town
+全罗北道	North Jeolla
+淳昌郡	Sunchang
+扶安郡	Puan County
+高敞郡	Gao Changjun
+金堤市	Gimje
+井邑市	Jeongeup City
+茂朱郡	Mao Zhujun
+南原市	Namwon
+全州市	The city of Quanzhou
+群山市	Mountains city
+任实郡	Imsil
+完州郡	Wanju gun
+益山市	Iksan City
+长水郡	Jangsu
+鎭安郡	Chun county
+全罗南道	South Jeolla Province
+宝城郡	Boseong
+高兴郡	Gao Xingjun
+谷城郡	Gucheng County
+莞岛郡	Wando
+光阳市	The city of Guangyang
+海南郡	Hainan County
+和顺郡	He Shunjun
+康津郡	Kang Jinjun
+丽水市	The city of Lishui
+灵光郡	Yeonggwang
+灵岩郡	Yeongam
+罗州市	Florida City
+木浦市	Mokpo City
+求礼郡	Gurye
+顺天市	The day city
+潭阳郡	Damyang gun
+务安郡	Muan
+咸平郡	Hampyeong
+新安郡	Xin'an County
+长城郡	County of the Great Wall
+长兴郡	Changxin County
+珍岛郡	Jindo County
+仁川	Inchon
+首尔	Seoul
+蔚山	Ulsan
+忠清北道	Chungcheong
+报恩郡	Counties
+曾坪郡	Jeungpyeong
+丹阳郡	Danyang County
+堤川市	Jecheon City
+槐山郡	Goesan
+淸原郡	Cheongwon County
+淸州市	Qing City
+沃川郡	Okcheon
+阴城郡	Yin County
+永同郡	Yeongdong
+鎭川郡	Chun Chuan County
+忠州市	Chungju
+忠清南道	South Chungcheong
+保宁市	Boryeong City
+扶余郡	Fuyu County
+公州市	Gongju City
+洪城郡	Hong Chengjun
+鸡龙市	Gyeryong
+锦山郡	Geumsan
+礼山郡	Yesan
+论山市	On the mountain city
+青阳郡	Qingyang County
+瑞山市	Seosan
+舒川郡	Shu Chuanjun
+泰安郡	Tai'an County
+唐津郡	Tang Jinjun
+天安市	Tian City
+牙山市	Asan
+燕岐郡	Yan Qijun
+荷兰	Holland
+阿尔梅勒	Al Mailer
+阿默斯福特	Amersfoort
+阿姆斯特丹	Amsterdam
+阿纳姆	Arnhem
+阿珀尔多伦	Apeldoorn
+阿森	A Sen
+埃德	Ed
+埃门	Emmen
+埃因霍芬	Eindhoven
+布雷达	Breda
+蒂尔堡	Tilburg
+多德雷赫特	Dordrecht
+恩斯赫德	Byrness Hurd
+格罗宁根	Groningen
+哈勒姆	Haarlem
+海牙	Hague
+霍夫多尔普	Hoff Doelp
+莱顿	Leiden
+莱利斯塔德	Riley Stader
+鹿特丹	Rotterdam
+吕伐登	Lv Fadeng
+马斯特里赫特	Master Richter
+米德尔堡	Middelburg
+奈梅亨	Nijmegen
+斯海尔托亨博思	J Hare Tor Henry Boss
+乌得勒支	Utrecht
+兹沃勒	Zwolle
+佐特尔梅	Inn Zoetermeer
+荷属安地列斯	The Netherlands Antilles
+赫德和麦克唐纳群岛	Hird and the Macdonald islands.
+洪都拉斯	Honduras
+阿特兰蒂达	Atelandida
+埃尔帕拉伊索	El Parra Eso
+奥科特佩克	Ocotepeque
+奥兰乔	Aolanqiao
+弗朗西斯科-莫拉桑	Francesco Morazan
+格拉西亚斯-阿迪奥斯	Gracias Dios
+海湾群岛	The Gulf Islands
+科尔特斯	Cortes
+科马亚瓜	Comayagua
+科潘	Copan
+伦皮拉	Lepira
+乔卢特卡	Jo Lute C
+乔罗马	Choroma
+山谷	Mountain valley
+圣巴巴拉	Santa Barbara
+因蒂布卡	Inti Bhuka
+约罗	Yolo
+基里巴斯	Kiribati
+菲尼克斯群岛	The Feinikesi Islands
+吉尔伯特群岛	The Gilbert Islands
+莱恩群岛	The Line Islands
+吉布提	Djibouti
+阿里萨比赫区	Ali sabieh region
+奥博克区	Obock District
+迪基勒区	Dikhil region
+塔朱拉区	Tadjoura region
+吉尔吉斯斯坦	Kyrgyzstan
+奥什	Osh
+巴特肯	Batken
+比什凯克市	The city of Bishkek
+楚河	Chu He
+贾拉拉巴德	Jalalabad
+卡拉巴尔塔	Kara Balta
+卡拉库尔	Carla Kul
+坎特	Kanter
+科克扬加克	Kirk Yenga J
+迈利赛	Mailisai
+纳伦	Naryn
+苏卢克图	Suluketu
+塔拉斯	Talas
+塔什库梅尔	Tash Cu Mel
+乌兹根	Uzgen
+伊塞克湖	Issyk KUL
+几内亚	Guinea
+博凯	Bo Kai
+恩泽雷科雷	Enzer Recco Ray
+法拉纳	Farana
+金迪亚	Jin Diya
+康康	Kang Kang
+科纳克里	Conakry
+拉贝	Rabe
+玛木	Planet
+几内亚比绍	Guinea Bissau
+加拿大	Canada
+阿伯茨福	Abbe F Phu
+埃德蒙顿	Edmonton
+奥沙瓦	Oshava
+巴里	Barry
+布列塔尼角	Thierry Breton
+多伦多	Toronto
+弗雷德里顿	Fred Lydon
+圭尔夫	Guelph
+哈利法克斯	Halifax
+哈密尔顿	Hamilton
+怀特霍斯	Whitehorse
+基劳纳	Jilaona
+基奇纳	Kitchener
+金斯敦	Kingston
+卡里加里	Calgary
+魁北克	Quebec
+里贾纳	Regina
+伦敦	London
+蒙特利尔	Montreal
+萨德伯里	Sudbury
+萨斯卡通	Saskatoon
+三河城	Sanhe Town
+桑德贝	Sang Debei
+舍布鲁克	Sh Brooke
+圣约翰斯	San Johns
+温哥华	Vancouver
+温尼伯	Winnipeg
+温莎	Windsor
+渥太华	Ottawa
+夏洛特敦	Charlottetown
+耶洛奈夫	Yellowknife
+伊魁特	Iqaluit
+加纳	Garner
+阿散蒂	Ashanti
+奥布阿西	O Bbu Aarthi
+布朗阿哈福	Brown Agha Phu
+大阿克拉	Accra
+东部	East
+上东部	Upper East
+上西部	The Upper West
+沃尔特	Walter
+加蓬	Gabon
+奥果韦-洛洛	Ogooue Lolo
+奥果韦-伊温多	Ogooue - iindo
+滨海奥果韦	Hamami Oka
+恩古涅	Ngoune
+河口	Estuary
+尼扬加	Yanga
+上奥果韦	On the Ogooue
+沃勒-恩特姆	Waller NTEM
+中奥果韦	In the Ogooue
+柬埔寨	Kampuchea
+奥多棉吉	Adobe Meanchey
+白马市	The White City
+柏威夏	Bai Weixia
+拜林市	The city of Pailin
+班迭棉吉	Banteay Meanchey
+磅清扬	Kampong Chhnang
+磅士卑	Kampong SPEU
+磅同	Kampong Thom
+磅湛	Kampong Cham
+波罗勉	Boluomian
+茶胶	Takeo
+柴桢	Chai Zhen
+干丹	Kandal
+戈公	Koh Kong
+贡布	Kampot
+金边市	Phnom Penh
+桔井	Kratie
+腊塔纳基里	Ratanakiri
+马德望	Battambang
+蒙多基里	Mondo Jiri
+菩萨	Bodhisattva
+上丁	Stung treng
+西哈努克市	The city of Sihanouk
+暹粒	Siem Reap
+捷克共和国	The Republic of Czech
+奥洛穆茨	Olomouc
+比尔森	Pilsen
+布拉格直辖市	Prague municipality directly under the central government
+赫拉德茨-克拉洛韦	Heladeci - Cola Lowe
+卡罗维发利	Karlovy Vary
+利贝雷克	Leigh Bbe Lake
+摩拉维亚-西里西亚	Moravia Silesia
+南摩拉维亚	Southern Moravia
+帕尔杜比采	Pal Dube Ce
+维索基纳	Wysocki Na
+乌斯季	UST
+中捷克	In Czech
+兹林	Zi Lin
+津巴布韦	Zimbabwe
+北马塔贝莱兰	Matabeleland North
+布拉瓦约	Bulawayo
+东马绍纳兰	Mashonaland East
+哈拉雷	Harare
+马尼卡兰	Manyika Lan
+马斯温戈	Maas Wingo
+南马塔贝莱兰	Matabeleland South
+西马绍纳兰	Mashonaland West
+中马绍纳兰	Mashonaland Central
+喀麦隆	Cameroon
+阿达马瓦	Ada Marva
+北端	Northern end
+西北	Northwest
+西南	Southwest
+卡塔尔	Qatar
+多哈	Doha
+古韦里耶	Gu Verri Jerzy
+豪尔	Howl
+杰里扬拜特奈	Jerry Jan Bait Nai
+赖扬	Lai Yang
+沃克拉	Walker
+乌姆锡拉勒	Umm Sirara
+朱迈利耶	Giulia Mailey Jerzy
+开曼群岛	The Cayman Islands
+科科斯群岛	The Cocos Islands
+科摩罗	The Comoros
+科特迪瓦	The Ivory Coast
+阿涅比	Aneby
+巴芬	Baffin
+邦达马河谷	Vallee Du Bandama
+登盖莱	Denggailai
+恩济－科莫埃	Enji - Como
+弗罗马格尔	Flohr Marg M
+湖泊	Lake
+马拉韦	Marave
+南邦达马	Lampang Dama
+南科莫埃	Nanke Moy
+萨桑德拉	Sa Sandra
+萨瓦纳	Sabana
+山地	A mountain country
+沃罗杜古	Volo Modadugu
+下萨桑德拉	Sa Sandra
+泻湖	Lagoon
+赞赞	Zambrotta
+中卡瓦利	Cavalli
+中科莫埃	In Como
+科威特	Kuwait
+克罗地亚	Croatia
+奥西耶克-巴拉尼亚	Osijek Baranja
+别洛瓦尔-比洛戈拉	Bjelovar bilogora
+滨海和山区	The coastal and mountainous areas
+波热加-斯拉沃尼亚	- slavonska Pozega
+布罗德-波萨维纳	Brod Posavina
+杜布罗夫斯克-内雷特瓦	Du Broff Neretva
+卡尔洛瓦茨	Karl Lovasz
+科普里夫尼察-克里热夫齐	Koprivnica - Kelirefuqi
+克拉皮纳-扎戈列	Krapina zagorje
+利卡-塞尼	Lika senj
+梅吉穆列	Meiji Mu Leo
+萨格勒布	Zagreb
+萨格勒布市	The city of Zagreb
+斯普利特-达尔马提亚	Split - Dalmatia
+瓦拉日丁	Varaz Martin
+维罗维蒂察-波德拉维纳	Virovitica podravina
+武科瓦尔-斯里耶姆	Vukovar syrmia
+希贝尼克-克宁	Ibenik Knin
+锡萨克-莫斯拉维纳	SISAK - Moss Ravenna
+伊斯特拉	Istria
+扎达尔	Zadall
+肯尼亚	Kenya
+埃尔格约-马拉奎特	El - Mara Cuito lattice
+巴林戈	Bahrain Ge
+邦戈马	Bungoma
+博美特	Bromate
+布希亚	Buhiya
+恩布	EMBU
+霍马湾	HOMA Bay
+基安布	Kiambu
+基里菲	Kirivier
+基里尼亚加	Jiri Nia Fagafaga
+基苏木	Kisumu
+基图伊	Kitui
+基西	KissI
+加里萨	Garcia
+卡卡梅加	Kaka Mejia
+卡耶亚多	Kaye A do
+凯里乔	Kericho
+夸勒	Kuale
+拉木	Wood
+莱基皮亚	Laikipia
+马查科斯	Ma Tsakos
+马瓜尼	Larger makueni
+马萨布布	Massa Bubu
+曼德拉	Mandela
+梅鲁	Mei Lu
+蒙巴萨	Mombasa
+米戈利	Migoli
+穆兰卡	Mulanka
+纳库鲁	Nakuru
+纳罗克	Narok
+南迪	Nandi
+内罗毕	Nairobi
+尼蒂	Niti
+尼亚米拉	Niami La
+年达鲁阿	Niandalua
+涅里	Nyeri
+桑布卢	Samburu
+塔纳河	The Tana River
+泰塔塔维塔	Taitata Vita
+特兰斯-恩佐亚	Terrance Nzona
+图尔卡纳	Turkana
+瓦吉尔	Vakil
+瓦辛基苏	Vasin Gesu
+韦希加	Wei Xijia
+西波克特	Si Burkett
+夏亚	Xia Ya
+伊希约洛	Isi John Lo
+库克群岛	The Cook Islands
+拉脱维亚	Latvia
+阿卢克斯内	A Luke Sneh
+爱兹克劳克雷	Ai Zik Locke Ray
+奥格雷	Alegre
+巴尔维	Barbe
+包斯卡	Bauska
+采西斯	Cesis
+多贝莱	Dobele
+古尔贝内	Gul Baire
+杰卡布皮尔斯	Jay Cab Pierce
+克拉斯拉瓦	Kelasilawa
+库尔迪加	Kul Deeja
+雷泽克内	Leizekenei
+里加	Riga
+利耶帕亚	Liepaja
+林巴济	Lin Baji
+卢扎	Ludza
+马多纳	Madonna
+普雷利	P
+萨尔杜斯	Sal Duus
+塔尔西	Talsi
+陶格夫皮尔斯	Tao G J Pierce
+图库马	Tukums
+瓦尔米耶拉	Val Mi Yela
+文茨皮尔斯	Vents Pierce
+叶尔加瓦	Ye M Gava
+莱索托	Lesotho
+伯里亚	Berea
+布塔布泰	Bbu Tab Tai
+古廷	Quthing
+加查斯内克	Gajah Snake
+莱里贝	Leribe
+马费滕	Ma Feiteng
+马塞卢	Ma Sailu
+莫哈莱斯胡克	Moehau Les Hook
+莫霍特隆	Moho Torrone
+塔巴采卡	Taba Ceka
+老挝	Laos
+阿速坡	Attapu
+波里坎赛	Bolikansai
+博乔	Boqiao
+川圹	Xieng Khouang
+丰沙里	Phongsaly
+甘蒙	Gammon
+华潘	Hua Pan
+琅勃拉邦	Luang Prabang
+琅南塔	Luang Namtha
+赛宋本行政特区	Xaisomboun
+色贡	Gong color
+沙拉湾	Saravan
+沙湾拿吉	Savannakhet
+沙耶武里	Shaye Wurie
+万象	Vientiane
+乌多姆赛	Oudomxay
+占巴塞	Champasak
+黎巴嫩	Lebanon
+贝卡	Rebecca
+贝鲁特	Beirut
+黎巴嫩山	Lebanon
+奈拜提耶市	Naibaitiye City
+利比里亚	Liberia
+巴波卢	Gbarpolu
+邦	State
+博波卢	Bo Bolu
+博米	Bomi
+大巴萨	Grand Bassa
+大吉德	Grand Gedeh
+大角山	Cape Mount
+大克鲁	Da Kelu
+菲什敦	Fishtown
+吉河	Ji River
+里弗塞斯	Leaf Seth
+洛法	Luo method
+马吉比	Magibi
+马里兰	Maryland
+蒙特塞拉多	Montserrado
+宁巴	Nimba
+锡诺	Sinoe
+利比亚	Libya
+立陶宛	Lithuania
+阿利图斯	Ali Matus
+考纳斯	Kaunas
+克莱佩达	Klaipeda
+马里扬泊列	Marijampol
+帕涅韦日斯	Panevez J
+陶拉格	Taurag
+特尔希艾	Ter F Ai
+维尔纽斯	Vilnius
+乌田纳	Utena
+希奥利艾	F Ollie Ai
+亚克曼	Ackerman
+列支敦士登	Liechtenstein
+留尼旺岛	Reunion Island
+迪基希	Dikshi
+格雷文马赫	Greven Maher
+卢旺达	Rwanda
+比温巴	Bimba
+布塔雷	Butare
+恩延扎	En Yanzha
+基本古	Jibengu
+基布耶	Kibuye
+基加利-恩加利	Kigali Ngali
+基加利市	The city of Kigali
+吉孔戈罗	Gio Kongo Lo
+吉塞尼	Gisenyi
+吉塔拉马	Gita Rama
+卡布加	Kabuga
+卢瓦马加纳	Luva Magana
+鲁汉戈	Lu Hange
+鲁亨盖里	Lou Henry Gary
+尚古古	Shang Gugu
+乌姆塔拉	Umm Tara
+罗马尼亚	Romania
+阿尔巴尤利亚	Alba Julia
+阿拉德	Arad
+奥拉迪亚	Oradea
+巴克乌	Bacau
+巴亚马雷	Baia Mare
+比斯特里察	Bistrica
+博托沙尼	Botho Shani
+布加勒斯特	Bucharest
+布拉索夫	Brasov
+布勒伊拉	Buller Ira
+布泽乌	Buzu
+德罗贝塔-塞维林堡	Drobeta turnu Severin
+德瓦	Der
+蒂米什瓦拉	Timisoara
+福克沙尼	Focsa Ni
+加拉茨	Galati
+久尔久	Giurgiu
+康斯坦察	Constanta
+克拉约瓦	J Rayo Wa
+克勒拉希	Keller Lash
+克卢日纳波卡	Cluj Napoca
+勒姆尼库沃尔恰	Le M Nicu Wall Ca
+雷希察	Lei Xicha
+梅尔库里亚丘克	Mel Currie A Chuck
+皮特什蒂	Peter J Siti
+皮亚特拉尼亚姆茨	Piyatelaniyamuci
+普洛耶什蒂	F Lo Yash Siti
+萨图·马雷	Satu Mare
+圣格奥尔基	San Georgi
+斯拉蒂纳	J Latina
+斯洛博齐亚	Slobbe Zia
+苏恰瓦	Suceava
+特尔戈维什泰	Ter Gore Vish Tai
+特尔古穆列什	Ter Gu Mu Lesh
+特尔古日乌	Targu Jiu
+图尔恰	Tulcea
+瓦斯卢伊	Vaz Lluy
+锡比乌	Sibiu
+雅西	Iasi
+亚厉山德里亚	Alexander Rya
+扎勒乌	Zalau
+马达加斯加	Madagascar
+安齐拉纳纳	Ann Tsiranana
+菲亚纳兰楚阿	Faye Yann Lan Chu A
+马哈赞加	Maha Xan Fagafaga
+塔那那利佛	Antananarivo
+图阿马西拉	Toua Masi La
+图利亚拉	Toliara
+马尔代夫	Maldives
+阿杜	Adu
+北阿里	North Ari
+北蒂拉杜马蒂	North Diladu Marty
+北马洛斯马杜卢	North Maluosimadulu
+北米拉杜马杜卢	North Mira Dumas Du Lu
+北尼兰杜	North kneeland Du
+北苏瓦迪瓦	North suvadiva
+法迪福卢	Fadifulu
+费利杜	Felidou
+福阿穆拉库	Foa Mulla Cu
+哈杜马蒂	Radu Marty
+科卢马杜卢	Collu Madhu Lou
+马累	Male
+马累岛	Male Island
+穆拉库	Muraku
+南阿里	South Ari
+南蒂拉杜马蒂	Nandiladu Marty
+南马洛斯马杜卢	Nan Malos Madhu Lou
+南米拉杜马杜卢	South Mila Duma Du Lu
+南尼兰杜	Nanni Landale
+南苏瓦迪瓦	South suvadiva
+马耳他	Malta
+马拉维	Mawlawi
+北部区	The northern region
+南部区	The Southern District
+中央区	The central area
+马来西亚	Malaysia
+槟榔屿	Penang
+北海	The North Sea
+槟城	Penang
+大山脚	Bukit Mertajam
+高渊	Gao Yuan
+玻璃市	Glass City
+加央	Kaya
+丁加奴	Ding Jianu
+甘马挽	Gan Mawan
+瓜拉丁加奴	Kuala Terengganu
+龙运	Dungun
+马江	Ma Jiang
+实兆	The real sign
+乌鲁	Ulu
+勿述	Not the
+吉打	Kedah
+巴东得腊	Padang terap
+笨筒	Stupid cylinder
+浮罗交怡	Langkawi
+哥打士打	Kota SETAR
+古邦巴素	Kubang pASU
+瓜拉姆达	Kuala muda
+华玲	Hua Ling
+居林	A series of
+万拉峇鲁	Venlafaxine Baru
+吉兰丹	Kelantan
+巴西富地	Pasir puteh
+巴西马	Baxi Ma
+丹那美拉	Tanah Merah
+道北	The road to the North
+登卓	Thein Zaw
+哥打巴鲁	Kota Bharu
+瓜拉吉赖	Gua Raj Lai
+话望生	Gua Musang
+马樟	Ma Zhang
+日里	Day
+吉隆坡	Kuala Lumpur
+马六甲	Malacca
+马六甲市	The city of Malacca
+亚罗牙也	Alor Gajah
+野新	Wild new
+纳闽	Labuan
+彭亨	Pahang
+百乐	Tupper
+北根	North root
+淡马鲁	Temerloh
+而连突	Jerantut
+关丹	Guan Dan
+金马仑高原	Cameron Highlands
+劳勿	Labour not
+立卑	Lipis
+马兰	Indian aster
+文冬	Wen Dong
+云冰	Yun Bing
+霹雳	Bang
+安顺	Anshun
+丹绒马	Tanjung Ma
+和丰	And Feng
+紅土坎	In red
+华都牙也	Batu Gajah
+江沙	Jiang Sha
+太平	Peace
+怡保	Ipoh
+柔佛	Johore
+笨珍	Pontian
+丰盛港	Mersing
+哥打丁宜	Kota Tinggi
+居銮	Kluang
+峇株巴辖	Batu Pahat
+麻坡	Ma Po
+昔加末	Segamat
+新山	Johor Bahru
+森美兰	Negeri Sembilan
+波德申	Podchen
+淡边	Light edge
+芙蓉	Lotus
+瓜拉庇劳	Guarapi Law
+林茂	Lin Mao
+仁保	Ren Bao
+日叻务	Jelebu
+沙巴	Sabah
+吧巴	Bar bar
+保佛	Beaufort
+比鲁兰	Bilulan
+必达士	Pitas
+兵南邦	Penampang
+担布南	Tambunan
+丹南	Tenom
+斗湖	Tawau
+斗亚兰	Dou Yalan
+哥打基纳巴鲁	Kota Kinabalu
+哥打马鲁都	Kota Marudu
+根地咬	Keningau town
+古达	The ancient
+古打毛律	Kota Belud
+古纳	Laguna
+瓜拉班尤	Kuala penyu
+京那巴登岸	Jingnabadengan
+兰脑	Blue brain
+拿笃	Lahad datu
+纳巴湾	Nabawan
+山打根	Sandakan
+西比陶	Eusebius of pottery
+仙本那	Xian Benna
+沙捞越	Sha Laoyue
+古晋	Kuching
+加帛	Kapit
+林梦	Lin Meng
+美里	Beauty
+民都鲁	Bintulu
+木胶	Wood glue
+木中	Mu Zhong
+三马拉汉	Kota samarahan
+斯里阿曼	Sri aman
+泗里街	Sarikei
+泗务	Sibu
+雪兰莪	Selangor
+八打灵	Petaling Jaya
+鹅麦	Gombak
+瓜拉冷岳	Gualalengyue
+瓜拉雪兰莪	Kuala Selangor
+沙白安南	Shah Bhai Annan
+乌鲁冷岳	Ulu Langat
+乌鲁雪兰莪	Hulu Selangor
+雪邦	Sepang
+马里	Mali
+巴马科首都区	Bamako Capital Region
+基达尔	Kidall
+加奥	Gao
+卡伊	Kaj
+库利科罗	Cooley C Lo
+莫普提	Mopti
+塞古	Sekou
+通布图	Timbuktu
+锡卡索	Sikasso
+马其顿	Macedonia
+马绍尔群岛	The Marshall Islands
+马提尼克	Martinique
+马约特岛	Mayotte
+曼岛	The Isle of man
+毛里求斯	Mauritius
+毛里塔尼亚	Mauritania
+阿萨巴	Athabasca
+卜拉克纳	Bo Rakner
+东胡德	Dong Hude
+戈尔戈勒	Gore Gale
+吉迪马卡	Gidi Maka
+努瓦迪布湾	Dakhlet Nouadhibou
+努瓦克肖特特区	The District of Nouakchott
+塔甘特	Tagant
+特拉扎	Trarza
+提里斯-宰穆尔	Tiris - kill Moore
+西胡德	Xi Hude
+因希里	Inchiri
+美国	America
+阿肯色	Arkansas
+费耶特维尔	Fayetteville
+史密斯堡	Fort Smith
+小石城	The Little Rock
+阿拉巴马	Alabama
+伯明罕	Bo Minghan
+蒙哥马利	Montgomerie
+莫比尔	Mobile
+阿拉斯加	Alaska
+安克雷奇	Anke Leitch
+费尔班克斯	Fairbanks
+朱诺	Zhu Nuo
+爱达荷	Idaho
+爱达荷福尔斯	The Idaho Fowles
+波卡特洛	R Tero
+博伊西	Boise
+布莱克富特	Black Foote
+科达伦	Kodalen
+刘易斯顿	Lewis Don
+墨菲	Murphy
+楠帕	Nan Pa
+岂彻姆	Ketchum
+森瓦利	Sonwali
+亚美利加瀑布城	American Falls
+爱荷华	Iowa
+达文波特	Davenport
+得梅因	De Meiyin
+锡达拉皮兹	Cedar Rapids
+北达科他	North Dakota
+俾斯麦	Bismarck
+大福克斯	Big Fawkes
+法戈	Fargo
+迈诺特	Minot
+北卡罗来纳	North Carolina
+艾许维尔	Asheville
+杜罕	Du Han
+格林斯伯勒	Greensboro
+教堂山	Chapel Hill
+罗利	Rowley
+洛利杜罕都会区	Raleigh Durham metropolitan area
+夏洛特	Sherlock
+宾夕法尼亚	Pennsylvania
+阿伦敦	Allentown
+费城	Philadelphia
+匹兹堡	Pittsburgh
+德克萨斯	Texas
+埃尔帕索	El Paso
+奥斯汀	Austen
+达拉斯	Dallas
+哥帕斯基斯蒂	Gopal J Keith Siti
+交维斯顿	Weiss meal
+拉雷多	Laredo
+麦亚伦	Mark Aaron
+圣安东尼奥	Sanantonio
+休斯敦	Houston
+俄亥俄	The Ohio
+代顿	Dayton
+哥伦布	Columbo
+克利夫兰	Cleveland
+辛辛那提	Cincinnati
+俄克拉荷马	Oklahoma
+俄克拉荷马城	Oklahoma City
+诺曼	Norman
+塔尔萨	The Tulsa
+俄勒冈	Oregon
+本德	Bend
+波特兰	Portland
+达尔斯	Dalles
+蒂拉穆克	Teela Muck
+格兰茨帕斯	Glantz Paz
+胡德里弗	Hood Leaf
+火山口湖	The volcano Lake
+科瓦利斯	Corvallis
+库斯贝	Kusberg
+梅德福	Medford
+塞勒姆	Salem
+圣海伦斯	St Helens
+斯普林菲尔德	Springfield
+尤金	Eugene
+佛罗里达	Florida
+奥兰多	Orlando
+基韦斯特	Key West
+杰克逊维尔	Jacksonville
+卡纳维尔角	Cape Canaveral
+罗德岱堡	Fort Lauderdale
+迈阿密	Miami
+圣彼德斯堡市	St. Petersburg City
+塔拉哈西	Tallahassee
+坦帕	Tampa
+佛蒙特	Vermont
+伯灵顿	Burlington
+拉特兰	Rutland
+南伯灵顿	South Burlington
+哥伦比亚特区	Columbia zone
+华盛顿哥伦比亚特区	Washington Columbia zone
+华盛顿	Washington
+斯波坎	Spokane
+塔科马	Tacoma
+西雅图	Seattle
+怀俄明	Wyoming
+埃文斯顿	Evans Don
+卡斯珀	Kasper
+拉勒米	Larami
+罗克斯普林斯	Rock Springs
+夏延	Cheyenne
+谢里登	Sheridan
+加利福尼亚	California
+旧金山	San Francisco
+洛杉矶	Losangeles
+圣迭戈	San Diego
+堪萨斯	Kansas
+阿比林	Abilene
+奥弗兰公园	Overland Park
+哈钦森	Hutchinson
+堪萨斯城	Kansas City
+莱文沃思	Levin worth
+劳伦斯	Laurence
+曼哈顿	Manhattan
+托皮卡	Topeka
+威奇托	Victor
+康涅狄格	Cone de G
+布里奇波特	Bridgeport
+达里恩	Darien
+格林尼治	Greenwich
+哈特福德	Hartford
+米德尔顿	Middleton
+纽黑文	Niu Heiwen
+韦斯特波特	West Porter
+沃特伯里	Waterbury
+新不列颠	New Britain
+科罗拉多	Colorado
+阿斯彭	Aspen
+奥罗拉	Aurora
+博尔德	Boulder
+大章克申	Grand Junction
+丹佛	Denver
+柯林斯堡	Fort Collins
+科罗拉多斯普林斯	Colorado Springs
+韦尔	Weil
+肯塔基	Kentucky
+列克星敦	Lexington
+路易斯维尔	Luis Weil
+欧文斯伯勒	Owens Berner
+路易斯安那	Louisiana
+巴吞鲁日	Baton Rouge
+什里夫波特	Shreveport
+新奥尔良	New Orleans
+罗德岛	Rhodes Island
+波塔基特	Porta Kit
+克兰斯顿	Cranston
+纽波特	Newport
+普罗维登斯	Providence
+韦斯特利	Westley
+文索基特	Woonsocket
+沃威克	Warwick
+巴尔的摩	Baltimore
+盖瑟斯堡	Gaithersburg
+罗克维尔	Rockville
+马萨诸塞	Massa Chusetts
+波士顿	Boston
+伍斯特	Wooster
+蒙大拿	Montana
+比灵斯	Billings
+大瀑布村	Great Falls
+米苏拉	Missoula
+密苏里	Missouri
+杰佛逊市	The city of Jefferson
+密西西比	Missy Siby
+比洛克西	Biloxi
+格尔夫波特	Geer J Porter
+格林维尔	Greenville
+哈蒂斯堡	Hattiesburg
+杰克逊	Jackson
+默里迪恩	Murray Dean
+维克斯堡	Fort Vickers
+密歇根	Michigan
+安娜堡	Ann Arbor
+巴特尔克里克	Battle Click
+贝城	Bay City
+大急流城	Grand Rapids
+迪尔伯恩	Dearborn
+底特律	Detroit
+弗林特	Flint
+怀恩多特	Wyandotte
+卡拉马袓	Kalamazoo
+兰辛	Lansing
+马斯基根	Muskegon
+庞菷亚克	Pang Zhou.
+萨吉诺	Saginaw
+苏圣玛丽	Sault Sainte Marie
+沃伦	Warren
+休伦港	Port Huron
+缅因	Maine
+班戈	Bangor
+明尼苏达	Minnesota
+罗切斯特	Rochester
+明尼阿波利斯	Minneapolis
+南达科他	South Dakota
+阿伯丁	Aberdeen
+拉皮德城	Rapid city
+苏福尔斯	Sue Fowles
+南卡罗来纳	South Carolina
+北查尔斯顿	North Charleston
+查尔斯顿	Charleston
+内布拉斯加	Nebraska
+奥马哈	Omaha
+贝尔维尤	Belville Jo
+林肯	Lincoln
+内华达	Nevada
+埃尔科	Elco
+北拉斯维加斯	North Las Vegas
+弗吉尼亚城	The city of Virginia
+亨德森	Henderson
+卡森城	Carson City
+拉斯维加斯	Las Vegas
+里诺	Reno
+斯帕克斯	Sparks
+纽约	New York
+布法罗	Buffalo
+纽约市	The city of New York
+特拉华	Delaware
+多佛	Dover
+纽瓦克	Newark
+威明顿	Wilmington
+田纳西	Tian Naxi
+布利斯托	Bliss Tor
+查塔努加	Char Thanou Fagafaga
+金斯波特	Jens Porter
+孟菲斯	Memphis
+纳什维尔	Nashville
+诺克斯维尔	Knoxville
+三城区	The three District
+士麦那	Smyrna
+斯普林希尔	Spring Hill
+约翰逊城	The city of Johnson
+威斯康星	Wisconsin
+阿普尓顿	Appleton
+奥什科什	Oshkosh
+格林贝	Green Bay
+基诺沙	Kenosha
+拉克罗斯	Lark Ross
+拉辛	Racine
+马尼托沃克	Manito Walker
+迈迪逊	Madison
+密尔沃基	Milwaukee
+欧克莱尓	Oakley you
+沃索	Wausau
+希博伊根	Cibo Egan
+维吉尼亚	Virginia
+弗吉尼亚比奇	Virginia Beach
+诺福克	Nuo Fuke
+切萨皮克	Chesapeake
+西佛吉尼亚	West Virginia
+亨廷顿	Huntington
+帕克斯堡	Parkersburg
+夏威夷	Hawaii
+凯卢阿	Kailua
+檀香山	Honolulu
+希洛	Hilo
+新罕布什尔	Singh Hampshire
+康科德	Concord
+曼彻斯特	Manchester
+纳舒厄	The Nashua
+新墨西哥	New Mexico
+阿尔伯克基	Albuquerque
+拉斯克鲁塞斯	Las Cruces
+罗斯韦尔	Roswell
+新泽西	New Jersey
+帕特森	Paterson
+泽西城	Ze Xicheng
+亚利桑那	Arizona
+凤凰城	Phoenix
+格兰代尔	Glenn Dyer
+梅萨	Mesa
+史卡兹代尔	Gao Katz Dyer
+坦普	Temple
+图森	Tucson
+优玛	U.MA
+伊利诺斯	Illinois
+奥尔顿	Alton
+布卢明顿	Bloomington
+丹维尓	Dan Weier
+迪卡尔布	Di Kalb
+迪凯持	Kaidi holding
+东圣路易斯	East Saint Louis
+厄巴纳-香槟	El Bana.
+盖尔斯堡	Galesburg
+卡本代尔	Caban Dyer
+罗克艾兰	Rock Island
+罗克福德	Rockford
+诺黙尔	Nuo Mo Er
+皮奥里亚	Peoria
+森特勒利亚	Sentele Leah
+沃其根	Waukegan
+芝加哥	Chicago
+印第安那	Indiana
+埃文斯维尔	Evans Weil
+韦恩堡	Wei Enbao
+印第安纳波利斯	Indianapolis
+犹他	Utah
+奥格登	Ogden
+雷登	Lei Deng
+欧仁	Oren
+帕克城	Pa Kecheng
+普罗沃	Provo
+圣乔治	St. George's
+西瓦利城	West Valley City
+盐湖城	The city of Saline Lake
+佐治亚	Georgia
+奥古斯塔	Augusta
+梅肯	Macon
+沙瓦纳	Savannah
+亚特兰大	Atlanta
+美属萨摩亚	American Samoa
+阿纳	Ana
+阿图阿	Atua
+艾加伊勒泰	Aiga-i-le-tai
+法塞莱莱阿加	Facey Hlalele Aga
+加盖福毛加	Fagafaga Guy Phu Mao Fagafaga
+加加埃毛加	GaGa E Mao Fagafaga
+帕劳利	Palauli
+萨图帕伊泰阿	Satu Pai Tai A
+萨瓦伊岛	Savoy Island
+图阿马萨加	Tuamasaga
+瓦奥福诺蒂	Waugh Fono Siti
+韦西加诺	Vee Si Cano
+乌波卢岛	Upolu Island
+美属外岛	The outer islands
+蒙古	Mongolia
+巴彦洪格尔	Ba Ian Hunger
+巴彦乌勒盖	Bayanwulegai
+布尔干	Burgan
+达尔汗乌勒	Darhan Ule
+东方	The East
+东戈壁	Dornogovi
+鄂尔浑	Orhon
+戈壁阿尔泰	The Gobi Altai
+戈壁苏木贝尔	Gebisumubeier
+后杭爱	Arkhangai
+科布多	Kobdo
+肯特	Kent
+库苏古尔	Cu Sugule
+南戈壁	South Gobi
+前杭爱	Vrkhangai
+色楞格	Selenge
+苏赫巴托尔	Sukhbaatar
+乌布苏	UVs
+乌兰巴托市	The city of Ulan Bator
+扎布汗	Zabkhan
+中戈壁	In Gobi
+蒙特塞拉特	Montserrat
+孟加拉	Bangladesh
+达卡	Dhaka
+吉大港	Chittagong
+库尔纳	Qurna
+密克罗尼西亚	Micronesia
+秘鲁	Peru
+阿雷基帕	Arequipa
+阿普里马克	A Primack
+阿亚库乔	Ayacucho
+安卡什	Ancash
+胡利亚卡	Ucayali
+胡宁	Hu Ning
+卡哈马卡	Cajamarca
+卡亚俄	Callao
+库斯科	Cuzco
+拉利伯塔德	Raleb Tad
+兰巴耶克	Lan Bajak
+利马	Lima
+洛雷托	Loreto
+马德雷德迪奥斯	Mildned Dios
+莫克瓜	Moquegua
+帕斯科	Pasco
+皮乌拉	Piura
+普诺	Puno
+钦博特	Chimbot
+钦查阿尔塔	Chincha Alta
+圣马丁	Saint Martin
+苏拉纳	Surana
+塔克纳	Tacna
+通贝斯	Tumbes
+瓦努科	Huanuco
+万卡维利卡	Vanko Velicka
+乌卡亚利	Uka Ali
+伊卡	ICA
+缅甸	Burma
+勃固省	Bago Province
+掸邦	Shan
+德林达依省	Tanintharyi Province
+克伦邦	Karen
+克钦邦	Ke Qinbang
+克耶邦	Kyebon
+马圭省	Magway
+曼德勒省	Mandalay Province
+孟邦	Meng Bang
+钦邦	Chin
+若开邦	Ruo Kaibang
+实皆省	Sagaing Province
+仰光省	Yangon Province
+伊洛瓦底省	The Irrawaddy
+摩尔多瓦	Moldova
+摩洛哥	Morocco
+丹吉尔	Tangier
+得土安	Tetuan
+非斯	Fez
+卡萨布兰卡	Casablanca
+拉巴特	Labatt
+马拉喀什	Marrakech
+梅克内斯	Meknes
+乌季达	Oujda
+西撒哈拉	Western Sahara
+摩纳哥	Monaco
+莫桑比克	Mozambique
+墨西哥	Mexico
+阿瓜斯卡连斯特	Aguascalientes NTE
+阿卡普尔科	Acapulco
+埃莫西约	Hermosillo
+埃佩切	Aipeiqie
+奥夫雷贡城	Auvray Obregon
+奥里萨巴	Ori Saba
+巴利城	Barre town
+巴亚尔塔港	Puerto Vallarta
+比利亚埃尔莫萨	Billy Yael Moosa
+波萨里卡	Poza Rica
+蒂华纳	Tijuana
+杜兰戈	Durango
+恩塞纳达	Ensenada
+瓜达拉哈拉	Guadalajara
+瓜纳华托	Guanajuato
+哈拉帕	Harappa
+华雷斯	Ciudad Juarez
+华雷斯港	Puerto Juarez
+卡门	Carmen
+科利马	Colima
+克雷塔罗	Queretaro
+库埃纳瓦卡	Coue Nava C
+库利阿坎	Cooley Akan
+夸察夸拉克斯	Kuachakualakesi
+莱昂	Leon
+雷诺萨	Reynosa
+洛斯莫奇斯	Los Mo Kiss
+马萨特兰	Mazatlan
+马塔莫罗斯	Matamoros
+梅里达	Merida
+蒙克洛瓦	Monk Lova
+蒙特雷	Monterey
+莫雷利亚	Morelia
+墨西哥城	Mexico City
+墨西卡利	Mexicali
+诺加莱斯	Nogales
+帕丘卡	Pachuca
+普埃布拉	Puebla
+奇尔潘辛戈	Chilpancingo
+奇瓦瓦	Chihuahua
+切图马尔	Chetumal
+萨尔蒂约	Sal Dieu
+萨卡特卡斯	Zacatecas
+塞拉亚	Zelaya
+圣路易斯波托亚	San Bo Toya
+塔帕丘拉	Tapachu La
+坦皮科	Tampico
+特拉斯卡拉	Tlaxcala
+特皮克	Twitpic
+特瓦坎	Tehuacan
+图斯特拉-古铁雷斯	Tuxtla Gutierrez
+托雷翁	Torreon
+托卢卡	Toluca
+瓦哈卡	Oaxaca
+维多利亚城	The city of Vitoria
+韦拉克鲁斯	Vera Cruz
+乌鲁阿潘	Houlou Apen
+新拉雷多	Nuevo Laredo
+伊拉普阿托	Illapu Ato
+纳米比亚	Namibia
+埃龙戈	Erongo
+奥汉圭纳	Ohangwena
+奥卡万戈	The Okavango
+奥马赫科	Omar Herko
+奥姆沙蒂	Aomushadi
+奥乔宗蒂约巴	Ojozon Siti Yoba
+奥沙纳	Oshana
+奥希科托	Ossie Coto
+哈达普	Hadap
+霍马斯	M. Homais.
+卡拉斯	Callas
+卡普里维	Caprivi
+南非	South Africa
+阿平顿	Upington
+艾利弗山	Ayliff
+彼德马里茨堡	Peter Marie F Bo
+彼德斯堡	Petersburg
+比勒陀利亚	Pretoria
+比索	The peso
+布雷达斯多普	Bray Das Dop
+布隆方丹	Bloemfontein
+布隆克斯特斯普利特	Bulongkesitesipulite
+德阿尔	Deal
+德班	Durban
+邓迪	Dundee
+东巴克利	East Barkley
+东伦敦	East London
+弗雷堡	Freiburg
+弗里尼欣	Vereeniging
+格罗布莱斯达尔	Grob Les Dahl
+基雅尼	Kiyani
+金伯利	Kimberley
+开普敦	Cape Town
+克莱克斯多普	Clarke J Dop
+库鲁曼	Kuruman
+昆士敦	Queenstown
+莱迪史密斯	Laidi Smith
+兰德方丹	Lan Defangdan
+理查兹湾	Richards Bay
+利斯滕堡	Lisitengbao
+姆库泽	Mkuze
+穆里斯堡	Moorreesburg
+内尔斯普雷特	Nelspruit
+尼尔斯特隆	Neil Strong
+乔治	George
+萨索尔堡	Sasolburg
+瑟孔达	Sekongda
+特克索波	Ixopo
+特隆普斯堡	Trompsburg
+跳羚	Springbok
+图拉马哈谢	Tuula Maha Semyon
+托霍延杜	Toho Jan Du
+韦茨肖克	Weitz shocr
+韦尔科姆	Weir Kome
+乌伦迪	Urundi
+乌姆塔塔	Umm Tata
+西博福特	The Ford
+谢普斯通港	Port Shepstone
+伊丽莎白港	Port Elizabeth
+约翰内斯堡	Johannesburg
+南极洲	Antarctica
+南乔治亚和南桑德威奇群岛	South Georgia and the South Sandwich Islands Sander
+瑙鲁	Nauru
+尼泊尔	Nepal
+巴格马蒂	The Baghmati
+道拉吉里	Dora Jiri
+甘达基	Gan Daji
+戈西	Koshi
+格尔纳利	Goerne Leigh
+贾纳克布尔	Janakpur
+拉布蒂	Raby
+蓝毗尼	Lumbini
+马哈卡利	Maha Kari
+梅吉	Mei Ji
+纳拉亚尼	Narayan Ni
+佩里	Perry
+萨加玛塔	Sacca Marta
+塞蒂	Sethi
+尼加拉瓜	Nicaragua
+埃斯特利	Estelle
+北大西洋	The North Atlantic
+博阿科	Boaco
+格拉纳达	Granada
+卡拉索	Carazo
+里瓦斯	Rivas
+马德里斯	Madriz
+马那瓜	Managua
+马萨亚	Masaya
+马塔加尔帕	Mata Gal Pa
+南大西洋	Southern the Atlantic
+奇南德加	Keenan Pedja
+琼塔莱斯	Joan Kobita Les
+圣胡安河	San Juan
+希诺特加	Synnott Fagafaga
+新塞哥维亚	Nueva Segovia
+尼日尔	Niger
+阿加德兹	Agades
+迪法	Madame
+蒂拉贝里	Teela Berry
+多索	Dosso
+津德尔	Zinder
+马拉迪	Maradi
+尼亚美市	The city of Niamey
+塔瓦	Vltava
+尼日利亚	Nigeria
+阿比亚	Abia
+奥博莫绍	Orb Mo Sao
+卡诺	Kano
+拉各斯	Lagos
+伊巴丹	Ibadan
+纽埃	Niue
+挪威	Norway
+阿克什胡斯	Akshay Hus
+奥普兰	Oppland
+奥斯陆市	The city of Oslo
+北特伦德拉格	The Nord Trondelag
+布斯克吕	Busk Lui
+东阿格德尔	Don Aage Del
+东福尔	Stfold
+芬马克	Finnmark
+海德马克	Hyde Mark
+霍达兰	Huo Dalan
+罗加兰	Luo Jialan
+默勒－鲁姆斯达尔	Moeller rum Starr
+南特伦德拉格	Nantes's rugby
+诺尔兰	Nordland
+松恩－菲尤拉讷	Sogn og fjordane
+泰勒马克	Taylor Mark
+特罗姆斯	Troms
+西阿格德尔	Sia Geder
+西福尔	The Vestfold
+帕劳群岛	Palau
+皮特凯恩	Pitcairn
+葡萄牙	Portugal
+滨海阿连特茹	Alentejo Litoral
+滨海皮尼亚尔	Binhaipiniyaer
+波尔图	Oporto
+杜罗	Du Luo
+恩特拉杜罗伏日	En Teladuluofuri
+法鲁	Faro
+丰沙尔	Funchal
+卡瓦多	Cavador
+科瓦贝拉	Cova Bela
+里斯本	Lisbon
+利巴特茹	Leigh Bart Ru
+梅地奥特茹	Meidiaoteru
+米尼奥-利马	Minho - Lima
+内贝拉北	Beira interior Norte
+内贝拉南	Beira interior Su
+内皮尼亚尔北	Neipiniyaerbei
+内皮尼亚尔南	Neipiniyaernan
+蓬塔德尔加达	Ponta Delgada
+塞图巴尔半岛	Saito Barr Peninsula
+山后	The mountain
+上阿连特茹	Alto Alentejo Province
+上特拉斯山	On the Atlas Mountains
+塔梅加	Tamega
+万福	Wanfu
+下阿连特茹	Lower Alentejo
+下伏日	The underlying day
+下蒙德古	Lower Mondego
+中阿连特茹	Alentejo Central
+乔治亚	Georgia
+日本	Japan
+爱媛	Ai Yuan
+爱知	Aichi
+北海道	Hokkaido
+兵库	Hyogo
+冲绳	Okinawa
+茨城	Ibaraki
+大阪	Osaka
+大分	Oita
+岛根	Shimane
+徳岛	Tokushima
+东京	Tokyo
+福岛	Fukushima
+福冈	Fukuoka
+福井	Fukui
+富山	Toyama
+冈山	Okayama
+高知	Kochi
+宮城	Gong Cheng
+宫崎	Miyazaki
+广岛	Hiroshima
+和歌山	Wakayama
+京都	Kyoto
+静冈	Shizuoka
+枥木	Tochigi
+鹿儿岛	Kagoshima
+奈良	Nara
+鸟取	Tottori
+岐阜	Gifu
+埼玉	Saitama
+千叶	Chiba
+青森	Aomori
+秋田	Akita
+群马	Gunma
+三重	Triple
+山口	Pass
+山梨	Yamanashi
+山形	Yamagata
+神奈川	Kanagawa
+石川	Ishikawa
+香川	Kagawa
+新潟	Niigata
+熊本	Xiongben
+岩手	Iwate
+长崎	Nagasaki
+长野	Nagano
+滋贺	Shiga
+佐贺	Saga
+瑞典	Sweden
+北博滕	Norrbotten
+布莱金厄	Blacking Maher
+达拉纳	Dalarna
+东约特兰	Sterg tland at the height of
+厄勒布鲁	Orebro
+哥得兰	Gotland
+哈兰	Haran
+卡尔马	Kalmar
+克鲁努贝里	Crew Nur Berry
+南曼兰	Nan Manlan
+斯德哥尔摩	Stockholm
+斯科耐	Si Kenai
+韦姆兰	Wei Mulan
+乌普萨拉	Uppsala
+西博滕	Dorotea
+西曼兰	Xi Manlan
+西诺尔兰	V sternorrland
+西约特兰	Vstergtland
+延雪平	Yan Xueping
+耶夫勒堡	Gavleborg
+耶姆特兰	Yam Tran
+瑞士	Switzerland
+阿尔高	Argaw
+巴塞尔城市	Basel City
+巴塞尔乡村	Rural Basel
+伯尔尼	Bern
+楚格	Chu Ge
+弗里堡	Fribourg
+格拉鲁斯	Guerra Ruth
+格劳宾登	Grau Bindon
+卢塞恩	Luzern
+洛桑	Lausanne
+纳沙泰尔	Neuchatel
+内阿彭策尔	Hei Appen Che M
+日内瓦	Geneva
+汝拉	The Jura
+沙夫豪森	Schafhausen
+上瓦尔登	Obwalden
+圣加仑	St Gallen
+施维茨	Schwyz
+苏黎世	Zurich
+索洛图恩	Solo Thun
+提契诺	Ticino
+图尔高	Thurgau
+瓦莱	Anderson
+外阿彭策尔	Appenzell ausserrhon
+沃	Wo
+乌里	URI
+下瓦尔登	Nidwalden
+萨尔瓦多	Salvatore
+阿波帕	Apopa
+阿瓦查潘	Aava Chapa
+查拉特南戈	Char Larter Nango
+德尔加多	Delgado
+基埃-恩特姆	Jiai - NTEM
+卡瓦尼亚斯	Cabanas
+库斯卡特兰	Kustka Tran
+拉乌尼翁	La Uni Von
+梅基卡诺斯	Mekki Canose
+莫拉桑	Morazan
+圣安娜	Santa Ana
+圣米格尔	San Miguel
+圣萨尔瓦多	San Salvador
+圣维森特	San Vicente
+松索纳特	Song Alfonso Nat
+索亚潘戈	Soya Pam Gore
+韦莱-恩萨斯	Willis - en Texas
+乌苏卢坦	Wusu Lou Staw
+伊洛潘戈	Ehlo Pam Gore
+中南	South Africa
+萨摩亚	Samoa
+塞尔维亚	黑山	Serbia	 Montenegro
+贝尔格莱德	Belgrade
+波德戈里察	Bo Dego Richard
+克拉古涅瓦茨	Cola Gu Neva F
+尼什	NIS
+诺维萨德	Novi Sad
+普里什蒂纳	Pristina
+苏博蒂察	Subotic Ca
+泽蒙	Zemun
+塞拉利昂	Sierra Leone
+西部区	The western region
+塞内加尔	Senegal
+达喀尔	Dakar
+法蒂克	Fatic
+济金绍尔	Zi Kim Sauer
+捷斯	Thies
+久尔贝勒	Ju M Belle
+考拉克	Karak
+科尔达	Korda
+卢加	Lu Jia
+马塔姆	Matam
+圣路易	St. Louis
+坦巴昆达	Tamba Kunda
+塞浦路斯	Cyprus
+法马古斯塔	Famagusta
+凯里尼亚	Kyrenia
+拉纳卡	Larnaca
+利马索尔	Limassol
+尼科西亚	Nicosia
+帕福斯	Paphos
+塞舌尔	The Seychelles
+沙特阿拉伯	Saudi Arabia
+阿尔阿尔	Al Al
+艾卜哈	Abha
+巴哈	Baja
+布赖代	Buraydah
+达曼	Dammam
+哈费尔巴廷	Ha Phil Battin
+哈伊勒	Hail
+海米斯穆谢特	Hamish Mu Semyon Te
+海耶	Haye
+胡富夫	Hu Fufu
+吉达	Jeddah
+吉赞	Jizan
+利雅得	Riyadh
+麦地那	Medina
+麦加	Mecca
+姆巴拉兹	Mba Raz
+纳季兰	Najran
+塞卡卡	Saikaka
+塔布克	Tabuk
+塔伊夫	Taif
+延布	Yanbu
+朱拜勒	Jubail
+圣诞岛	Christmas Island
+圣多美和普林西比	Sao Tome and Principe
+圣赫勒拿	Saint Helena
+圣基茨和尼维斯	Saint Kitts and Nevis
+圣卢西亚	Saint Lucia
+圣马力诺	San Marino
+圣皮埃尔和米克隆群岛	San Pierre and meters clone Islands
+圣文森特和格林纳丁斯	Saint Vincent and the Grenadines
+斯里兰卡	Sri Lanka
+阿努拉德普勒	Anuradhapura
+安帕赖	Ampara
+巴杜勒	Badulla
+拜蒂克洛	Bai Siti Chloe
+波隆纳鲁沃	Polonnaruwa
+汉班托特	Han Ben Toth
+基里诺奇	Kilinochchi
+加勒	Galle
+加姆珀哈	Gampe Ha
+贾夫纳	Jaffna
+卡卢特勒	Kalou Teller
+凯格勒	Kaigler
+康提	Kang Ti
+科伦坡	Colombo
+库鲁内格勒	Kuru Naegele
+拉特纳普勒	Ratner Poole
+马纳尔	Mannal
+马特莱	Matale
+马特勒	Mattle
+莫讷勒格勒	Moneragala
+穆莱蒂武	Mulady Vu
+努沃勒埃利耶	Nuovo Le Eli Jerzy
+普塔勒姆	Ptah Le M
+亭可马里	Trincomalee
+瓦武尼亚	Vavuniya
+斯洛伐克	Slovakia
+班斯卡-比斯特里察	Banska Bystrica
+布拉迪斯拉发	Bratislava
+科希策	Kosice
+尼特拉	Nitra
+普雷绍夫	Poulet Sao J
+日利纳	Zilina
+特尔纳瓦	Ter Nava
+特伦钦	Trencin
+斯洛文尼亚	Slovenia
+奥巴尔诺-克拉	Austrian Barnouw - carat
+奥斯雷德涅斯洛文	Aus Reid Niesloven
+波德拉夫	Bode Ralph
+波穆尔	Pomul
+多雷尼	Reni
+戈雷尼	Goleni
+戈里	Gori
+科洛	Colo
+诺特拉尼	Nott Rani
+萨维尼	Savigny
+斯波德涅波萨夫	Spodne Bo Saif
+扎萨夫	Zhasafu
+斯瓦尔巴和扬马廷	J Val Ba and Yang Ma Ting
+斯威士兰	Swaziland
+苏丹	Sultan
+赤道	The equator
+达尔富尔	Darfur
+加扎勒河	Bahr
+喀土穆	Khartoum
+科尔多凡	Kerr do Van
+上尼罗	On the Nile
+苏里南	Suriname
+布罗科蓬多	Brokopong do
+科罗尼	Rroney
+科默韦讷	Comer Vee Ne
+马罗韦讷	Mauro Vee Ne
+尼克里	Nicky
+帕拉马里博	Paramaribo
+萨拉马卡	Salama C
+瓦尼卡	Vanica
+西帕里韦尼	Si Parry Wayne
+所罗门群岛	Solomon Islands
+瓜达尔卡纳尔	Guadalcanal
+霍尼亚拉	Honiara
+拉纳尔和贝罗纳	Rennell and Bellona
+马基拉	Makira
+马莱塔	Maleta
+乔伊索	Qiaoyisuo
+泰莫图	Temotu
+伊萨贝尔	Isabel
+中部群岛	Central islands
+塔吉克斯坦	Tajikistan
+杜尚别	Dushanbe
+霍罗格	Horog
+卡尼巴达姆	Carney Badam
+科法尔尼洪	Kofarnihon
+苦盏	Khujand
+库尔干-秋别	Kurgan - Autumn don't
+库洛布	Kulob
+洛贡	Logone
+努雷克	Nurek
+彭吉肯特	Pentti Gio Kent
+萨班特	Sabant
+塔博沙尔	Thabo Schall
+图尔孙扎德	Tour Sunzad
+乌拉秋别	Wulaqiubie
+伊斯法拉	Isfara
+泰国	Thailand
+安纳乍能	Amnat Charoen
+巴蜀	Sichuan
+巴吞他尼	Pathum Thani
+巴真	Obama really
+北碧	Kanchanaburi
+北标	North marker
+北大年	Pattani
+北揽	Just north of
+北榄坡	North Slope Rugby
+北柳	Bei Liu
+碧差汶	Phetchabun
+博达伦	Bodalun
+猜那	Guess it
+猜也奔	Chaiyaphum
+程逸	Cheng Yi
+春蓬	Chumphon
+春武里	Chonburi
+达	As
+达叻	Trat
+大城	The big city
+董里	Dong Li
+佛丕	Phetchaburi
+佛统	Nakhon Pathom
+甘烹碧	Gan Pengbi
+红统	Red series
+华富里	Hua Fuli
+加拉信	Kalasin
+甲米	Krabi
+尖竹汶	Chanthaburi
+孔敬	Khon Kaen
+拉农	Agricultural
+廊开	Nongkhai
+廊莫那浦	Langmonapu
+叻丕	Ratchaburi
+黎	Li
+黎逸	Li Yi
+龙仔厝	Longzaicuo
+罗勇	Luo Yong
+洛坤	Luo Kun
+玛哈沙拉堪	Maha Sarah Ca
+曼谷	Bangkok
+莫达汉	Mo Dahan
+那空那育	Nakhon Nayok
+那空帕农	Nakongpanong
+难	Hard
+南奔	Lamphun
+暖武里	Nonthaburi
+帕	PA
+帕尧	Pa Yao
+攀牙	Phang Nga
+彭世洛	Peng Shiluo
+披集	Phichit
+普吉	Phuket
+清莱	Chiang Rai
+清迈	Chiang Mai
+色军	Our army
+沙敦	Satun
+沙缴	SA Kaeo
+四色菊	Sisaket
+宋卡	The song card
+素可泰	Sukhothai
+素叻	Surat
+素林	Surin
+素攀武里	Suburi
+陶公	Narathiwat
+乌隆	Udon
+乌泰他尼	Uteta Ni
+乌汶	Ubon Ratchathani
+武里南	Buri RAM
+信武里	Sing Buri
+耶梭通	Yesuotong
+也拉	Pull
+夜丰颂	Mae Hong Son
+夜功	Night work
+坦桑尼亚	Tanzania
+阿鲁沙	Arusha
+奔巴北	Pemba North
+奔巴南	Pemba South
+达累斯萨拉姆	Dar Es Salaam
+多多马	Dodoma
+基戈马	Kighoma
+卡盖拉	Kagera
+林迪	Lin Di
+鲁夸	Rukwa
+鲁伍马	The Rovuma
+马腊	Ma La
+曼亚拉	Manyala
+莫洛戈罗	Mollo Gro
+姆贝亚	Mbella
+姆特瓦拉	M Thwala
+姆万扎	Mwanza
+乞力马扎罗	Kilimanjaro
+桑给巴尔	Zanzibar
+桑给巴尔北	Sanggeibaerbei
+桑给巴尔南	Sanggeibaernan
+桑给巴尔市和西	Sanggeibaershihexi
+塔波拉	Tapola
+坦噶	Tanga
+辛吉达	Singida
+欣延加	Xin Yanjia
+伊林加	Yi Linjia
+汤加	Tonga
+埃瓦	EWA
+哈派	Ha pie
+纽阿斯	Newas
+汤加塔布	Tonga Tab
+瓦瓦乌	Wawau
+特克斯和凯克特斯群岛	The Turks and Kaiketesi Islands
+特里斯坦达昆哈	Tristan was Kunha
+特立尼达和多巴哥	Trinidad and Tobago
+突尼斯	Tunisia
+艾尔亚奈	Al Viane
+巴杰	Badger
+本阿鲁斯	Ben Arous
+比塞大	Bizerte
+吉比利	Giinobily
+加贝斯	Jabez
+加夫萨	Gafsa
+坚杜拜	Jendouba
+卡夫	Kraft
+卡塞林	Casselin
+凯鲁万	Kairouan
+马赫迪耶	Mahdia
+马努巴	Manuba
+梅德宁	Mei Dening
+莫纳斯提尔	Mona Stier
+纳布勒	Nabeul
+斯法克斯	Sfax
+苏塞	Sousse
+泰塔温	Tatawin
+托泽尔	Tozer
+西迪布济德	Sidi Buzzy de
+锡勒亚奈	Siliana
+宰格万	Zai Gewan
+图瓦卢	Tuvalu
+土耳其	Turkey
+阿达纳	Adana
+阿德亚曼	Ade Ayman
+阿尔达罕	Aerdahan
+阿尔特温	Al Thwin
+阿菲永	Afyon
+阿克萨赖	AKSARAY
+阿勒	Alle
+阿马西亚	Amasya
+埃迪尔内	Edirne
+埃尔津詹	El Zincan
+埃尔祖鲁姆	Erzurum
+埃拉泽	Elaze
+埃斯基谢希尔	Aars Ki Semyon Hill
+艾登	Aydin
+安卡拉	Ankara
+安塔利亚	Antalya
+奥尔杜	Ordu
+巴尔腾	Bartestein
+巴勒克埃西尔	Ba Leke E Sill
+巴特曼	Bartman
+巴伊布尔特	Bai Burt
+比莱吉克	Pillai Girke
+比特利斯	Bitlis
+宾格尔	Bingle
+博卢	Bolu
+布尔杜尔	Bull Toure
+布尔萨	Bursa
+昌克勒	Chankler
+代尼兹利	Denizli
+迪亚巴克尔	Diyarbakir
+凡	All
+哈卡里	Hakari
+哈塔伊	Hatay
+基利斯	Kilis
+吉雷松	Ji Leisong
+加济安泰普	Gaziantep
+居米什哈内	Gu Hamish Hahne
+卡尔斯	Kars
+卡赫拉曼马拉什	Cachola Man Marash
+卡拉比克	Karabuk
+卡拉曼	Karaman
+卡斯塔莫努	Carsten Monu
+开塞利	Kayseri
+科贾埃利	Koca Eli
+柯克拉雷利	Kirk Gray Leigh
+科尼亚	Konya
+克尔谢希尔	Kerr Semyon Hill
+克勒克卡莱	Clerc Calle
+拉飞	Pull
+里泽	Rize
+马尔丁	Maltin
+马拉蒂亚	Mara Tia
+马尼萨	Manisa
+穆拉	Mora
+穆什	Mu Shen
+内夫谢希尔	Neff Semyon Hill
+尼代	Nigde
+恰纳卡莱	Canakkale
+乔鲁姆	Corum
+屈塔希亚	Kutahya
+萨卡里亚	Saka Rya
+萨姆松	Samsun
+泰基尔达	Tekirdag
+特拉布宗	Trabzonspor
+通杰利	Tungel
+托卡特	Tokat
+乌萨克	Wusake
+锡尔纳克	Xiernake
+锡尔特	Sirte
+锡诺普	Sinop
+锡瓦斯	Sivas
+伊迪尔	Idir
+伊切尔	ICEL
+伊斯帕尔塔	Isparta
+伊斯坦布尔	Istanbul
+伊兹密尔	Izmir
+约兹加特	Yuz Garet
+宗古尔达克	Zon Gul Dark
+土库曼斯坦	Turkmenistan
+阿哈尔	Akhal
+阿什哈巴德市	The city of Ashkhabad
+巴尔坎	Balkan
+达沙古兹	Darshan Gu Azee
+列巴普	Lebap
+马雷	Ma Lei
+涅比特达格	Nebitdag
+托克劳	Stockerau
+瓦利斯和福图纳	Wallis and Futuna
+瓦努阿图	Vanuatu
+马朗帕	Malampa
+彭纳马	Peng Nama
+桑马	Sanma
+塔菲阿	Tafia
+托尔巴	Tolba
+谢法	Xie Fa
+危地马拉	Guatemala
+埃尔普罗格雷索	El Plo Kreso
+埃斯昆特拉	Aars Quintela
+塞尔维亚	黑山	Serbia	 Montenegro
+胡蒂亚帕	Huw Tia Pa
+基切	Quiche
+克萨尔特南戈	J Salter Nango
+雷塔卢莱乌	Rita Lule U
+米克斯科	Mikesike
+佩滕	The pet é n
+奇基穆拉	Chi Kimeu La
+奇马尔特南戈	Chi Malte Nango
+萨卡帕	Zacapa
+萨卡特佩克斯	Sakatepeikesi
+上韦拉帕斯	Vera Paz
+圣马科斯	San Marcos
+苏奇特佩克斯	Sue Bridget Perks
+索洛拉	Solola
+托托尼卡潘	Tor Tony Caplan
+韦韦特南戈	Vee Waite Nango
+下韦拉帕斯	Vera Paz
+新城	Metro
+伊萨瓦尔	Issa Val
+维尔京群岛，美属	Virgin Islands	 American
+维尔京群岛，英属	Virgin Islands	 British
+委内瑞拉	Venezuela
+阿拉瓜	Aragua
+阿马库罗三角洲	The Orinoco Delta
+阿普雷	Apre
+安索阿特吉	AnseI Art Gio
+巴里纳斯	Barinas
+波图格萨	Pottu G Sa
+法尔孔	Falcon
+瓜里科	Guarico
+加拉加斯	Caracas
+塞尔维亚	黑山	Serbia	 Montenegro
+卡拉沃沃	Carabobo
+科赫德斯	Koch Des
+拉腊	Lara
+联邦属地	The federal territory
+米兰达	Miranda
+莫纳加斯	He
+苏利亚	Zulia
+塔奇拉	Tachira
+特鲁希略	Trujillo
+新埃斯帕塔	Nueva Esparta
+亚拉奎	Yaracuy
+文莱	Brunei
+乌干达	Uganda
+阿鲁阿	Arua
+阿帕克	Apak
+阿朱马尼	Arju Mani
+本迪布焦	Bundibugyo
+布吉里	Bugiri
+布西亚	Boothia
+布谢尼	Buseni
+恩通加莫	Don Tongia Mo
+古卢	Gulu
+霍伊马	Hoima
+基巴莱	Kibale
+基博加	Kiboga
+基恩乔乔	Kean Jojo
+基索罗	Kisoro
+基特古姆	Kit Gu M
+金贾	Jin Jia
+卡巴莱	Cabaret
+卡巴罗莱	Caballo Eli
+卡贝拉马伊多	Cabet Rama Ido
+卡兰加拉	Kalanga La
+卡姆文盖	Cam Vin Guy
+卡穆利	Camuli
+卡农古	Kanungu
+卡普乔鲁瓦	Kapp Jo Lou Wa
+卡塞塞	Cassese
+卡塔奎	Katakwi
+卡永加	Kayunga
+坎帕拉	Kampala
+科蒂多	Kotido
+库米	Kumi
+拉卡伊	Rakai
+利拉	Delilah
+卢韦罗	Lu Weiluo
+鲁昆吉里	Lou Quinn Jiri
+马萨卡	Masaka
+马辛迪	Masindi
+马尤盖	Ma Yougai
+莫罗托	Moroto
+莫约	Moyo
+姆巴拉拉	Mba Lara
+姆巴莱	Bale
+姆皮吉	Mpigi
+穆本德	Mu Bende
+穆科诺	Mukono
+纳卡皮里皮里特	Nakar Pirie Pirie Te
+纳卡松戈拉	Nakar Songo La
+内比	Internal ratio
+帕德尔	Padel
+帕利萨	Pallisa
+森巴布莱	Sembabule
+索罗提	Soroti
+托罗罗	Tororo
+瓦基索	Wakiso
+锡龙科	Sironko
+伊甘加	Iganga
+永贝	Yumbe
+乌克兰	Ukraine
+敖德萨	Odessa
+波尔塔瓦	Poltava
+第聂伯罗波得罗夫斯克	Dnipropetrovska
+顿涅茨克	Donetsk
+哈尔科夫	Kharkov
+赫尔松州	The state of Kherson
+赫梅利尼茨基	Beh Melli Nitsch Ki
+基辅	Kiev
+基洛夫格勒	Kirov Glenn
+捷尔诺波尔	Tier Arnaut Pohl
+克里米亚自治共和国	The Autonomous Republic of Crimea
+利沃夫	Lviv
+卢甘斯克	Lugansk
+罗夫诺	Luo Funuo
+尼古拉耶夫	Nicolaev
+切尔卡瑟	Cheel Kaser
+切尔尼戈夫	Chernigov
+切尔诺夫策	Chernivtsi
+日托米尔	Zhitomir
+苏梅	Sumy
+外喀尔巴阡	The outer Carpathian
+文尼察	Vinnitsa
+伊万－弗兰科夫州	Ivan Franco Rostov State
+扎波罗热	Za Bo Roger
+乌拉圭	Uruguay
+阿蒂加斯	Artigas
+杜拉斯诺	Dula Snow
+弗洛雷斯	Flores
+卡内洛内斯	Kane Rene J
+科洛尼亚	Colonia
+拉瓦耶哈	La Vayer Ha
+里韦拉	Rivera
+罗恰	Luo Qia
+马尔多纳多	Maldonado
+蒙得维的亚	Montevideo
+内格罗河	The Negro
+派桑杜	Paysandu
+萨尔托	Sarto
+塞罗拉尔戈	Cerro Largo
+三十三人	Thirty-three people
+索里亚诺	Soriano
+塔夸伦博	Tacuarembo
+乌兹别克斯坦	Uzbekistan
+安集延	An Jiyan
+布哈拉	Bukhara
+费尔干纳	Fergana
+花拉子模	Khorezm
+吉扎克	Dzhizak
+卡拉卡尔帕克斯坦共和国	Qaraqalpaqstan Respublikasy
+卡什卡达里亚	Kaska Daria
+纳曼干	Na Mangan
+纳沃伊	Navoiy
+撒马尔罕	Samarkand
+苏尔汉河	Surxondaryo
+塔什干	Tashkent
+塔什干市	The city of Tashkent
+锡尔河	SYR Darya
+西班牙	Spain
+阿尔梅里亚	Almeria
+阿尔瓦塞特	Albacete
+阿拉瓦	Arawa
+阿利坎特	Alicante
+阿斯图利亚斯	Asturias
+阿维拉	Avila
+奥伦塞	Ourense
+巴达霍斯	Badajoz
+巴利阿里	The Balearic
+巴利亚多利德	Valladolid
+巴伦西亚	Valencia
+巴塞罗那	Barcelona
+比斯开	Biscay
+布尔戈斯	Burgos
+哈恩	Hahn
+赫罗纳	Girona
+吉普斯夸	Guip
+加的斯	Cadiz
+卡塞雷斯	Caceres
+卡斯蒂利亚	Castilla
+卡斯特利翁	Castellon
+昆卡	Cuenca
+拉科鲁尼亚	Deportivo La Coruna
+拉斯帕尔马斯	Lars Palmas
+莱里达	Lleida
+卢戈	Lu Ge
+马德里	Madrid
+马拉加	Malaga
+穆尔西亚	Murcia
+纳瓦拉	Navarra
+帕伦西亚	Palencia
+蓬特韦德拉	Ponte Vadera
+萨拉戈萨	Saragossa
+萨拉曼卡	Salamanca
+萨莫拉	Zamora
+塞哥维亚	Segovia
+塞维利亚	Seville
+圣克鲁斯-德特内里费	Santa Cruz de Te Neri Faye
+索里亚	Soria
+塔拉戈纳	Tarragona
+特鲁埃尔	Teruel
+韦尔瓦	Velva
+韦斯卡	Huesca
+希腊	Greece
+比雷埃夫斯	Belay Av J
+多德卡尼斯	Dodd Carnes
+干尼亚	Chania
+基克拉迪	Kieker Radi
+拉西锡	Rasisi
+莱斯博斯	Les Bos
+雷西姆农	Rethymnon
+萨摩斯	Samos
+雅典	Athens
+伊拉克里翁	Heraklion
+新加坡	Singapore
+新喀里多尼亚	New Caledonia
+新西兰	New Zealand
+奥克兰	Oakland
+北岸	North Shore
+北远	Far north
+布莱尼姆	Blaine M
+达尼丁	Dunedin
+格雷茅斯	Grey Maus
+黑斯廷斯	Hastings
+怀塔科拉	Wai Taccola
+吉斯伯恩	Gisborne
+凯帕拉	Kepara
+克赖斯特彻奇	Christchurch
+里士满	Richmond
+马努考	Manukau
+纳尔逊	Nelson
+内皮尔	Napier
+斯特拉特福德	Stratford
+陶马鲁努伊	Tao Maloo Nooyi
+瓦卡塔尼	Whakatane
+旺阿雷	Whangarei
+旺格努伊	Wangi Nooyi
+新普利茅斯	New Plymouth
+因弗卡吉尔	Invercargill
+匈牙利	Hungary
+巴兰尼亚	Baranja
+巴奇-基什孔	Ba Qi - Kish hole
+包尔绍德-奥包乌伊-曾普伦	Baoershaode - Austrian package uy - Ceng Pulun
+贝凯什	Bekesh
+布达佩斯	Budapest
+费耶尔	Fejer
+豪伊杜-比豪尔	Hajdu than howl
+赫维什	Heves
+加兹-纳杰孔-索尔诺克	Gaz - hole - Szolnok NACE
+杰尔-莫松-肖普朗	Jerry - Mo Song - Xiao Pulang
+科马罗姆	Koma Rom
+诺格拉德	Nogueira de
+佩斯	Perth
+琼格拉德	Joan Gerard
+绍莫吉	Somogy
+索博尔奇-索特马尔-贝拉格	Sobol Chi Sauter Marr Bella lattice
+托尔瑙	Tolna
+维斯普雷姆	Weiss Prem
+沃什	Walsh
+佐洛	Zolo
+叙利亚	Syria
+阿勒颇	Aleppo
+大马士革	Damascus
+大马士革市	The city of Damascus
+代尔祖尔	Deir EZ Zor
+德拉	Della
+哈马	HAMA
+哈塞克	Hasek
+霍姆斯	Holmes
+加布	Gabe
+卡米什利	Cami Ashley
+库奈特拉	Cu Nate La
+拉卡	La
+拉塔基亚	Lattakia
+苏韦达	Su Weida
+塔尔图斯	Tartus
+伊德利卜	Idlib
+牙买加	Jamaica
+克拉伦登	Cola Lunden
+圣安德鲁斯	St Andrews
+圣凯瑟琳	San Catherine
+圣玛丽	Mary
+圣托马斯	St. Thomas
+圣伊丽莎白	San Elizabeth
+圣詹姆斯	San James
+特里洛尼	Trelawny
+西摩兰	Westmoreland
+亚美尼亚	Armenia
+阿尔马维尔	Armavir
+阿拉加措特恩	Ala Fagafaga Totn
+阿拉拉特	Ala Larter
+埃里温市	In the city.
+格加尔库尼克	Gegharkunik
+科泰克	Kotek
+洛里	Lori
+塔武什	Tavus
+瓦约茨·佐尔	Vallos Zor
+希拉克	Chirac
+休尼克	Syunik
+也门	Yemen
+阿比扬	Abyan
+阿姆兰	Amran
+贝达	Beida
+达利	Daly
+哈德拉毛	Hadra Mao
+哈杰	El
+荷台达	Hodeidah
+焦夫	Jiao Fu
+拉赫季	Lakhti
+马里卜	Marib
+迈赫拉	Myhre
+迈赫维特	Mehdi Witt
+萨达	Posada
+萨那	Sanaa
+赛文	Sai Wen
+舍卜沃	Shabwa
+塔伊兹	Taiz
+希赫尔	Sigel
+亚丁	Aden
+伊卜	IBB
+扎玛尔	Zamar
+伊拉克	Iraq
+伊朗	Iran
+以色列	Israel
+阿什杜德	Ash Dodd
+贝尔谢巴	Beersheba
+贝特雁	Betkari
+海法	Haifa
+霍隆	Huo Long
+内坦亚	Netanya
+特拉维夫	Tel Aviv
+耶路撒冷	Jerusalem
+意大利	Italy
+阿斯蒂	Astee
+阿斯科利皮切诺	Ascoli P Che Nor
+安科纳	An Kena
+奥尔比亚	Olbia
+奥里斯塔诺	Oristano
+奥斯塔	Aosta
+巴勒莫	Palermo
+贝加莫	Bergamo
+贝内文托	Baire Vento
+比萨	Pisa
+波代诺内	Pordenone
+波坦察	Potenza
+博洛尼亚	Bologna
+布拉	Bula
+布雷西亚	Brescia
+布林迪西	Brindisi
+的里雅斯特	Trieste
+都灵	Turin
+费拉拉	Ferrara
+佛罗伦萨	Florence
+福贾	Foggia
+卡利亚里	Cagliari
+卡塞塔	Caserta
+卡塔尼亚	Catania
+卡坦扎罗	Catanzaro
+坎波巴索	Campobasso
+科摩	Como
+科森扎	Kosenza
+克罗托内	Kroto Hei
+库内奥	Cuneo
+拉奎拉	L'Aquila
+拉斯佩齐亚	La Speh Zia
+莱科	Lecco
+莱切	Lecce
+雷焦艾米利亚	Reggio Emilia
+雷焦卡拉布里亚	Reggio Calabria
+里窝那	Li Wona
+罗马	Rome
+马萨	Massa
+马泰拉	Matera
+蒙扎	Monza
+米兰	Milan
+摩德纳	Modena
+墨西拿	Mo Xina
+那不勒斯	Naples
+努奥罗	NUORO
+诺瓦拉	Novella
+帕尔马	Parma
+帕维亚	Pavia
+佩鲁贾	Perugia
+热那亚	Genoa
+萨莱诺	Salerno
+萨萨里	Sasari
+萨沃纳	Savona
+塔兰托	Taranto
+特拉帕尼	Trapani
+特伦托	Trento
+威尼斯	Venice
+韦尔切利	Weir Celli
+维泰博	Wei Taibo
+乌迪内	Udine
+锡拉库扎	Syracuse
+锡耶纳	Siena
+亚历山德里亚	Alexandria
+伊塞尔尼亚	Isernia
+印度	India
+艾藻尔	Aizawl
+班加罗尔	Bangalore
+本地治里	Honji Jiri
+博帕尔	Bhopal
+布巴内斯瓦尔	Bubba Ness Val
+昌迪加尔	Chandigarh
+第乌	The black
+甘托克	Gangtok
+哥印拜陀	Coimbatore
+加尔各答	Calcutta
+加里加尔	Gary Gal
+贾巴尔普尔	Jabbar Poole
+贾朗达尔	GA Randall
+焦特布尔	Jodhpur
+金奈	Jin Nai
+卡瓦拉蒂	Kawale Siti
+科希马	Kohima
+马埃	Mahe
+马杜赖	Madurai
+森伯尔布尔	Sambalpur
+特里凡得琅	Trivandrum
+乌代布尔	Uday Bull
+西隆	Shillong
+锡尔萨瓦	Sir Savoy
+新德里	New Delhi
+亚南	ANAM
+因帕尔	Nepal
+印多尔	Indore
+斋普尔	Jaipur
+印度尼西亚	Indonesia
+巴厘	Bali
+邦加－勿里洞群岛	Bangka Belitung Islands
+北苏拉威西	North Sulawesi
+北苏门答腊	North Sumatra
+大雅加达首都特区	Greater Jakarta Capital Territory
+东加里曼丹	East Kalimantan
+东南苏拉威西	Southeast Sulawesi
+东努沙登加拉	East Nusa Tenggara
+东爪哇	East Java
+廖内	Liao Nei
+马鲁古	Maluku
+明古鲁	Bengkulu
+楠榜	Lampung
+南加里曼丹	Nan Jaliman Dan
+南苏拉威西	Southern Sulawesi
+南苏门答腊	South Sumatra
+日惹特区	The District of Yogyakarta
+万丹	Wan Dan
+西努沙登加拉	Cino Shah den Gala
+西苏门答腊	West Sumatra
+西爪哇	West Java
+雅加达	Jakarta
+亚齐	Aceh
+伊里安查亚	Irian Jaya
+占碑	Jambi
+中加里曼丹	In Kalimantan
+中苏拉威西	In Sulawesi
+中爪哇	In Java
+英国	Britain
+北爱尔兰	Northern Ireland
+贝尔法斯特	Belfast
+德里	Delhi
+利斯本	Lisburn
+纽里	Newry
+苏格兰	Scotland
+爱丁堡	Edinburgh
+丹迪	Dandy
+格拉斯哥	Glasgow
+斯特灵	Stirling
+因弗内斯	Hussein Furness
+威尔士	Welsh
+卡迪夫	Cardiff
+斯旺西	Swansea
+英格兰	England
+埃克塞特	Exeter
+巴斯	Bath
+彼得伯勒	Peter Bohle
+伯明翰	Bermingham
+布拉德福德	Bradford
+布莱顿与赫福	Brandon and Hector Fu
+布里斯托尔	Bristol
+德比	Derby
+德罕	Durham
+格洛斯特	Gloucester
+赫尔河畔京斯敦	Hull River in Kingston
+赫里福德	Hereford
+剑桥	Cambridge
+卡莱尔	Carlile
+坎特伯雷	Canterbury
+考文垂	Coventry
+兰开斯特	Lancaster
+里彭	Li Peng
+利奇菲尔德	Litchfield
+利物浦	Liverpool
+利茲	Liz
+列斯特	Lest
+南安普敦	Nanan at
+牛津	Oxford
+诺丁汉	Nottingham
+诺里奇	Norwich
+朴茨茅斯	Portsmouth
+普雷斯顿	Preston
+普利茅斯	Plymouth
+奇切斯特	Chichester
+切斯特	Chester
+桑德兰	Sang Delan
+圣阿本斯	San Arbenz
+索尔斯堡	Salisbury
+索福特	Cable Ford
+特鲁罗	Truro
+特伦特河畔斯多克	Stock on Trent
+威尔斯	Wells
+韦克菲尔德	Wakefield
+温彻斯特	Winchester
+伍尔弗汉普顿	Wulf Hampton
+谢菲尔德	Sheffield
+伊利	Erie
+约克	York
+英属印度洋领地	British India Ocean Territory
+约旦	Jordan
+阿吉隆	Agiron
+安曼	Amman
+拜勒加	Balqa
+杰拉什	Jerash
+卡拉克	Kharak
+鲁赛法	Rusayfah
+马安	Ma An
+马德巴	Madeba
+马夫拉克	Mafu Lark
+塔菲拉	Tafira
+亚喀巴	Aqaba
+伊尔比德	Il Bede
+扎尔卡	Zarqa
+越南	Vietnam
+海防	Coast defence
+河内	Hanoi
+胡志明市	Hu Zhiming city
+赞比亚	Zambia
+北方	The North
+卢阿普拉	Lua Pla
+卢萨卡	Lusaka
+南方	South
+铜带	Copper strip
+西方	Western
+泽西岛	Jersey
+乍得	Chad
+直布罗陀	Gibraltar
+智利	Chile
+阿劳卡尼亚大区	Araucania region
+阿塔卡马大区	Atta Kama region
+安托法加斯塔大区	The region of Antofagasta
+比奥比奥大区	Beal Beal region
+复活节岛	Easter Island
+湖大区	Los Lagos
+科金博大区	Coquimbo region
+马乌莱大区	Maule region
+麦哲伦-智利南极大区	Magallanes y de la Antartica Chilena
+塔拉帕卡大区	Tara Pekka region
+瓦尔帕莱索大区	The region of Valparaiso
+伊瓦涅斯将军的艾森大区	Eisen district general Ibanez
+中非共和国	The Central African Republic
+巴明吉-班戈兰	Bamingui - class Golan
+班吉直辖市	Bangui municipality directly under the central government
+宾博	Bimbo
+凯莫	Kai Mo
+洛巴伊	Lobai
+曼贝雷-卡代	Remaining - Card
+姆博穆	Mubomu
+纳纳-格里比齐	NANA - lattice than Qi
+纳纳-曼贝雷	NANA - Mabele
+桑加-姆巴埃雷	Sanga - Mubaailei
+上科托	Kotto
+上姆博穆	On Mubomu
+瓦卡	Waka
+瓦卡加	Vakaga
+瓦姆	WaMu
+瓦姆-彭代	Wham Peng generation
+翁贝拉-姆波科	Weng Bella m'poko
+下科托	Under an
+塞尔维亚	黑山	Serbia	 Montenegro
+塞尔维亚	黑山	Serbia	 Montenegro
+塞尔维亚	黑山	Serbia	 Montenegro
+塞尔维亚	黑山	Serbia	 Montenegro
+北京	Beijing
+东城	Dongcheng
+西城	Xi Cheng
+朝阳	Chaoyang
+丰台	Fengtai
+石景山	Shijingshan
+海淀	Haidian
+门头沟	Mentougou
+房山	Fangshan
+通州	Tongzhou
+顺义	Shunyi
+昌平	Changping
+大兴	Daxing
+平谷	Pinggu
+怀柔	Huairou
+密云	Miyun
+延庆	Yanqing
+天津	Tianjin
+和平	Peace
+河东	Hedong
+河西	Hexi
+南开	Nankai University
+河北	Hebei
+红桥	Hongqiao
+滨海新区	Binhai New Area
+东丽	Dongli
+西青	Xiqing
+津南	Jinnan
+北辰	Beichen
+塞尔维亚	黑山	Serbia	 Montenegro
+塞尔维亚	黑山	Serbia	 Montenegro
+塞尔维亚	黑山	Serbia	 Montenegro
+塞尔维亚	黑山	Serbia	 Montenegro
+塞尔维亚	黑山	Serbia	 Montenegro
+塞尔维亚	黑山	Serbia	 Montenegro
+塞尔维亚	黑山	Serbia	 Montenegro
+塞尔维亚	黑山	Serbia	 Montenegro
+宁河	Ninghe
+武清	Wuqing
+静海	Jinghai
+宝坻	Baodi
+蓟县	Jixian County
+石家庄	Shijiazhuang
+长安区	Changan District
+桥东区	Qiaodong District
+桥西区	Qiaoxi District
+新华区	Xinhua District
+井陉矿区	Jingxing mining area
+裕华区	Yuhua District
+井陉县	Jingxing County
+正定县	Zhengding County
+栾城县	Luancheng County
+行唐县	Xingtang County
+灵寿县	Lingshou County
+高邑县	Gaoyi County
+深泽县	Shenze County
+赞皇县	Zanhuang County
+无极县	The Promise County
+平山县	Pingshan County
+元氏县	Yuanshi County
+赵县	Zhaoxian County
+辛集市	The city of Xinji
+藁城市	The city of Gaocheng
+新乐市	The city of Xinle
+鹿泉市	The city of Luquan
+唐山	Tangshan
+路南区	Lunan District
+路北区	Lubei District
+古冶区	Guye District
+开平区	Kaiping District
+丰南区	Fengnan District
+丰润区	Fengrun District
+曹妃甸区	Caofeidian area
+滦　县	Luanxian
+滦南县	Luannan County
+乐亭县	Leting County
+迁西县	Qianxi County
+玉田县	Yutian County
+遵化市	The city of Zunhua
+迁安市	The city of Qian'an
+秦皇岛	Qinghuangdao
+海港区	Harbor District
+山海关区	Shanhaiguan District
+北戴河区	Beidaihe District
+青龙满族自治县	Qinglong Manchu Autonomous County
+昌黎县	Changli County
+抚宁县	Funing County
+卢龙县	Lulong County
+邯郸	Handan
+邯山区	Han Shan Qu
+丛台区	Congtai District
+复兴区	Renaissance Zone
+峰峰矿区	Fengfeng mining area
+邯郸县	Handan County
+临漳县	Linzhang County
+成安县	Cheng County
+大名县	Daming County
+涉　县	Shexian County
+磁　县	Cixian
+肥乡县	Feixiang County
+永年县	Yongnian County
+邱　县	Qiuxian
+鸡泽县	Jize County
+广平县	Guangping County
+馆陶县	Guantao County
+魏　县	Weixian
+曲周县	Quzhou County
+武安市	The city of Wuan
+邢台	Xingtai
+邢台县	Xingtai County
+临城县	Lincheng County
+内丘县	Neiqiu County
+柏乡县	Baixiang County
+隆尧县	Longyao County
+任　县	Renxian County
+南和县	South County
+宁晋县	Ningjin County
+巨鹿县	Julu County
+新河县	New River County
+广宗县	Guangzong County
+平乡县	Pingxiang County
+威　县	Weixian County
+清河县	Qinghe County
+临西县	Linxi County
+南宫市	The city of Nangong
+沙河市	The city of Shahe
+保定	Baoding
+新市区	The new urban area
+北市区	North Downtown
+南市区	South City
+满城县	Mancheng County
+清苑县	Qingyuan County
+涞水县	Laishui County
+阜平县	Fuping County
+徐水县	Xushui County
+定兴县	Dingxing County
+唐　县	Tangxian County
+高阳县	Gaoyang County
+容城县	Rongcheng County
+涞源县	Laiyuan County
+望都县	Wangdu County
+安新县	Anxin County
+易　县	Yixian County
+曲阳县	Quyang County
+蠡　县	Lixian County
+顺平县	Shunping County
+博野县	Boye County
+雄　县	Xiongxian
+涿州市	The city of Zhuozhou
+定州市	The city of Dingzhou
+安国市	Anguo City
+高碑店市	The city of Gaobeidian
+张家口	Zhangjiakou
+宣化区	Xuanhua District
+下花园区	The Garden District
+宣化县	Xuanhua County
+张北县	Zhangbei County
+康保县	Kangbao County
+沽源县	Guyuan County
+尚义县	Shangyi County
+蔚　县	Weixian County
+阳原县	Yangyuan County
+怀安县	Huai'an County
+万全县	Wanquan County
+怀来县	Huailai County
+涿鹿县	Zhuolu County
+赤城县	Chicheng County
+崇礼县	Chongli County
+承德	Chengde
+双桥区	Shuangqiao District
+双滦区	Shuangluan District
+鹰手营子矿区	Yingshouyingzi mine
+承德县	Chengde County
+兴隆县	Xinglong County
+平泉县	Pingquan County
+滦平县	Luanping County
+隆化县	Longhua County
+丰宁满族自治县	Fengning Manchu Autonomous County
+宽城满族自治县	Kuancheng Manchu Autonomous County
+围场满族蒙古族自治县	Mongolia Weichang Manchu Autonomous County
+沧州	Cangzhou
+运河区	The Canal Zone
+沧　县	Cangxian
+青　县	Qingxian County
+东光县	Dongguang County
+海兴县	Haixing County
+盐山县	Yanshan County
+肃宁县	Suning County
+南皮县	Nanpi County
+吴桥县	Wuqiao County
+献　县	Xianxian County
+孟村回族自治县	Mengcun Hui Autonomous County
+泊头市	The city of Botou
+任丘市	The city of Renqiu
+黄骅市	The city of Huanghua
+河间市	Hejian City
+廊坊	Langfang
+安次区	Anci District
+广阳区	Guangyang District
+固安县	Guan County
+永清县	Yongqing County
+香河县	Xianghe County
+大城县	Grand County
+文安县	Wen'an County
+大厂回族自治县	Dachang Hui Autonomous County
+霸州市	The city of Bazhou
+三河市	Sanhe
+衡水	Hengshui
+桃城区	Taocheng District
+枣强县	Zaoqiang County
+武邑县	Wuyi County
+武强县	Wuqiang County
+饶阳县	Raoyang County
+安平县	Anping County
+故城县	Gucheng County
+景　县	Jingxian County
+阜城县	Fucheng County
+冀州市	The city of Jizhou
+深州市	The city of Shenzhou
+山西	Shanxi
+太原	Taiyuan
+小店区	Xiaodian District
+迎泽区	Yingze District
+杏花岭区	Xinghualing District
+尖草坪区	Jiancaoping District
+万柏林区	Million in Berlin District
+晋源区	Jinyuan District
+清徐县	Qingxu County
+阳曲县	Yangqu County
+娄烦县	Loufan County
+古交市	The city of Gujiao
+大同	Da Tong
+城　区	City area
+矿　区	Ore district
+南郊区	Nanjiao District
+新荣区	The new wing area
+阳高县	Yanggao County
+天镇县	Tianzhen County
+广灵县	Guangling County
+灵丘县	Lingqiu County
+浑源县	Hunyuan County
+左云县	Zuoyun County
+大同县	Datong County
+阳泉	Yangquan
+郊　区	The suburb area
+平定县	Pingding County
+盂　县	Yuxian
+长治	Changzhi
+长治县	Changzhi County
+襄垣县	Xiangyuan County
+屯留县	Tunliu County
+平顺县	Pingshun County
+黎城县	Licheng County
+壶关县	Huguan County
+长子县	The eldest son of the county
+武乡县	Wuxiang County
+沁　县	Qin County
+沁源县	Qinyuan County
+潞城市	Lucheng
+晋城	Jincheng
+沁水县	Qinshui County
+阳城县	Yangcheng County
+陵川县	Lingchuan County
+泽州县	Zezhou County
+高平市	The city of Gaoping
+朔州	Shuozhou
+朔城区	Shuocheng District
+平鲁区	Pinglu District
+山阴县	Shanyin County
+应　县	Yingxian County
+右玉县	Youyu County
+怀仁县	Huairen County
+晋中	Jinzhong
+榆次区	Yuci District
+榆社县	Yushe County
+左权县	Zuoquan County
+和顺县	Heshun County
+昔阳县	Xiyang County
+寿阳县	Shouyang County
+太谷县	Taigu County
+祁　县	Qixian
+平遥县	Pingyao County
+灵石县	Lingshi County
+介休市	The city of Jiexiu
+运城	Yuncheng
+盐湖区	Saline Lake District
+临猗县	Linyi County
+万荣县	Wanrong County
+闻喜县	Wenxi County
+稷山县	Jishan County
+新绛县	Xinjiang county
+绛　县	Jiang County
+垣曲县	Yuanqu County
+夏　县	Xia County
+平陆县	Pinglu County
+芮城县	Ruicheng County
+永济市	The city of Yongji
+河津市	The city of Hejin
+忻州	Xinzhou
+忻府区	Xin House District
+定襄县	Dingxiang County
+五台县	Five County
+代　县	Generation of county
+繁峙县	Fanshi County
+宁武县	Ningwu County
+静乐县	Jingle County
+神池县	Shenchi County
+五寨县	Wuzhai County
+岢岚县	Kelan County
+河曲县	Hequ County
+保德县	Baode County
+偏关县	Pianguan County
+原平市	The city of Yuanping
+临汾	Linfen
+尧都区	Yaodu District
+曲沃县	Quwo County
+翼城县	Yicheng County
+襄汾县	Xiangfen County
+洪洞县	Hongdong County
+古　县	Ancient county
+安泽县	Anze County
+浮山县	In Fushan County
+吉　县	Ji County
+乡宁县	Xiangning County
+大宁县	Daning County
+隰　县	Xi county
+永和县	Yonghe County
+蒲　县	Pu County
+汾西县	Fenxi County
+侯马市	The city of Houma
+霍州市	The city of Huozhou
+吕梁	Lvliang
+离石区	Lishi District
+文水县	Wenshui County
+交城县	Jiaocheng County
+兴　县	Xing County
+临　县	Linxian County
+柳林县	Liulin County
+石楼县	Shilou County
+岚　县	Lan county
+方山县	Fangshan County
+中阳县	Zhongyang County
+交口县	Jiaokou County
+孝义市	The city of Xiaoyi
+汾阳市	The city of Fenyang
+内蒙古	Inner Mongolia
+呼和浩特	Hohhot
+新城区	The new city
+回民区	Huimin District
+玉泉区	Yuquan District
+赛罕区	Saihan District
+土默特左旗	TuMoTeZuo banner
+托克托县	Togtoh County
+和林格尔县	Helingeer County
+清水河县	Qingshui River County
+武川县	Wuchuan County
+包头	Baotou
+东河区	Donghe District
+昆都仑区	Kundulun District
+青山区	Castle Peak District
+石拐区	Shiguai District
+白云鄂博矿区	Baiyunebo mining area
+九原区	Jiuyuan District
+土默特右旗	Tumed Right Banner
+固阳县	Guyang County
+达尔罕茂明安联合旗	Darhan Muminggan lianheqi
+乌海	Wuhai
+海勃湾区	Haibowan District
+海南区	Hainan District
+乌达区	Wuda District
+赤峰	Chifeng
+红山区	Red mountain
+元宝山区	Yuanbaoshan District
+松山区	Songshan District
+阿鲁科尔沁旗	Arhorchin flag
+巴林左旗	Bahrain Left Banner
+巴林右旗	Bahrain Right Banner
+林西县	Linxi County
+克什克腾旗	Hexigten Banner
+翁牛特旗	Wengniute Banner
+喀喇沁旗	Harqin Banner
+宁城县	Ningcheng County
+敖汉旗	Aohan banner
+通辽	Tongliao
+科尔沁区	Horqin district
+科尔沁左翼中旗	Horqin Left Middle Banner
+科尔沁左翼后旗	Keerqin
+开鲁县	Kailu County
+库伦旗	Kulun flag
+奈曼旗	Nai Manqi
+扎鲁特旗	Jarud banner
+霍林郭勒市	Huolinguole City
+鄂尔多斯	Erdos
+东胜区	Dongsheng District
+达拉特旗	Dalate flag
+准格尔旗	Zhungeer Qi
+鄂托克前旗	Etuokeqianqi
+鄂托克旗	Etuoke Banner
+杭锦旗	Hangjinqi
+乌审旗	Wushen Banner
+伊金霍洛旗	Yijinhuoluo
+呼伦贝尔	Hulun Buir
+海拉尔区	Hailar District
+阿荣旗	Arong Qi
+莫力达瓦达斡尔族自治旗	Morin Dawa Daur Autonomous Banner
+鄂伦春自治旗	Oroqen Autonomous Banner
+鄂温克族自治旗	Evenk Autonomous Banner
+陈巴尔虎旗	Old Barag Banner
+新巴尔虎左旗	New Barr tiger
+新巴尔虎右旗	New Barag Right Banner
+满洲里市	The city of Manchuria
+牙克石市	The city of Yakeshi
+扎兰屯市	The city of Zhalantun
+额尔古纳市	The city of Eergu'Na
+根河市	Genhe City
+巴彦淖尔	Bayannaoer
+临河区	Kanawha District
+五原县	Wuyuan County
+磴口县	Dengkou County
+乌拉特前旗	Wulateqianqi
+乌拉特中旗	Urat banner
+乌拉特后旗	Wulatehouqi
+杭锦后旗	Hangjinhouqi
+乌兰察布	Wulanchabu
+集宁区	Jining District
+卓资县	Zhuozi County
+化德县	Huade County
+商都县	Shangdu County
+兴和县	Xinghe County
+凉城县	Liangcheng County
+察哈尔右翼前旗	Chahar right front banner
+察哈尔右翼中旗	Chahar right middle banner
+察哈尔右翼后旗	Chahar Right Banner
+四子王旗	Siziwangqi
+丰镇市	The city of Fengzhen
+兴安	Xingan
+乌兰浩特市	The city of Ulanhot
+阿尔山市	The city of Arxan
+科尔沁右翼前旗	Horqin Right Front Banner
+科尔沁右翼中旗	Horqin Right Wing Middle Banner
+扎赉特旗	Jalaid banner
+突泉县	Tuquan County
+锡林郭勒	Xilin Gol
+二连浩特市	The city of Erenhot
+锡林浩特市	The city of Xilinhaote
+阿巴嘎旗	Abag banner
+苏尼特左旗	Sonid Left Banner
+苏尼特右旗	Sonid Right Banner
+东乌珠穆沁旗	East Ujimqin banner
+西乌珠穆沁旗	West Ujimqin banner
+太仆寺旗	Taipusiqi
+镶黄旗	Xianghuang Banner
+正镶白旗	Zhengxiangbai banner
+正蓝旗	Zhenglan Banner
+多伦县	Duolun County
+阿拉善	Alashan
+阿拉善左旗	Alashan Left Banner
+阿拉善右旗	Alashan Right Banner
+额济纳旗	Ejinaqi
+塞尔维亚,黑山	Serbia, Montenegro
+辽宁	Liaoning
+沈阳	Shenyang
+和平区	Zone of peace
+沈河区	Shenhe District
+大东区	The big east
+皇姑区	Huanggu District
+铁西区	Tiexi District
+苏家屯区	Sujiatun District
+东陵区	Dongling District
+沈北新区	Shenbei New Area
+于洪区	Yuhong District
+辽中县	Liaozhong County
+康平县	Kangping County
+法库县	Faku County
+新民市	Xinmin City
+大连	Dalian
+中山区	Zhongshan District
+西岗区	Xigang District
+沙河口区	Shahekou District
+甘井子区	Ganjingzi District
+旅顺口区	Lushunkou District
+金州区	Jinzhou District
+长海县	Changhai County
+瓦房店市	The city of Wafangdian City
+普兰店市	The city of Pulandian
+庄河市	The city of Zhuanghe
+鞍山	Anshan
+铁东区	Tiedong District
+立山区	Lishan District
+千山区	Qianshan District
+台安县	Taian County
+岫岩满族自治县	Xiuyan Manchu Autonomous County
+海城市	The city of Haicheng
+抚顺	Fushun
+新抚区	Xinfu District
+东洲区	Dongzhou District
+望花区	Wanghua District
+顺城区	Shuncheng District
+抚顺县	Fushun County
+新宾满族自治县	Xinbin Manchu Autonomous County
+清原满族自治县	Qingyuan Manchu Autonomous County
+本溪	Benxi
+平山区	Ping Shan District
+溪湖区	Lake District
+明山区	Mountain
+南芬区	Nanfen District
+本溪满族自治县	Benxi Manchu Autonomous County
+桓仁满族自治县	Huanren Manchu Autonomous County
+丹东	Dandong
+元宝区	Yuanbao District
+振兴区	The revitalization of the area
+振安区	Zhen'an District
+宽甸满族自治县	Kuandian Manchu Autonomous County
+东港市	The city of Donggang
+凤城市	The city of Fengcheng
+锦州	Jinzhou
+古塔区	Guta District
+凌河区	Linghe District
+太和区	Taihe District
+黑山县	Heishan County
+义　县	Yi County
+凌海市	Linghai City
+北镇市	The city of Beizhen
+营口	Yingkou
+站前区	Zhanqian District
+西市区	West City
+鲅鱼圈区	Bayuquan District
+老边区	The old border
+盖州市	The city of Gaizhou
+大石桥市	The city of Dashiqiao
+阜新	Fuxin
+海州区	Haizhou District
+新邱区	Xinqiu District
+太平区	Taiping District
+清河门区	Qinghemen District
+细河区	Xihe District
+阜新蒙古族自治县	Mongolia Autonomous County of Fuxin
+彰武县	Zhangwu County
+辽阳	Liaoyang
+白塔区	Baita District
+文圣区	Wensheng District
+宏伟区	Hongwei District
+弓长岭区	Gongchangling District
+太子河区	Taizihe District
+辽阳县	Liaoyang County
+灯塔市	Lighthouse City
+盘锦	Panjin
+双台子区	Shuangtaizi District
+兴隆台区	Xinglongtai District
+大洼县	Dawa County
+盘山县	Panshan County
+铁岭	Tieling
+银州区	Yinzhou District
+清河区	Qinghe District
+铁岭县	Tieling County
+西丰县	Xifeng County
+昌图县	Changtu County
+调兵山市	The city of Diaobingshan
+开原市	The city of Kaiyuan
+双塔区	Twin Towers District
+龙城区	Longcheng District
+朝阳县	Chaoyang County
+建平县	Jianping County
+喀喇沁左翼蒙古族自治县	Mongolia Autonomous County harqin left wing
+北票市	The city of Beipiao
+凌源市	The city of Lingyuan
+葫芦岛	Huludao
+连山区	Even the mountain
+龙港区	Longgang District
+南票区	Nanpiao District
+绥中县	Suizhong County
+建昌县	Jianchang County
+兴城市	The city of Xingcheng
+吉林	Jilin
+长春	Changchun
+南关区	Nanguan District
+宽城区	The wide city
+朝阳区	Chaoyang District
+二道区	Two district
+绿园区	Luyuan District
+双阳区	Shuangyang District
+农安县	Nong'an County
+九台市	Jiutai
+榆树市	Elm city
+德惠市	The city of Dehui
+昌邑区	Changyi District
+龙潭区	Longtan District
+船营区	Chuanying District
+丰满区	Fengman District
+永吉县	Yongji County
+蛟河市	The city of Jiaohe
+桦甸市	The city of Huadian
+舒兰市	The city of Shulan
+磐石市	Panshi City
+四平	Siping
+梨树县	Lishu County
+伊通满族自治县	Yitong Manchu Autonomous County
+公主岭市	The city of Gongzhuling
+双辽市	The city of Shuangliao
+辽源	Liaoyuan
+龙山区	Longshan District
+西安区	Xi'an area
+东丰县	Dongfeng County
+东辽县	Dongliao County
+通化	Tonghua
+东昌区	Dongchang District
+二道江区	Erdaojiang District
+通化县	Tonghua County
+辉南县	Huinan County
+柳河县	Liuhe County
+梅河口市	The city of Meihekou
+集安市	The city of Ji'an
+白山	Mount Bai
+八道江区	Badaojiang District
+江源区	River Source Area
+抚松县	Fusong County
+靖宇县	Jingyu County
+长白朝鲜族自治县	Changbai Korean Autonomous County
+临江市	Linjiang City
+松原	Songyuan
+宁江区	Ningjiang district
+前郭尔罗斯蒙古族自治县	Mongolia Autonomous County, Qian Gorlos
+长岭县	Changling County
+乾安县	Qian'an County
+扶余县	Fuyu County
+白城	Baicheng
+洮北区	Taobei District
+镇赉县	Zhenlai County
+通榆县	Tongyu County
+洮南市	The city of Taonan
+大安市	Da'an City
+延边	Yanbian
+延吉市	The city of Yanji
+图们市	The city of Tumen
+敦化市	The city of Dunhua
+珲春市	The city of Hunchun
+龙井市	The city of Longjing
+和龙市	Helong City
+汪清县	Wangqing County
+安图县	Antu County
+黑龙江	Heilongjiang
+哈尔滨	Harbin
+道里区	Daoli District
+南岗区	Nangang District
+道外区	Daowai District
+平房区	Cottage areas
+松北区	Songbei
+香坊区	Xiangfang District
+呼兰区	Hulan District
+阿城区	A Cheng District
+依兰县	Yilan County
+方正县	Fangzheng County
+宾　县	Bin County
+巴彦县	Bayan County
+木兰县	Mulan County
+通河县	Tonghe County
+延寿县	Yanshou County
+双城市	The city of Shuangcheng
+尚志市	Shangzhi City
+五常市	Wuchang City
+齐齐哈尔	Qigihar
+龙沙区	Lonza District
+建华区	Jianhua District
+铁锋区	Tiefeng District
+昂昂溪区	Ang'angxi District
+富拉尔基区	Fulaerji District
+碾子山区	Nianzishan District
+梅里斯达斡尔族区	Meilisi Daur District
+龙江县	Longjiang County
+依安县	In Yi'an County
+泰来县	Tailai County
+甘南县	Gannan County
+富裕县	Fuyu County
+克山县	Keshan County
+克东县	Kedong County
+拜泉县	Baiquan County
+讷河市	The city of Nehe
+鸡西	Jixi
+鸡冠区	Jiguan District
+恒山区	Mt. Hengshan District
+滴道区	Didao District
+梨树区	Lishu District
+城子河区	Chengzihe District
+麻山区	The Mashan District
+鸡东县	Jidong County
+虎林市	The city of Hulin
+密山市	The city of Mishan
+鹤岗	Hegang
+向阳区	Xiangyang District
+工农区	Gongnong District
+南山区	Nanshan District
+兴安区	Xingan District
+东山区	Dongshan District
+兴山区	Xing mountain
+萝北县	Luobei County
+绥滨县	Suibin County
+双鸭山	Shuangyashan
+尖山区	Jianshan District
+岭东区	The ridge East
+四方台区	Sifangtai District
+宝山区	Baoshan District
+集贤县	Jixian County
+友谊县	Friendship County
+宝清县	Baoqing County
+饶河县	Raohe County
+大庆	Daqing
+萨尔图区	Saertu District
+龙凤区	Longfeng District
+让胡路区	Ranghulu District
+红岗区	Honggang District
+大同区	Datong District
+肇州县	Zhaozhou County
+肇源县	Zhaoyuan County
+林甸县	Lindian County
+杜尔伯特蒙古族自治县	Mongolia Autonomous County Duerbote
+伊春	Yichun
+伊春区	Yichun District
+南岔区	Nancha District
+友好区	The friendly area
+西林区	Xilin District
+翠峦区	Cuiluan District
+新青区	Xinqing District
+美溪区	Meixi District
+金山屯区	Jinshantun District
+五营区	The five camp
+乌马河区	Wumahe District
+汤旺河区	Tangwanghe District
+带岭区	Dailing District
+乌伊岭区	Wuyiling District
+红星区	Hongxing District
+上甘岭区	Shangganling District
+嘉荫县	Jiayin County
+铁力市	Tieli City
+佳木斯	Jiamusi
+前进区	Forward area
+东风区	Dongfeng District
+桦南县	Huanan County
+桦川县	Huachuan County
+汤原县	Tangyuan County
+抚远县	Fuyuan County
+同江市	Tongjiang City
+富锦市	The city of Fujin
+七台河	Qitaihe
+新兴区	The New District
+桃山区	Peach mountain
+茄子河区	Qiezihe District
+勃利县	Boli County
+牡丹江	Mudanjiang
+东安区	Dongan District
+阳明区	Yangming District
+爱民区	Aimin District
+东宁县	Dongning County
+林口县	Linkou County
+绥芬河市	The city of Suifenhe
+海林市	The city of Hailin
+宁安市	Ning'an City
+穆棱市	Muling City
+黑河	Heihe
+爱辉区	Aihui District
+嫩江县	Nenjiang County
+逊克县	Xunke County
+孙吴县	Sun Wuxian
+北安市	The city of Bei'an
+五大连池市	The city of Wudalianchi
+绥化	Suihua
+北林区	Beilin District
+望奎县	Wangkui County
+兰西县	Lanxi County
+青冈县	Qinggang County
+庆安县	Qing'an County
+明水县	Mingshui County
+绥棱县	Suileng County
+安达市	Anda City
+肇东市	The city of Zhaodong
+海伦市	The city of Helen
+大兴安岭	Greater Khingan Range
+呼玛县	Huma County
+塔河县	Tahe County
+漠河县	Mohe County County
+上海	Shanghai
+黄浦	Huangpu
+卢湾	Luwan
+徐汇	Xuhui
+长宁	Changning
+静安	Jingan
+普陀	Putuo
+闸北	Zhabei
+虹口	Hongkou
+杨浦	Yangpu
+闵行	Minhang
+宝山	Baoshan
+嘉定	Jiading
+浦东新区	Pudong New Area
+金山	Jinshan
+松江	Songjiang
+奉贤	Fengxian
+青浦	Qingpu
+崇明	Chongming
+江苏	Jiangsu
+南京	Nanjing
+玄武区	Xuanwu District
+白下区	Baixia District
+秦淮区	Qinhuai District
+建邺区	Jianye District
+鼓楼区	Gulou District
+下关区	Xiaguan District
+浦口区	Pukou District
+栖霞区	Qixia District
+雨花台区	Yuhuatai District
+江宁区	Jiangning District
+六合区	Liuhe District
+溧水县	Lishui County
+高淳县	Gaochun County
+无锡	Wuxi
+崇安区	Chong'an District
+南长区	The Southern District
+北塘区	Beitang District
+锡山区	Xishan District
+惠山区	Huishan District
+滨湖区	Binhu District
+江阴市	The city of Jiangyin
+宜兴市	The city of Yixing
+徐州	Xuzhou
+云龙区	Yunlong District
+九里区	The nine district
+贾汪区	Jiawang District
+泉山区	Quanshan District
+丰　县	Fengxian County
+沛　县	Peixian
+铜山县	Copper Mt. County
+睢宁县	Suining County
+新沂市	The city of Xinyi
+邳州市	The city of Pizhou
+常州	Changzhou
+天宁区	Tianning District
+钟楼区	Clock Tower District
+戚墅堰区	Qishuyan District
+新北区	New District
+武进区	Wujin District
+溧阳市	The city of Liyang
+金坛市	The city of Jintan
+苏州	Suzhou
+姑苏区	Suzhou District
+虎丘区	Huqiu District
+吴中区	Wuzhong District
+相城区	Xiangcheng District
+吴江区	Wujiang District
+常熟市	Changshou City
+张家港市	The city of Zhangjiagang
+昆山市	City of Kunshan
+太仓市	The city of Taicang
+南通	Nantong
+崇川区	Chongchuan District
+港闸区	Gangzha District
+海安县	Haian County
+如东县	Rudong County
+启东市	The city of Qidong
+如皋市	The city of Rugao
+通州市	The city of Tongzhou
+海门市	Haimen City
+连云港	Lianyungang
+连云区	Lianyun District
+新浦区	Sinpo District
+赣榆县	Ganyu County
+东海县	Donghai County
+灌云县	Guanyun County
+灌南县	Guannan County
+淮安	Huaian
+淮安区	Huaian District
+淮阴区	Huaiyin District
+清浦区	Qingpu District
+涟水县	Lianshui County
+洪泽县	Hongze County
+盱眙县	Xuyi County
+金湖县	Jinhu County
+盐城	Yancheng
+亭湖区	Pavilion Lake
+盐都区	Yandu District
+响水县	Xiangshui County
+滨海县	Binhai County
+阜宁县	Funing County
+射阳县	Sheyang County
+建湖县	Jianhu County
+东台市	The city of Dongtai
+大丰市	Dafeng City
+扬州	Yangzhou
+广陵区	Guangling District
+邗江区	Hanjiang District
+维扬区	Weiyang District
+宝应县	Baoying County
+仪征市	The city of Yizheng
+高邮市	The city of Gaoyou
+江都市	Jiangdu
+镇江	Zhenjiang
+京口区	Jingkou District
+润州区	Runzhou District
+丹徒区	Dantu District
+丹阳市	The city of Danyang
+扬中市	The city of Yangzhong
+句容市	The city of Jurong
+泰州	Taizhou
+海陵区	Hailing District
+高港区	Gaogang District
+兴化市	The city of Xinghua
+靖江市	The city of Jingjiang
+泰兴市	The city of Taixing
+姜堰市	The city of Jiangyan
+宿迁	Suqian
+宿城区	Sucheng District
+宿豫区	Suyu District
+沭阳县	Shuyang County
+泗阳县	Siyang County
+泗洪县	Sihong County
+浙江	Zhejiang
+杭州	Hangzhou
+上城区	Shangcheng District
+下城区	Under the district
+江干区	Jianggan District
+拱墅区	Gongshu District
+西湖区	Xihu District
+滨江区	Binjiang District
+萧山区	Xiaoshan District
+余杭区	Yuhang District
+桐庐县	Tonglu County
+淳安县	Chunan County
+建德市	The city of Jiande
+富阳市	The city of Fuyang
+临安市	The city of Ling'an
+宁波	Ningbo
+海曙区	Haishu District
+江东区	Jiangdong District
+江北区	Jiangbei District
+北仑区	Beilun District
+镇海区	Zhenhai District
+鄞州区	Yinzhou District
+象山县	Xiangshan County
+宁海县	Ninghai County
+余姚市	The city of Yuyao
+慈溪市	Cixi City
+奉化市	The city of Fenghua
+温州	Wenzhou
+鹿城区	Lucheng District
+龙湾区	Longwan District
+瓯海区	Ouhai District
+洞头县	Dongtou County
+永嘉县	Yongjia County
+平阳县	Pingyang County
+苍南县	Cangnan County
+文成县	Wencheng County
+泰顺县	Taishun County
+瑞安市	The city of Ruian
+乐清市	The city of Yueqing
+嘉兴	Jiaxing
+南湖区	The Lake District
+秀洲区	Xiuzhou District
+嘉善县	Jiashan County
+海盐县	Haiyan County
+海宁市	The city of Haining
+平湖市	The city of Pinghu
+桐乡市	The city of Tongxiang
+湖州	Huzhou
+吴兴区	Wu Xingqu
+南浔区	Nanxun District
+德清县	Deqing County
+长兴县	Changxing County
+安吉县	Anji County
+绍兴	Shaoxing
+越城区	Yuecheng District
+绍兴县	Shaoxing County
+新昌县	Xinchang County
+诸暨市	The city of Zhuji
+上虞市	The city of Shangyu
+嵊州市	The city of Shengzhou
+金华	Jinhua
+婺城区	Wucheng District
+金东区	Jindong District
+武义县	Wuyi County
+浦江县	Pujiang County
+磐安县	Panan County
+兰溪市	The city of Lanxi
+义乌市	The city of Yiwu
+东阳市	The city of Dongyang
+永康市	The city of Yongkang
+衢州	Quzhou
+柯城区	Kecheng District
+衢江区	Qujiang District
+常山县	Changshan County
+开化县	Kaihua County
+龙游县	Longyou County
+江山市	Jiangshan City
+舟山	Zhoushan
+定海区	Dinghai District
+普陀区	Putuo District
+岱山县	Daishan County
+嵊泗县	Shengsi County
+台州	Taizhou
+椒江区	Jiaojiang District
+黄岩区	Huangyan District
+路桥区	Luqiao District
+玉环县	Yuhuan County
+三门县	Three county
+天台县	Tiantai County
+仙居县	Xianju County
+温岭市	The city of Wenling
+临海市	The city of Linhai
+丽水	Lishui
+莲都区	Liandu District
+青田县	Qingtian County
+缙云县	Jinyun County
+遂昌县	Suichang County
+松阳县	Songyang County
+云和县	Yunhe County
+庆元县	Qingyuan County
+景宁畲族自治县	Jingning She Nationality Autonomous County
+龙泉市	The city of Longquan
+安徽	Anhui
+合肥	Hefei
+瑶海区	Yaohai District
+庐阳区	Luyang District
+蜀山区	Shushan District
+包河区	Baohe District
+长丰县	Changfeng County
+肥东县	Feidong County
+肥西县	Feixi County
+庐江县	Lujiang County
+巢湖市	The city of Chaohu
+芜湖	Wuhu
+镜湖区	Jinghu District
+弋江区	Yijiang District
+鸠江区	Jiujiang District
+三山区	Sanshan District
+芜湖县	Wuhu County
+繁昌县	Fanchang County
+南陵县	Nanling County
+无为县	Wuwei County
+蚌埠	Bengbu
+龙子湖区	Longzihu District
+蚌山区	Bengshan District
+禹会区	Yuhui District
+淮上区	Huaishang District
+怀远县	Huaiyuan County
+五河县	Wuhe County
+固镇县	Guzhen County
+淮南	Huainan
+大通区	Datong District
+田家庵区	Tianjiaan District
+谢家集区	Xiejiaji District
+八公山区	Bagongshan District
+潘集区	Panji District
+凤台县	Fengtai County
+马鞍山	Ma'anshan
+花山区	Huashan District
+雨山区	Yushan District
+博望区	Bowang District
+当涂县	Dangtu County
+含山县	Hanshan County
+和县	The county
+淮北	Huaibei
+杜集区	Duji District
+相山区	Xiangshan District
+烈山区	Lieshan District
+濉溪县	Suixi County
+铜陵	Tongling
+铜官山区	Tongguanshan District
+狮子山区	The lion mountain
+铜陵县	Tongling County
+安庆	Anqing
+迎江区	Yingjiang District
+大观区	Daguan District
+宜秀区	Yixiu District
+怀宁县	Huaining County
+枞阳县	Zongyang County
+潜山县	Qianshan County
+太湖县	Taihu County
+宿松县	Susong County
+望江县	Wangjiang County
+岳西县	Yuexi County
+桐城市	The city of Tongcheng
+黄山	Mount Huangshan
+屯溪区	Tunxi District
+黄山区	Mount Huangshan District
+徽州区	Huizhou District
+歙　县	Shexian
+休宁县	Xiuning County
+黟　县	Yixian County
+祁门县	Qimen County
+滁州	Chuzhou
+琅琊区	Langya District
+南谯区	Nanqiao District
+来安县	To County
+全椒县	Quanjiao County
+定远县	Dingyuan County
+凤阳县	Fengyang County
+天长市	Tianchang
+明光市	Mingguang City
+阜阳	Fuyang
+颍州区	Yingzhou District
+颍东区	Yingdong District
+颍泉区	Yingquan District
+临泉县	Linquan County
+太和县	Taihe County
+阜南县	Funan County
+颍上县	Yingshang County
+界首市	Jieshou City
+宿州	Suzhou
+埇桥区	Yongqiao District
+砀山县	Dangshan County
+萧　县	Xiaoxian
+灵璧县	Lingbi County
+泗　县	Sixian
+六安	Lu'an
+金安区	Jin'an District
+裕安区	Yu'an District
+寿　县	Shouxian County
+霍邱县	Huoqiu County
+舒城县	Shucheng County
+金寨县	Jinzhai County
+霍山县	Mount Holyoke County
+亳州	Bozhou
+谯城区	Qiaocheng District
+涡阳县	Woyang County
+蒙城县	Mengcheng County
+利辛县	Lixin County
+池州	Chizhou
+贵池区	Guichi District
+东至县	Dongzhi County
+石台县	Shitai County
+青阳县	Qingyang County
+宣城	Xuancheng
+宣州区	Xuanzhou District
+郎溪县	Langxi County
+广德县	Guangde County
+泾　县	Jingxian County
+绩溪县	Jixi County
+旌德县	Jingde County
+宁国市	The city of Ningguo
+福建	Fujian
+福州	Fuzhou
+台江区	Taijiang District
+仓山区	Cangshan District
+马尾区	Mawei District
+晋安区	Jinan District
+闽侯县	Minhou County
+连江县	Lianjiang County
+罗源县	Luoyuan County
+闽清县	Minqing County
+永泰县	Yongtai County
+平潭县	Pingtan County
+福清市	The city of Fuqing
+长乐市	The city of Changle
+厦门	Xiamen
+思明区	Siming District
+海沧区	Haicang District
+湖里区	The Lake District
+集美区	Jimei District
+同安区	Tongan District
+翔安区	Xiangan District
+莆田	Putian
+城厢区	Chengxiang District
+涵江区	Hanjiang District
+荔城区	Licheng District
+秀屿区	Xiuyu District
+仙游县	Xianyou County
+三明	Sanming
+梅列区	Meilie District
+三元区	Three Yuan area
+明溪县	Mingxi County
+清流县	Qingliu County
+宁化县	Ninghua County
+大田县	Datian County
+尤溪县	Youxi County
+沙　县	Shaxian County
+将乐县	Jiangle County
+泰宁县	Taining County
+建宁县	Jianning County
+永安市	The city of Yongan
+泉州	Quanzhou
+鲤城区	Licheng District
+丰泽区	Fengze District
+洛江区	Luojiang District
+泉港区	Quangang District
+惠安县	Huian County
+安溪县	Anxi County
+永春县	Yongchun County
+德化县	Dehua County
+金门县	Kinmen County
+石狮市	Shishi
+晋江市	The city of Jinjiang
+南安市	The city of Nanan
+漳州	Zhangzhou
+芗城区	Xiangcheng District
+龙文区	Longwen District
+云霄县	Yunxiao County
+漳浦县	Zhangpu County
+诏安县	Zhaoan County
+长泰县	Changtai County
+东山县	Dongshan County
+南靖县	Nanjing County
+平和县	Pinghe County
+华安县	Huaan County
+龙海市	The city of Longhai
+南平	Nanping
+延平区	Yanping District
+顺昌县	Shunchang County
+浦城县	Pucheng County
+光泽县	Guangze County
+松溪县	Songxi County
+政和县	Zhenghe County
+邵武市	The city of Shaowu
+武夷山市	The city of Wuyishan
+建瓯市	The city of Jianou
+建阳市	The city of Jianyang
+龙岩	Longyan
+新罗区	Xinluo District
+长汀县	Changting County
+永定县	Yongding County
+上杭县	Shanghang County
+武平县	Wuping County
+连城县	Liancheng County
+漳平市	The city of Zhangping
+宁德	Ningde
+蕉城区	Jiaocheng District
+霞浦县	Xiapu County
+古田县	Gutian County
+屏南县	Pingnan County
+寿宁县	Shouning County
+周宁县	Zhou Ningxian
+柘荣县	Zherong County
+福安市	The city of Fu'an
+福鼎市	The city of Fuding
+江西	Jiangxi
+南昌	Nanchang
+东湖区	East Lake District
+青云谱区	Qingyunpu District
+湾里区	Wanli District
+青山湖区	Castle Peak Lakes
+南昌县	Nanchang County
+新建县	Xinjian County
+安义县	Anyi County
+进贤县	Jinxian County
+景德镇	Jingdezhen
+昌江区	Changjiang District
+珠山区	Zhushan District
+浮梁县	Fuliang County
+乐平市	The city of Leping
+萍乡	Pingxiang
+安源区	Anyuan District
+湘东区	Xiangdong District
+莲花县	Lotus county
+上栗县	Shangli County
+芦溪县	Luxi County
+九江	Jiujiang
+庐山区	Mount Lu District
+浔阳区	Xunyang District
+九江县	Jiujiang County
+武宁县	Wuning County
+修水县	Xiushui County
+永修县	Yongxiu County
+德安县	Dean County
+星子县	Xingzi County
+都昌县	Duchang County
+湖口县	Hukou County
+彭泽县	Pengze County
+瑞昌市	The city of Ruichang
+新余	Xinyu
+渝水区	Yushui District
+分宜县	Fenyi County
+鹰潭	Yingtan
+月湖区	The Lake District
+余江县	Yujiang County
+贵溪市	The city of Guixi
+赣州	Ganzhou
+章贡区	Zhanggong District
+赣　县	Ganxian
+信丰县	Xinfeng County
+大余县	Dayu County
+上犹县	Shangyou County
+崇义县	Chongyi County
+安远县	Anyuan County
+龙南县	Longnan County
+定南县	Dingnan County
+全南县	QUANNAN County
+宁都县	Ningdu County
+于都县	Yudu County
+兴国县	Xingguo County
+会昌县	Huichang County
+寻乌县	Xunwu County
+石城县	Shicheng County
+瑞金市	The city of Ruijin
+南康市	Nankang
+吉安	Ji'an
+吉州区	Jizhou District
+青原区	Qingyuan District
+吉安县	Ji'an County
+吉水县	Jishui County
+峡江县	Xiajiang County
+新干县	Xingan County
+永丰县	Yongfeng County
+泰和县	Taihe County
+遂川县	Suichuan County
+万安县	The Wanan County
+安福县	Anfu county
+永新县	Yongxin County
+井冈山市	The city of Jinggangshan
+宜春	Yichun
+袁州区	Yuanzhou District
+奉新县	Fengxin County
+万载县	Wanzai County
+上高县	County
+宜丰县	Yifeng County
+靖安县	Jing'an County
+铜鼓县	Tonggu County
+丰城市	The city of Fengcheng
+樟树市	Zhangshu City
+高安市	The city of Gao'an
+抚州	Fuzhou
+临川区	Linchuan District
+南城县	Nancheng County
+黎川县	Lichuan County
+南丰县	Nanfeng County
+崇仁县	Chongren County
+乐安县	Le'an County
+宜黄县	Yihuang County
+金溪县	Jinxi County
+资溪县	Zixi County
+东乡县	Dongxiang County
+广昌县	Guangchang County
+上饶	Shangrao
+信州区	Xinzhou District
+上饶县	Shangrao County
+广丰县	Guangfeng County
+玉山县	Yushan County
+铅山县	Qianshan County
+横峰县	Hengfeng County
+弋阳县	Yiyang County
+余干县	Yugan County
+鄱阳县	Poyang County
+万年县	Million years the county
+婺源县	Wuyuan County
+德兴市	The city of Dexing
+山东	Shandong
+济南	Ji'nan
+历下区	Lixia District
+市中区	Central city
+槐荫区	Huaiyin District
+天桥区	Tianqiao District
+历城区	Licheng District
+长清区	Changqing District
+平阴县	Pingyin County
+济阳县	Jiyang County
+商河县	Shanghe County
+章丘市	The city of Zhangqiu
+青岛	Qingdao
+市南区	Shinan District
+市北区	Shibei District
+四方区	Sifang District
+黄岛区	Huangdao District
+崂山区	Laoshan District
+李沧区	Licang District
+城阳区	Chengyang District
+胶州市	The city of Jiaozhou
+即墨市	The city of Jimo
+平度市	Pingdu City
+胶南市	The city of Jiaonan
+莱西市	The city of Laixi
+淄博	Zibo
+淄川区	Zichuan District
+张店区	Zhangdian District
+博山区	Boshan District
+临淄区	Linzi District
+周村区	Zhoucun District
+桓台县	Huantai County
+高青县	Gaoqing County
+沂源县	Yiyuan County
+枣庄	Zaozhuang
+薛城区	Xuecheng District
+峄城区	Yicheng District
+台儿庄区	Taierzhuang District
+山亭区	Shanting District
+滕州市	The city of Tengzhou
+东营	Dongying
+东营区	Dongying District
+河口区	Estuary
+垦利县	Kenli County
+利津县	Lijin County
+广饶县	Guangrao County
+烟台	Yantai
+芝罘区	Zhifu District
+福山区	Fushan District
+牟平区	Muping District
+莱山区	Laishan District
+长岛县	Long Island County
+龙口市	Longkou City
+莱阳市	The city of Laiyang
+莱州市	The city of Laizhou
+蓬莱市	The city of Penglai
+招远市	The city of Zhaoyuan
+栖霞市	The city of Qixia
+海阳市	The city of Haiyang
+潍坊	Weifang
+潍城区	Weicheng District
+寒亭区	Hanting District
+坊子区	Fangzi District
+奎文区	Kuiwei District
+临朐县	Linqu County
+昌乐县	Changle County
+青州市	The city of Qingzhou
+诸城市	Zhucheng City
+寿光市	Shouguang City
+安丘市	The city of Anqiu
+高密市	Gaomi City
+昌邑市	The city of Changyi
+济宁	Jining
+任城区	Rencheng District
+微山县	Weishan County
+鱼台县	Yutai County
+金乡县	Jinxiang County
+嘉祥县	Jiaxiang County
+汶上县	Wenshang County
+泗水县	Surabaya County
+梁山县	Liangshan County
+曲阜市	The city of Qufu
+兖州市	The city of Yanzhou
+邹城市	The city of Zoucheng
+泰安	Tai'an
+泰山区	Taishan District
+岱岳区	Daiyue District
+宁阳县	Ningyang County
+东平县	Dongping County
+新泰市	The city of Xintai
+肥城市	The city of Feicheng
+威海	Weihai
+环翠区	Huancui District
+文登市	The city of Wendeng
+荣成市	The city of Rongcheng
+乳山市	The city of Rushan
+日照	Sunshine
+东港区	Donggang District
+岚山区	Arashiyama District
+五莲县	Wulian County
+莒　县	Juxian
+莱芜	Laiwu
+莱城区	Laicheng District
+钢城区	Steel city
+临沂	Linyi
+兰山区	Lanshan District
+罗庄区	Luozhuang District
+河东区	Hedong District
+沂南县	Yinan County
+郯城县	Tancheng County
+沂水县	Yishui County
+苍山县	Cangshan County
+费　县	Feixian County
+平邑县	Pingyi County
+莒南县	Junan County
+蒙阴县	Mengyin County
+临沭县	Linshu County
+德州	Texas
+德城区	Decheng District
+陵　县	Lingxian County
+宁津县	Ningjin County
+庆云县	Qingyun County
+临邑县	Linyi County
+齐河县	Qihe County
+平原县	Plain county
+夏津县	Xiajin County
+武城县	Wucheng County
+乐陵市	The city of Leling
+禹城市	The city of Yucheng
+聊城	Liaocheng
+东昌府区	Dongchangfu District
+阳谷县	Yanggu County
+莘　县	Shenxian
+茌平县	Chiping County
+东阿县	Dong'e County
+冠　县	Guanxian
+高唐县	Gaotang County
+临清市	Linqing City
+滨州	Binzhou
+滨城区	Bincheng District
+惠民县	Huimin County
+阳信县	Yangxin County
+无棣县	Wudi County
+沾化县	Zhanhua County
+博兴县	Boxing County
+邹平县	Zou Pingxian
+菏泽	Heze
+牡丹区	Peony District
+曹　县	Caoxian
+单　县	Shanxian County
+成武县	Chengwu County
+巨野县	Juye County
+郓城县	Yuncheng County
+鄄城县	Juancheng County
+定陶县	Dingtao County
+东明县	Dongming County
+河南	Henan
+郑州	Zhengzhou
+中原区	The Central Plains area
+二七区	The two seven district
+管城回族区	Guancheng Hui District
+金水区	Jinshui District
+上街区	Shangjie District
+惠济区	Huiji District
+中牟县	Zhongmu County
+巩义市	The city of Gongyi
+荥阳市	The city of Xingyang
+新密市	The city of Xinmi
+新郑市	The city of Xinzheng
+登封市	The city of Dengfeng
+开封	Kaifeng
+龙亭区	Longting District
+顺河回族区	Shunhe Hui District
+禹王台区	Yuwangtai District
+金明区	Jinming District
+杞　县	Qixian County
+通许县	Tongxu County
+尉氏县	Weishi County
+开封县	Kaifeng County
+兰考县	Lankao County
+洛阳	Luoyang
+老城区	The old city
+西工区	Xigong District
+瀍河回族区	Chanhe Hui District
+涧西区	Jianxi District
+吉利区	Jili District
+洛龙区	Luolong District
+孟津县	Mengjin County
+新安县	Xin'an County
+栾川县	Luanchuan County
+嵩　县	Songxian
+汝阳县	Ruyang County
+宜阳县	Yiyang County
+洛宁县	Luoning County
+伊川县	Yichuan County
+偃师市	The city of Yanshi
+平顶山	Pingdingshan
+卫东区	Weidong District
+石龙区	Shilong District
+湛河区	Zhanhe District
+宝丰县	Baofeng County
+叶　县	Yexian County
+鲁山县	Lushan Mountain County
+郏　县	Jiaxian
+舞钢市	The city of Wugang
+汝州市	The city of Ruzhou
+安阳	Anyang
+文峰区	Wenfeng District
+北关区	Beiguan District
+殷都区	Yindu District
+龙安区	Longan District
+安阳县	Anyang County
+汤阴县	Tangyin County
+滑　县	Huaxian
+内黄县	Neihuang County
+林州市	The city of Linzhou
+鹤壁	Hebi
+鹤山区	Heshan District
+山城区	The mountain area
+淇滨区	Qibin District
+浚　县	Xunxian County
+淇　县	Qixian County
+新乡	Xinxiang
+红旗区	Red zone
+卫滨区	Weibin District
+凤泉区	Fengquan District
+牧野区	Makino District
+新乡县	Xinxiang County
+获嘉县	Huojia County
+原阳县	Yuanyang County
+延津县	Yanjin County
+封丘县	Fengqiu County
+长垣县	Changyuan County
+卫辉市	The city of Weihui
+辉县市	The city of Huixian
+焦作	Jiaozuo
+解放区	Jiefang District
+中站区	Zhongzhan District
+马村区	Macun District
+山阳区	Shanyang District
+修武县	Xiuwu County
+博爱县	Boai County
+武陟县	Wuzhi County
+温　县	Wenxian County
+沁阳市	The city of Qinyang
+孟州市	The city of Mengzhou
+濮阳	Puyang
+华龙区	Hualong District
+清丰县	Qingfeng County
+南乐县	Nanle County
+范　县	Fan County
+台前县	Taiqian County
+濮阳县	Puyang County
+许昌	Xuchang
+魏都区	Weidu District
+许昌县	Xuchang County
+鄢陵县	Yanling County
+襄城县	Xiangcheng County
+禹州市	The city of Yuzhou
+长葛市	The city of Changge
+漯河	Luohe
+源汇区	Yuanhui District
+郾城区	Yancheng District
+召陵区	Shaoling District
+舞阳县	Wuyang County
+临颍县	Linying County
+三门峡	Sanmenxia
+湖滨区	The Lake District
+渑池县	Mianchi County
+陕　县	Shanxian
+卢氏县	Lushi County
+义马市	The city of Yima
+灵宝市	Lingbao City
+南阳	Nanyang
+宛城区	Wancheng District
+卧龙区	Wolong District
+南召县	In Nanzhao County
+方城县	Fangcheng County
+西峡县	Xixia County
+镇平县	Zhenping county
+内乡县	Neixiang County
+淅川县	Xichuan County
+社旗县	Sheqi County
+唐河县	Tanghe County
+新野县	Xinye County
+桐柏县	Tongbai County
+邓州市	The city of Dengzhou
+商丘	Shangqiu
+梁园区	Beam Park
+睢阳区	Suiyang District
+民权县	Civil County
+睢　县	Suixian
+宁陵县	Ningling County
+柘城县	Zhecheng County
+虞城县	Yucheng County
+夏邑县	Xiayi County
+永城市	The city of Yongcheng
+信阳	Xinyang
+浉河区	The Shihe River District
+平桥区	Pingqiao District
+罗山县	Luoshan County
+光山县	Guangshan County
+新　县	Xinxian County
+商城县	Shangcheng County
+固始县	Gushi County
+潢川县	Huangchuan County
+淮滨县	Huaibin County
+息　县	Xixian County
+周口	Zhoukou
+川汇区	Chuanhui District
+扶沟县	Fugou County
+西华县	Xihua County
+商水县	Shangshui County
+沈丘县	Shenqiu County
+郸城县	Dancheng County
+淮阳县	Huaiyang County
+太康县	Taikang County
+鹿邑县	Luyi County
+项城市	The city of Xiangcheng
+驻马店	Zhumadian
+驿城区	Yicheng District
+西平县	Xiping County
+上蔡县	Shangcai County
+平舆县	Pingyu County
+正阳县	Zhengyang County
+确山县	Queshan County
+泌阳县	Biyang County
+汝南县	Ru'nan County
+遂平县	Suiping County
+新蔡县	Xincai County
+济源	Jiyuan
+湖北	Hubei
+武汉	Wuhan
+江岸区	Jiang'an District
+江汉区	Jianghan District
+硚口区	Qiaokou District
+汉阳区	Hanyang District
+武昌区	Wuchang District
+洪山区	Hongshan District
+东西湖区	Dongxihu District
+汉南区	Hannan District
+蔡甸区	Caidian District
+江夏区	Jiangxia District
+黄陂区	Huangpi District
+新洲区	Xinzhou District
+黄石	Huangshi
+黄石港区	The port of Huangshi
+西塞山区	Xisaishan District
+下陆区	Xialu District
+铁山区	Tieshan District
+阳新县	Yangxin County
+大冶市	The city of Daye
+十堰	Shiyan
+茅箭区	Maojian District
+张湾区	Zhangwan District
+郧　县	Yunxian
+郧西县	Yunxi County
+竹山县	Zhushan County
+竹溪县	Zhuxi County
+房　县	Fangxian
+丹江口市	The city of Danjiangkou
+宜昌	Yichang
+西陵区	Xiling District
+伍家岗区	Wujiagang District
+点军区	Dianjun District
+猇亭区	Xiaoting District
+夷陵区	Yiling District
+远安县	Yuan'an County
+兴山县	Xingshan County
+秭归县	Zigui County
+长阳土家族自治县	Changyang Tujia Autonomous County
+五峰土家族自治县	Tujia Autonomous County of the five peaks
+宜都市	The city of Yidu
+当阳市	Dangyang city
+枝江市	The city of Zhijiang
+襄阳	Xiangyang
+襄城区	Xiangcheng District
+樊城区	Fancheng District
+襄州区	Xiangzhou District
+南漳县	Nanzhang County
+谷城县	Gucheng County
+保康县	Baokang County
+老河口市	Laohekou City
+枣阳市	The city of Jujube
+宜城市	The city of Yicheng
+鄂州	Ezhou
+梁子湖区	Liangzi Lake
+华容区	Huarong District
+鄂城区	Hubei city
+荆门	Jingmen
+东宝区	Dongbao District
+掇刀区	Duodao District
+京山县	Jingshan County
+沙洋县	Shayang County
+钟祥市	The city of Zhongxiang
+孝感	Xiaogan
+孝南区	Xiaonan District
+孝昌县	Xiaochang County
+大悟县	Dawu County
+云梦县	Yunmeng County
+应城市	Should the city
+安陆市	The city of Anlu
+汉川市	The city of Hanchuan
+荆州	Jingzhou
+沙市区	Shashi
+荆州区	Jingzhou District
+公安县	Gongan County
+监利县	Jianli County
+江陵县	Jiangling County
+石首市	Shishou City
+洪湖市	The city of Honghu
+松滋市	The city of Songzi
+黄冈	Huanggang
+黄州区	Huangzhou District
+团风县	Tuanfeng County
+红安县	Hong'an County
+罗田县	Luotian County
+英山县	Yingshan County
+浠水县	Xishui County
+蕲春县	Qichun County
+黄梅县	Huangmei County
+麻城市	Macheng City
+武穴市	The city of Wuxue
+咸宁	Xianning
+咸安区	Xian'an District
+嘉鱼县	Jiayu County
+通城县	Tongcheng County
+崇阳县	Chongyang County
+通山县	Tongshan County
+赤壁市	The city of Chibi
+随州	Suizhou
+曾都区	Zengdou District
+随县	With the county
+广水市	The city of Guangshui
+恩施	Enshi
+恩施市	The city of Enshi
+建始县	Jianshi County
+巴东县	Badong County
+宣恩县	Xuanen County
+咸丰县	Xianfeng County
+来凤县	Laifeng County
+鹤峰县	Hefeng County
+仙桃	Xiantao
+潜江	Qianjiang
+天门	Tianmen
+神农架	Shennongjia
+湖南	Hunan
+长沙	Changsha
+芙蓉区	Furong district
+天心区	Tianxin District
+岳麓区	Yuelu District
+开福区	Kaifu District
+雨花区	Yuhua District
+长沙县	Changsha County
+望城区	Wangcheng District
+宁乡县	Ningxiang County
+浏阳市	The city of Liuyang
+株洲	Zhuzhou
+荷塘区	Hetang District
+芦淞区	Lusong District
+石峰区	Shifeng District
+天元区	Tianyuan District
+株洲县	Zhuzhou County
+攸　县	Youxian
+茶陵县	Chaling County
+炎陵县	Yanling County
+醴陵市	The city of Liling
+湘潭	Xiangtan
+雨湖区	Yuhu District
+岳塘区	Yuetang District
+湘潭县	Xiangtan County
+湘乡市	The city of Xiangxiang
+韶山市	The city of Shaoshan
+衡阳	Hengyang
+珠晖区	Zhuhui District
+雁峰区	Yanfeng District
+石鼓区	Shigu District
+蒸湘区	Zhengxiang District
+南岳区	Nanyue District
+衡阳县	Hengyang County
+衡南县	Hengnan County
+衡山县	Heng Mountain County
+衡东县	Hengdong County
+祁东县	Qidong County
+耒阳市	The city of Leiyang
+常宁市	Changning City
+邵阳	Shaoyang
+双清区	Shuangqing District
+大祥区	Daxiang District
+北塔区	Beita District
+邵东县	Shaodong County
+新邵县	Xinshao County
+邵阳县	Shao Yangxian
+隆回县	Longhui County
+洞口县	Dongkou County
+绥宁县	Suining County
+新宁县	Xinning County
+城步苗族自治县	Chengbu Miao Nationality Autonomous County
+武冈市	The city of Wugang
+岳阳	Yueyang
+岳阳楼区	Yueyang Tower District
+云溪区	Yunxi District
+君山区	Junshan District
+岳阳县	Yueyang County
+华容县	Huarong County
+湘阴县	Xiangyin County
+平江县	Pingjiang County
+汨罗市	The city of Miluo
+临湘市	The city of Linxiang
+常德	Changde
+武陵区	Wuling District
+鼎城区	Dingcheng District
+安乡县	Anxiang County
+汉寿县	Hanshou County
+澧　县	Lixian
+临澧县	Linli County
+桃源县	Taoyuan County
+石门县	Shimenn County
+津市市	Tianjin city
+张家界	Zhangjiajie
+永定区	Yongding District
+武陵源区	Wulingyuan District
+慈利县	Cili County
+桑植县	Sangzhi County
+益阳	Yiyang
+资阳区	Ziyang District
+赫山区	Heshan District
+南　县	Nanxian
+桃江县	Taojiang County
+安化县	Anhua County
+沅江市	The city of Yuanjiang
+郴州	Chenzhou
+北湖区	Beihu District
+苏仙区	Suxian District
+桂阳县	Guiyang County
+宜章县	Yizhang County
+永兴县	Yongxing County
+嘉禾县	Jiahe County
+临武县	Linwu County
+汝城县	Rucheng County
+桂东县	Guidong County
+安仁县	Anren County
+资兴市	Zixing City
+永州	Yongzhou
+零陵区	Lingling District
+冷水滩区	Lengshuitan District
+祁阳县	Qiyang County
+东安县	Dongan County
+双牌县	Shuangpai County
+道　县	Daoxian County
+江永县	Jiangyong County
+宁远县	Ningyuan County
+蓝山县	Lanshan County
+新田县	Xintian County
+江华瑶族自治县	Jiang Hua Yao Autonomous County
+怀化	Huaihua
+鹤城区	Hecheng District
+中方县	China County
+沅陵县	Yuanling County
+辰溪县	Chenxi County
+溆浦县	Xupu County
+会同县	Huitong County
+麻阳苗族自治县	Mayang Miao Autonomous County
+新晃侗族自治县	Xinhuang Dong Autonomous County
+芷江侗族自治县	Zhi River Dong Autonomous County
+靖州苗族侗族自治县	Miao and Dong Autonomous County
+通道侗族自治县	Tongdao Dong Autonomous County
+洪江市	Hongjiang City
+娄底	Loudi
+娄星区	Louxing District
+双峰县	Shuangfeng County
+新化县	Xinhua County
+冷水江市	The city of Lengshuijiang
+涟源市	The city of Lianyuan
+湘西	Xiangxi
+吉首市	The city of Jishou
+泸溪县	Luxi County
+凤凰县	Fenghuang County
+花垣县	Huayuan County
+保靖县	Baojing County
+古丈县	Guzhang County
+永顺县	Yongshun County
+龙山县	Longshan County
+广东	Guangdong
+广州	Guangzhou
+荔湾区	Liwan District
+越秀区	Yuexiu District
+海珠区	Haizhuqu District
+天河区	Tianhe District
+白云区	Baiyun District
+黄埔区	Whampoa　 District
+番禺区	Panyu District
+花都区	Huadu District
+南沙区	Nansha District
+萝岗区	Luogang District
+增城市	The city of Zengcheng
+从化市	The city of Conghua
+韶关	Shaoguan
+武江区	Wujiang District
+浈江区	Zhenjiang District
+曲江区	Qujiang District
+始兴县	Shixing County
+仁化县	Renhua county
+翁源县	Wengyuan County
+乳源瑶族自治县	Ruyuan Yao Autonomous County
+新丰县	The new Fengxian County
+乐昌市	The city of Lechang
+南雄市	The city of Nanxiong
+深圳	Shenzhen
+罗湖区	Luohu District
+福田区	Futian District
+宝安区	Baoan District
+龙岗区	Longgang District
+盐田区	Yantian District
+珠海	Zhuhai
+香洲区	Xiangzhou District
+斗门区	Doumen District
+金湾区	The Bay Area
+汕头	Shantou
+龙湖区	Longhu District
+金平区	Jinping District
+濠江区	Haojiang District
+潮阳区	Chaoyang District
+潮南区	Chaonan District
+澄海区	Chenghai District
+南澳县	Nan'ao County
+佛山	Foshan
+禅城区	Chancheng District
+南海区	Nanhai District
+顺德区	Shunde District
+三水区	Sanshui District
+高明区	Gaoming District
+江门	Jiangmen
+蓬江区	Pengjiang District
+江海区	Jianghai District
+新会区	Xinhui District
+台山市	The city of Taishan
+开平市	The city of Kaiping
+鹤山市	The city of Heshan
+恩平市	The city of Enping
+湛江	Zhanjiang
+赤坎区	Chikan District
+霞山区	Xiashan District
+坡头区	Potou District
+麻章区	Mazhang District
+遂溪县	Suixi County
+徐闻县	Xuwen County
+廉江市	The city of Lianjiang
+雷州市	The city of Leizhou
+吴川市	The city of Wuchuan
+茂名	Maoming
+茂南区	Maonan District
+茂港区	Maogang District
+电白县	Dianbai County
+高州市	The city of Gaozhou
+化州市	The city of Huazhou
+信宜市	The city of Xinyi
+肇庆	Zhaoqing
+端州区	Duanzhou District
+鼎湖区	Dinghu District
+广宁县	Guangning County
+怀集县	Huaiji County
+封开县	Fengkai County
+德庆县	Deqin County
+高要市	Gaoyao City
+四会市	Sihui City
+惠州	Huizhou
+惠城区	Huicheng District
+惠阳区	Huiyang District
+博罗县	Boluo County
+惠东县	Huidong County
+龙门县	Longmen County
+梅州	Meizhou
+梅江区	Meijiang District
+梅　县	Meixian
+大埔县	Tai Po County
+丰顺县	Fengshun County
+五华县	Wuhua County
+平远县	Pingyuan County
+蕉岭县	Jiaoling County
+兴宁市	The city of Xingning
+汕尾	Shanwei
+海丰县	Haifeng County
+陆河县	Luhe County
+陆丰市	The city of Lufeng
+河源	Heyuan
+源城区	Yuancheng District
+紫金县	Zijin County
+龙川县	Longchuan County
+连平县	Lianping County
+和平县	Peace County
+东源县	Dongyuan County
+阳江	Yangjiang
+江城区	Jiangcheng District
+阳西县	Yangxi County
+阳东县	Yangdong County
+阳春市	Yangchun City
+清远	Qingyuan
+清城区	Qingcheng District
+佛冈县	Fogang County
+阳山县	Yangshan County
+连山壮族瑶族自治县	Lianshan Zhuang and Yao Autonomous County
+连南瑶族自治县	Liannan Yao Autonomous County
+清新县	Qingxin County
+英德市	The city of Yingde
+连州市	The city of Lianzhou
+东莞	Dongguan
+东莞市	The city of Dongguan
+中山	Zhongshan
+中山市	The city of Zhongshan
+潮州	Chaozhou
+湘桥区	Xiangqiao District
+潮安县	Chaoan County
+饶平县	Raoping County
+揭阳	Jieyang
+榕城区	Rongcheng District
+揭东县	Jiedong County
+揭西县	Jiexi County
+惠来县	Huilai County
+普宁市	The city of Puning
+云浮	Yunfu
+云城区	Yuncheng district
+新兴县	Xinxing County
+郁南县	Yunan County
+云安县	Cloud county
+罗定市	The city of Luoding
+广西	Guangxi
+南宁	Nanning
+兴宁区	Xingning District
+青秀区	Qingxiu District
+江南区	The Jiangnan area
+西乡塘区	XiXiangTang District
+良庆区	Liangqing District
+邕宁区	Yongning District
+武鸣县	Wuming County
+隆安县	Longan County
+马山县	Mashan County
+上林县	Shanglin County
+宾阳县	Binyang County
+横　县	Hengxian
+柳州	Liuzhou
+城中区	The area in the city
+鱼峰区	Yufeng District
+柳南区	Liunan District
+柳北区	Liubei District
+柳江县	The Liujiang River County
+柳城县	Liucheng County
+鹿寨县	Luzhai County
+融安县	Rongan County
+融水苗族自治县	Rongshui Miao Autonomous County
+三江侗族自治县	Sanjiang Dong Autonomous County
+桂林	Guilin
+秀峰区	Xiufeng District
+叠彩区	Diecai District
+象山区	Xiangshan District
+七星区	Qixing District
+雁山区	Yanshan District
+阳朔县	Yangshuo County
+临桂县	Lingui County
+灵川县	Lingchuan County
+全州县	Quanzhou County
+兴安县	Xingan County
+永福县	Yongfu County
+灌阳县	Guanyang County
+龙胜各族自治县	Longsheng Various Nationalities Autonomous County
+资源县	Resources of the county
+平乐县	Pingle County
+荔浦县	Li Riverside County
+恭城瑶族自治县	Gongcheng Yao Autonomous County
+梧州	Wuzhou
+万秀区	Wanxiu District
+蝶山区	Dieshan District
+长洲区	Changzhou District
+苍梧县	Cangwu County
+藤　县	Tengxian
+蒙山县	Mengshan County
+岑溪市	The city of Cenxi
+海城区	Haicheng District
+银海区	Yinhai District
+铁山港区	The port of Tieshan
+合浦县	Hepu County
+防城港	Port of Fangcheng
+港口区	Port area
+防城区	Fangcheng District
+上思县	Shangsi County
+东兴市	The city of Dongxing
+钦州	Qinzhou
+钦南区	Qinnan District
+钦北区	Qinbei District
+灵山县	Lingshan County
+浦北县	Pubei County
+贵港	Guigang
+港北区	Gangbei District
+港南区	Gangnan District
+覃塘区	Qintang District
+平南县	Pingnan County
+桂平市	The city of Guiping
+玉林	Yulin
+玉州区	Yuzhou District
+容　县	Rongxian County
+陆川县	Lu Chuan County
+博白县	Bobai County
+兴业县	Xingye County
+北流市	Beiliu City
+百色	Baise
+右江区	Youjiang District
+田阳县	Tianyang County
+田东县	Tiandong County
+平果县	Pingguo County
+德保县	Debao County
+靖西县	Jingxi County
+那坡县	Napo County
+凌云县	Lingyun County
+乐业县	Leye County
+田林县	Tianlin County
+西林县	Xilin County
+隆林各族自治县	Longlin Various Nationalities Autonomous County
+贺州	Hezhou
+八步区	The eight step zone
+昭平县	Zhaoping County
+钟山县	Zijin Mountain County
+富川瑶族自治县	Fuchuan Yao Autonomous County
+河池	Hechi
+金城江区	Jinchengjiang District
+南丹县	Nandan County
+天峨县	Tian'e County
+凤山县	Fengshan County
+东兰县	Donglan County
+罗城仫佬族自治县	Luocheng mulamzuzizhixian
+环江毛南族自治县	Huanjiang Maonan Autonomous County
+巴马瑶族自治县	Bama Yao Autonomous County
+都安瑶族自治县	Du'an Yao Autonomous County
+大化瑶族自治县	Dahua Yao Autonomous County
+宜州市	The city of Yizhou
+来宾	Guest
+兴宾区	Xingbin District
+忻城县	Xincheng County
+象州县	Xiangzhou County
+武宣县	Wuxuan County
+金秀瑶族自治县	Jinxiu Yao Autonomous County
+合山市	Heshan City
+崇左	Chongzuo
+江洲区	Jiangzhou District
+扶绥县	Fusui County
+宁明县	Ningming County
+龙州县	Longzhou County
+大新县	The great Xinxian County
+天等县	Tiandeng County
+凭祥市	The city of Pingxiang
+海南	Hainan
+海口	Haikou
+秀英区	Xiuying District
+龙华区	Longhua District
+琼山区	Qiongshan District
+美兰区	Meilan District
+三亚	Sanya
+三沙	Sansha
+五指山	Five Fingers Group
+琼海	Qionghai
+儋州	Danzhou
+文昌	Wenchang
+万宁	Wanning
+定安	Dingan
+屯昌	Tunchang
+澄迈	Chengmai
+临高	Lingao
+白沙	Baisha
+昌江	Changjiang
+乐东	Ledong
+陵水	Lingshui
+保亭	Baoting
+琼中	Qiongzhong
+重庆	Chongqing
+万州	Wanzhou
+涪陵	Fuling
+渝中	Yuzhong
+大渡口	Dadukou
+江北	North of the Changjiang River
+沙坪坝	Shapingba
+九龙坡	Jiulongpo
+南岸	The South Coast
+北碚	Beibei
+两江新区	Liangjiang New Area
+万盛	Wansheng
+双桥	Double bridge
+渝北	Yubei
+巴南	Banan
+长寿	Longevity
+綦江	Qijiang
+潼南	Tongnan
+铜梁	Tongliang
+大足	Dazu
+荣昌	Rongchang
+璧山	Bishan
+梁平	Liang Ping
+城口	Chengkou
+丰都	Fengdu
+垫江	Dianjiang
+武隆	Wulong
+忠县	Zhongxian
+开县	Kaixian
+云阳	Yunyang
+奉节	Fengjie
+巫山	Wushan
+巫溪	Wuxi
+黔江	Qianjiang
+石柱	Stone
+秀山	Xiushan
+酉阳	Youyang
+彭水	Pengshui
+江津	Jiangjin
+合川	Hechuan
+永川	Yongchuan
+南川	Nanchuan
+四川	Sichuan
+成都	Chengdu
+锦江区	Jinjiang District
+青羊区	Qingyang District
+金牛区	Jinniu District
+武侯区	Wuhou District
+成华区	Chenghua District
+龙泉驿区	Longquanyi District
+青白江区	Qingbaijiang District
+新都区	Xindu District
+温江区	Wenjiang District
+金堂县	Jintang County
+双流县	Shuangliu County
+郫　县	Pixian
+大邑县	Dayi County
+蒲江县	Pujiang County
+新津县	Xinjin County
+都江堰市	The city of Dujiangyan
+彭州市	The city of Pengzhou
+邛崃市	The city of Qionglai
+崇州市	The city of Chongzhou
+自贡	Zigong
+自流井区	Artesian district
+贡井区	Gongjing District
+大安区	Da An District
+沿滩区	Along the beach area
+荣　县	Rongxian
+富顺县	Fushun County
+攀枝花	Panzhihua
+东　区	The eastern region
+西　区	The West Region
+仁和区	Renhe District
+米易县	Miyi County
+盐边县	Yanbian County
+泸州	Luzhou
+江阳区	Jiangyang District
+纳溪区	Naxi District
+龙马潭区	Longmatan District
+泸　县	Luxian County
+合江县	Hejiang County
+叙永县	Xuyong County
+古蔺县	Gulin County
+德阳	Deyang
+旌阳区	Jingyang District
+中江县	Zhongjiang County
+罗江县	Luojiang County
+广汉市	The city of Guanghan
+什邡市	The city of Shifang
+绵竹市	The city of Mianzhu
+绵阳	Mianyang
+涪城区	Fucheng District
+游仙区	Youxian District
+三台县	Three county
+盐亭县	Yanting County
+安　县	An County
+梓潼县	Zitong County
+北川羌族自治县	Beichuan Qiang Autonomous County
+平武县	Pingwu County
+江油市	The city of Jiangyou
+广元	Guangyuan
+元坝区	Guangyuan District
+朝天区	Chaotian District
+旺苍县	Wangcang County
+青川县	Qingchuan County
+剑阁县	Jiange County
+苍溪县	Cangxi County
+遂宁	Suining
+船山区	Ship mountain
+安居区	Anju District
+蓬溪县	Pengxi County
+射洪县	Shehong County
+大英县	Daying County
+内江	Neijiang
+东兴区	Dongxing District
+威远县	Weiyuan County
+资中县	Zizhong County
+隆昌县	Longchang County
+乐山	Leshan
+沙湾区	Shawan District
+五通桥区	Wutongqiao District
+金口河区	Jinkouhe District
+犍为县	Qianwei County
+井研县	Jingyan County
+夹江县	Jiajiang County
+沐川县	Muchuan County
+峨边彝族自治县	Ebian Yi Autonomous County
+马边彝族自治县	Mabian Yi Autonomous County
+峨眉山市	The city of Mount Emei
+南充	Nanchong
+顺庆区	Shunqing District
+高坪区	Gaoping District
+嘉陵区	Jialing District
+南部县	South County
+营山县	Yingshan County
+蓬安县	Pengan County
+仪陇县	Yilong County
+西充县	Xichong County
+阆中市	The city of Langzhong
+眉山	Meishan
+东坡区	Dongpo District
+仁寿县	Renshou County
+彭山县	Pengshan County
+洪雅县	Hongya County
+丹棱县	Danleng County
+青神县	Qingshen County
+宜宾	Yibin
+翠屏区	Cuiping District
+宜宾县	Yibin County
+南溪县	Nanxi County
+江安县	Jiangan County
+长宁县	Changning County
+高　县	High County
+珙　县	Gongxian
+筠连县	Junlian County
+兴文县	Xingwen County
+屏山县	Pingshan County
+广安	Guang'an
+广安区	Guang'an District
+岳池县	Yuechi County
+武胜县	Wusheng County
+邻水县	Linshui County
+华蓥市	Huaying City
+达州	Dazhou
+通川区	The district
+达　县	As County
+宣汉县	Xuanhan County
+开江县	Kaijiang County
+大竹县	Dazhu County
+渠　县	Quxian County
+万源市	Wanyuan City
+雅安	Ya'an
+雨城区	Yucheng District
+名山县	Mingshan County
+荥经县	Yingjing County
+汉源县	Hanyuan County
+石棉县	Shimian County
+天全县	Tianquan County
+芦山县	Lushan County
+宝兴县	Baoxing County
+巴中	Bazhong
+巴州区	Bazhou District
+通江县	Tongjiang County
+南江县	Nanjiang County
+平昌县	Pingchang County
+资阳	Ziyang
+雁江区	Yanjiang District
+安岳县	Anyue County
+乐至县	Lezhi County
+简阳市	The city of Jianyang
+阿坝	ABA
+汶川县	Wenchuan County
+理　县	Li County
+茂　县	Maoxian
+松潘县	Songpan County
+九寨沟县	Jiuzhaigou County
+金川县	Jinchuan County
+小金县	Xiaojin County
+黑水县	Heishui County
+马尔康县	Barkam County
+壤塘县	Rangtang County
+阿坝县	ABA County
+若尔盖县	Ruoergai County
+红原县	Hongyuan County
+甘孜	Ganzi
+康定县	Kangding County
+泸定县	Luding County
+丹巴县	Danba County
+九龙县	Jiulong County
+雅江县	Yajiang County
+道孚县	Daofu County
+炉霍县	Luhuo County
+甘孜县	Ganzi County
+新龙县	Xinlong County
+德格县	Dege County
+白玉县	Baiyu County
+石渠县	Shiqu County
+色达县	Seda
+理塘县	Litang County
+巴塘县	Batang County
+乡城县	Xiangcheng County
+稻城县	Daocheng County
+得荣县	Rongxian
+凉山	Liangshan
+西昌市	The city of Xichang
+木里藏族自治县	Muli Tibetan Autonomous County
+盐源县	Yanyuan County
+德昌县	Dechang County
+会理县	Huili County
+会东县	Huidong County
+宁南县	Ningnan County
+普格县	Puge County
+布拖县	Butuo County
+金阳县	Jinyang County
+昭觉县	Zhaojue County
+喜德县	Xide County
+冕宁县	Mianning County
+越西县	Yuexi County
+甘洛县	Ganluo County
+美姑县	Meigu County
+雷波县	Leibo County
+贵州	Guizhou
+贵阳	Guiyang
+南明区	Nanming District
+云岩区	Yunyan District
+花溪区	Huaxi District
+乌当区	Wudang District
+小河区	Xiaohe District
+开阳县	Kaiyang County
+息烽县	Xifeng County
+修文县	Xiuwen County
+清镇市	Qingzhen City
+六盘水	Liupanshui
+钟山区	Zijin Mountain District
+六枝特区	Six SAR
+水城县	Shuicheng County
+盘　县	Panxian
+遵义	Zunyi
+红花岗区	Honghuagang District
+汇川区	Huichuan District
+遵义县	Zunyi County
+桐梓县	Tongzi County
+绥阳县	Suiyang County
+正安县	County
+道真仡佬族苗族自治县	Miao really Gelao Nationality Autonomous County
+务川仡佬族苗族自治县	Wuchuan yilao and Miao Autonomous County
+凤冈县	Fenggang County
+湄潭县	Meitan County
+余庆县	Yu Qingxian
+习水县	Xishui County
+赤水市	The city of Chishui
+仁怀市	The city of Renhuai
+西秀区	Xixiu District
+平坝县	Pingba County
+普定县	Puding County
+镇宁布依族苗族自治县	Zhenning Buyi and Miao Autonomous County
+关岭布依族苗族自治县	Guanling Buyi and Miao Autonomous County
+紫云苗族布依族自治县	Ziyun Buyi and Miao Autonomous County
+铜仁	Tongren
+铜仁市	The city of Tongren
+江口县	Jiangkou County
+玉屏侗族自治县	Yuping Dong Autonomous County
+石阡县	Shiqian County
+思南县	Sinan County
+印江土家族苗族自治县	Yinjiang Tujia and Miao Autonomous County
+德江县	Dejiang County
+沿河土家族自治县	Tujia Autonomous County along the river
+松桃苗族自治县	Songtao Miao Autonomous County
+万山特区	Wanshan
+黔西南	Southwestern Guizhou
+兴义市	The city of Xingyi
+兴仁县	Xingren County
+普安县	Puan County
+晴隆县	Qinglong County
+贞丰县	Zhenfeng County
+望谟县	Wangmo County
+册亨县	Ceheng County
+安龙县	Anlong county
+毕节	Bijie
+毕节市	The city of Bijie
+大方县	Dafang County
+黔西县	Qianxi County
+金沙县	Jinsha County
+织金县	Zhijin County
+纳雍县	Nayong County
+威宁彝族回族苗族自治县	Weining Yi Hui and Miao Autonomous County
+赫章县	Hezhang County
+黔东南	Qiandongnan
+凯里市	The city of Kaili
+黄平县	Huangping County
+施秉县	Shibing County
+三穗县	Sansui County
+镇远县	Zhenyuan County
+岑巩县	Cengong County
+天柱县	Tianzhu County
+锦屏县	Jinping County
+剑河县	Jianhe County
+台江县	Taijiang County
+黎平县	Liping County
+榕江县	Rongjiang County
+从江县	Congjiang County
+雷山县	In Leishan County
+麻江县	Majiang County
+丹寨县	Danzhai County
+黔南	Qiannan
+都匀市	The city of Tuyun
+福泉市	Fuquan City
+荔波县	Libo County
+贵定县	Guiding County
+瓮安县	Weng'an county
+独山县	Dushan County
+平塘县	Pingtang County
+罗甸县	Luodian County
+长顺县	Changshun County
+龙里县	Longli County
+惠水县	Huishui County
+三都水族自治县	Sandu Shui Autonomous County
+云南	Yunnan
+昆明	Kunming
+五华区	Wuhua District
+盘龙区	Panlong District
+官渡区	Guandu District
+西山区	Xishan District
+东川区	Dongchuan District
+呈贡县	Chenggong County
+晋宁县	Jinning County
+富民县	Fumin County
+宜良县	Yiliang County
+石林彝族自治县	Shilin Yi Autonomous County
+嵩明县	Songming County
+禄劝彝族苗族自治县	Luquan Yi and Miao Autonomous County
+寻甸回族彝族自治县	Hui Yi Autonomous County of Xundian
+安宁市	Anning City
+曲靖	Qujing
+麒麟区	Kylin region
+马龙县	Malone County
+陆良县	Luliang County
+师宗县	Shizong County
+罗平县	Luoping County
+富源县	Fuyuan County
+会泽县	Huize County
+沾益县	Zhanyi County
+宣威市	Xuanwei City
+玉溪	Yuxi
+红塔区	Hongta District
+江川县	Jiangchuan County
+澄江县	Chengjiang County
+通海县	Tonghai County
+华宁县	Huaning County
+易门县	Yimen County
+峨山彝族自治县	Eshan Yi Autonomous County
+新平彝族傣族自治县	Xinping Yi and Dai Autonomous County
+元江哈尼族彝族傣族自治县	Yuanjiang Hani, Yi and Dai Autonomous County
+保山	Baoshan
+隆阳区	Longyang District
+施甸县	Shidian County
+腾冲县	Tengchong County
+龙陵县	Longling County
+昌宁县	Changning County
+昭通	Zhaotong
+昭阳区	Zhaoyang District
+鲁甸县	Ludian County
+巧家县	Qiaojia County
+盐津县	Yanjin County
+大关县	Daguan County
+永善县	Yongshan County
+绥江县	Suijiang County
+镇雄县	Zhenxiong County
+彝良县	Yiliang County
+威信县	Wilson County
+水富县	Shuifu County
+丽江	Lijiang
+古城区	The ancient city area
+玉龙纳西族自治县	Naxi Autonomous County ERON
+永胜县	Yongsheng County
+华坪县	Huaping County
+宁蒗彝族自治县	Ninglang Yi Autonomous County
+普洱	Pu'er Tea
+思茅区	Simao District
+宁洱哈尼族彝族自治县	Ninger Hani Nationality Autonomous County Yi
+墨江哈尼族自治县	Mojiang Hani Autonomous County
+景东彝族自治县	Jingdong Yi Autonomous County
+景谷傣族彝族自治县	Jinggu Dai and Yi Autonomous County
+镇沅彝族哈尼族拉祜族自治县	Yi, Hani Lahu Autonomous County of Zhenyuan
+江城哈尼族彝族自治县	Jiangcheng Hani and Yi Autonomous County
+孟连傣族拉祜族佤族自治县	Menglian Dai wa Lahu Autonomous County
+澜沧拉祜族自治县	Lahu Autonomous County of Lancang
+西盟佤族自治县	Ximeng Wa Nationality Autonomous County
+临沧	Lincang
+临翔区	Linxiang District
+凤庆县	Fengqing County
+云　县	Cloud county
+永德县	Yongde County
+镇康县	Zhenkang County
+双江拉祜族佤族布朗族傣族自治县	Dai Brown Autonomous County Shuangjiang Lahu, VA
+耿马傣族佤族自治县	Dai and Wa Autonomous County of Gengma
+沧源佤族自治县	Cangyuan Wa Nationality Autonomous County
+楚雄	Chuxiong
+楚雄市	The city of Chuxiong
+双柏县	Shuangbai County
+牟定县	Mouding County
+南华县	South County
+姚安县	Yao Anxian
+大姚县	Dayao County
+永仁县	Yongren County
+元谋县	Yuanmou County
+武定县	Wuding County
+禄丰县	Lufeng County
+红河	The Red River
+个旧市	Gejiu City
+开远市	Kaiyuan City
+蒙自县	Mengzi County
+屏边苗族自治县	Pingbian Miao Autonomous County
+建水县	Jianshui County
+石屏县	Shiping County
+弥勒县	Maitreya County
+泸西县	Luxi County
+元阳县	Yuanyang County
+红河县	Honghe County
+金平苗族瑶族傣族自治县	Dai Miao Yao Autonomous County of Jin Ping
+绿春县	Lvchun County
+河口瑶族自治县	Hekou Yao Autonomous County
+文山	Wenshan
+文山县	Wenshan County
+砚山县	Yanshan County
+西畴县	Xichou County
+麻栗坡县	Malipo County
+马关县	Maguan County
+丘北县	Qiubei County
+广南县	Guangnan County
+富宁县	Funing County
+西双版纳	Xishuangbanna
+景洪市	The city of Jinghong
+勐海县	Menghai County
+勐腊县	Mengla County
+大理	Dali
+大理市	The city of Dali
+漾濞彝族自治县	Yangbi Yi Autonomous County
+祥云县	Auspicious clouds County
+宾川县	Binchuan County
+弥渡县	Midu County
+南涧彝族自治县	Nanjian Yi Autonomous County
+巍山彝族回族自治县	Weishan Yi Hui Autonomous County
+永平县	Yongping County
+云龙县	Yunlong County
+洱源县	Eryuan County
+剑川县	Jianchuan County
+鹤庆县	Heqing County
+德宏	Dehong
+瑞丽市	Ruili
+潞西市	Luxi City
+梁河县	Lianghe County
+盈江县	Yingjiang County
+陇川县	Longchuan County
+怒江	Nu River
+泸水县	Lushui County
+福贡县	Fugong County
+贡山独龙族怒族自治县	Gongshan derungzu Nuzu Zizhixian
+兰坪白族普米族自治县	Bai Pumi Autonomous County of Lanping
+迪庆	Diqing
+香格里拉县	Shangri-La County
+德钦县	Deqin County
+维西傈僳族自治县	Weixi Lisu Autonomous County
+西藏	Tibet
+拉萨	Lhasa
+城关区	Chengguan District
+林周县	Nzhub County
+当雄县	Damxung County
+尼木县	Nyemo County
+曲水县	Qushui County
+堆龙德庆县	N county
+达孜县	Dazi County
+墨竹工卡县	Maizhokunggar County
+昌都	Changdu
+昌都县	Changdu County
+江达县	Jomda County
+贡觉县	Gonjo County
+类乌齐县	Riwoqe County
+丁青县	N county
+察雅县	Chaya County
+八宿县	Eight County
+左贡县	Zogang County
+芒康县	Mangkam County
+洛隆县	Lhorong County
+边坝县	Banbar County
+山南	Shannan
+乃东县	Naidong County
+扎囊县	Chanang County
+贡嘎县	Gongga County
+桑日县	SANGRI County
+琼结县	Qonggyai County
+曲松县	Qusum County
+措美县	Comai County
+洛扎县	LHOZHAG County
+加查县	GYACA County
+隆子县	Longzi County
+错那县	ConA County
+浪卡子县	The Nagarze County
+日喀则	Shigatse
+日喀则市	The city of Shigatse
+南木林县	Nanmulin County
+江孜县	Jiangzi County
+定日县	Tingri County
+萨迦县	Sakya County
+拉孜县	Lazi County
+昂仁县	Ngamring County
+谢通门县	Xietongmen County
+白朗县	Bainang County
+仁布县	Renbu County
+康马县	The Kangmar County
+定结县	In Dingjie County
+仲巴县	Zhongba County
+亚东县	Ya Dong County
+吉隆县	Gyirong County
+聂拉木县	Nielamu County
+萨嘎县	The saga County
+岗巴县	Gangba County
+那曲	Nagqu
+那曲县	Nagqu County
+嘉黎县	Lhari County
+比如县	Such as the county
+聂荣县	Nyainrong County
+安多县	Amdo County
+申扎县	Xainza County
+索　县	Cable County
+班戈县	Bangor County
+巴青县	N county
+尼玛县	Fuck County
+阿里	Ali
+普兰县	Burang County
+札达县	Zanda County
+噶尔县	Gar County
+日土县	Rutog County
+革吉县	Gyai County
+改则县	Gaize County
+措勤县	Cuoqin County
+林芝	Linzhi
+林芝县	Linzhi County
+工布江达县	Gongbo'gyamda County
+米林县	Milin County
+墨脱县	Medog County
+波密县	Bomi County
+察隅县	Chayu County
+朗　县	Lang County
+陕西	Shaanxi
+西安	Xi'an
+碑林区	Beilin District
+莲湖区	Lianhu District
+灞桥区	Baqiao District
+未央区	Weiyang District
+雁塔区	Yanta District
+阎良区	Yan Liangqu
+临潼区	Lintong District
+蓝田县	Lantian County
+周至县	Zhouzhi County
+户　县	Huxian
+高陵县	Gaoling County
+铜川	Tongchuan
+王益区	Wang Yiqu
+印台区	Yintai District
+耀州区	Yaozhou District
+宜君县	Yijun County
+宝鸡	Baoji
+渭滨区	Weibin District
+金台区	Jintai District
+陈仓区	Chencang District
+凤翔县	Fengxiang County
+岐山县	Qishan County
+扶风县	Fufeng County
+眉　县	Mei County
+陇　县	Longxian
+千阳县	Qianyang County
+麟游县	Linyou County
+凤　县	Feng County
+太白县	Taibai County
+咸阳	Xianyang
+秦都区	Qindu District
+杨凌区	Yangling District
+渭城区	Weicheng District
+三原县	Sanyuan County
+泾阳县	Jingyang County
+乾　县	Qianxian County
+礼泉县	Liquan County
+永寿县	Yongshou County
+彬　县	Binxian County
+长武县	Changwu County
+旬邑县	Xunyi County
+淳化县	Chunhua County
+武功县	Wugong County
+兴平市	The city of Xingping
+渭南	Weinan
+临渭区	Linwei District
+华　县	Hua county
+潼关县	Tongguan County
+大荔县	Dali County
+合阳县	Heyang County
+澄城县	Chengcheng County
+蒲城县	Pucheng County
+白水县	Baishui County
+富平县	Fuping County
+韩城市	The city of Hancheng
+华阴市	The city of Huayin
+延安	Yanan
+宝塔区	Baota District
+延长县	Extension of the county
+延川县	Yanchuan County
+子长县	Zichang County
+安塞县	Ansai County
+志丹县	Zhidan County
+吴起县	Wuqi County
+甘泉县	Ganquan County
+富　县	Fu County
+洛川县	Luochuan County
+宜川县	Yichuan County
+黄龙县	Huanglong County
+黄陵县	Huangling County
+汉中	Hanzhoung
+汉台区	Hantai District
+南郑县	Nanzheng County
+城固县	Chenggu County
+洋　县	Yangxian County
+西乡县	Xixiang County
+勉　县	Mianxian
+宁强县	Ningqiang County
+略阳县	Lve Yangxian
+镇巴县	Zhenba County
+留坝县	Liuba County
+佛坪县	Foping County
+榆林	Yulin
+榆阳区	Yuyang District
+神木县	Shenmu county
+府谷县	Fugu County
+横山县	Hengshan County
+靖边县	Jingbian County
+定边县	Dingbian County
+绥德县	Suide County
+米脂县	Mizhi County
+佳　县	Jia County
+吴堡县	Wubao County
+清涧县	Qingjian County
+子洲县	Zizhou County
+安康	Ankang
+汉滨区	Hanbin District
+汉阴县	Hanyin County
+石泉县	Shiquan County
+宁陕县	Ningshan County
+紫阳县	Ziyang County
+岚皋县	Langao County
+平利县	Pingli County
+镇坪县	Zhenping county
+旬阳县	Xunyang County
+白河县	Baihe County
+商洛	Shangluo
+商州区	Shangzhou District
+洛南县	Luonan County
+丹凤县	Danfeng County
+商南县	Shangnan County
+山阳县	Shanyang County
+镇安县	Zhen'an County
+柞水县	Zhashui County
+甘肃	Gansu
+兰州市	The city of Lanzhou
+七里河区	Qilihe District
+西固区	Xigu District
+安宁区	Anning District
+红古区	Honggu District
+永登县	Yongdeng County
+皋兰县	Gaolan County
+榆中县	Yuzhong County
+嘉峪关	Jiayuguan
+嘉峪关市	Jiayuguan City
+金昌	Jinchang
+金川区	Jinchuan District
+永昌县	Yongchang County
+白银	Silver
+白银区	Silver district
+平川区	Pingchuan District
+靖远县	Jingyuan County
+会宁县	Huining County
+景泰县	Jingtai County
+天水	Tianshui
+秦州区	Qinzhou District
+麦积区	Maiji District
+清水县	County Water
+秦安县	Qinan County
+甘谷县	Gangu County
+武山县	Wushan County
+张家川回族自治县	Zhangjiachuan Hui Autonomous County
+武威	Wuwei
+凉州区	Liangzhou District
+民勤县	Minqin County
+古浪县	Gulang County
+天祝藏族自治县	Tianzhu Tibetan Autonomous County
+张掖	Zhangye
+甘州区	Ganzhou District
+肃南裕固族自治县	Sunan Yugur Autonomous County
+民乐县	Minle County
+临泽县	Linze County
+高台县	Gaotai County
+山丹县	Shandan County
+平凉	Pingliang
+崆峒区	Kongtong District
+泾川县	Jingchuan County
+灵台县	Lingtai County
+崇信县	Chongxin County
+华亭县	Huating County
+庄浪县	Zhuanglang County
+静宁县	Jingning County
+酒泉	Jiuquan
+肃州区	Suzhou District
+金塔县	Jinta County
+瓜州县	Guazhou County
+肃北蒙古族自治县	Mongolia Autonomous County in Subei
+阿克塞哈萨克族自治县	Aksay Kazak Autonomous County
+玉门市	Yumen City
+敦煌市	The city of Dunhuang
+庆阳	Qingyang
+西峰区	Xifeng District
+庆城县	Qingcheng County
+环　县	Ring County
+华池县	Huachi County
+合水县	Heshui County
+正宁县	Zhengning County
+宁　县	Ning County
+镇原县	Zhenyuan County
+定西	Dingxi
+安定区	Anding District
+通渭县	Tongwei County
+陇西县	Longxi County
+渭源县	Weiyuan County
+临洮县	Lintao County
+漳　县	Zhang county
+岷　县	Minxian
+陇南	Longnan
+武都区	Wudu District
+成　县	Into the county
+文　县	Wenxian
+宕昌县	Dangchang County
+康　县	Kang County
+西和县	West and the county
+礼　县	Li County
+徽　县	Hui County
+两当县	Liangdang County
+临夏	Linxia
+临夏市	The city of Linxia
+临夏县	Linxia County
+康乐县	Kangle County
+永靖县	Yongjing County
+广河县	Guanghe County
+和政县	Hezheng County
+东乡族自治县	Dongxiang Autonomous County
+积石山保安族东乡族撒拉族自治县	Jishishan Salar Autonomous County of Dongxiang family services
+甘南	Gannan
+合作市	Cooperation in the city
+临潭县	Lintan County
+卓尼县	Zhuoni County
+舟曲县	Zhouqu County
+迭部县	Diebu County
+玛曲县	Maqu County
+碌曲县	Luqu County
+夏河县	Xiahe County
+青海	Qinghai
+西宁	Xining
+城东区	Chengdong District
+城西区	The west area
+城北区	Chengbei District
+大通回族土族自治县	Datong Hui and Tu Autonomous County
+湟中县	Huangzhong County
+湟源县	Huangyuan County
+海东	Haidong
+平安县	Peace County
+民和回族土族自治县	Minhe Hui and Tu Autonomous County
+乐都县	Ledu County
+互助土族自治县	Huzhu Tu Autonomous County
+化隆回族自治县	Longhua Hui Autonomous County
+循化撒拉族自治县	Salar Autonomous County of Xunhua
+海北	Haibei
+门源回族自治县	Menyuan Hui Autonomous County
+祁连县	Qilian County
+海晏县	Haiyan County
+刚察县	Gangcha County
+黄南	Huangnan
+同仁县	Tongren County
+尖扎县	Jianzha County
+泽库县	Zeku County
+河南蒙古族自治县	Henan Mongolia Autonomous County
+共和县	Gonghe County
+同德县	Tongde County
+贵德县	Guide County
+兴海县	Xinghai County
+贵南县	Guinan County
+果洛	Guoluo
+玛沁县	Maqin County
+班玛县	Baima County
+甘德县	Gande County
+达日县	Dari County
+久治县	Jigzhi County
+玛多县	Maduo County
+玉树	Yushu
+玉树县	Yushu County
+杂多县	Heteropoly County
+称多县	Chindu County
+治多县	Zhidoi County
+囊谦县	N county
+曲麻莱县	Qumalai County
+海西	Hercynian
+格尔木市	Golmud City
+德令哈市	The city of Delingha
+乌兰县	Ulan County
+都兰县	Dulan County
+天峻县	Tianjun County
+宁夏	Ningxia
+银川	Yinchuan
+兴庆区	Xingqing District
+西夏区	Xixia District
+金凤区	Jinfeng District
+永宁县	Yongning County
+贺兰县	Helan County
+灵武市	Lingwu City
+石嘴山	Shizuishan
+大武口区	Dawukou District
+惠农区	Huinong District
+平罗县	Pingluo County
+吴忠	Wuzhong
+利通区	Litong District
+红寺堡区	Hongsipu area
+盐池县	Yanchi County
+同心县	Tongxin County
+青铜峡市	Qingtongxia City
+固原	Guyuan
+原州区	Yuanzhou District
+西吉县	Xiji County
+隆德县	Longde County
+泾源县	Jingyuan County
+彭阳县	Peng Yangxian
+中卫	Zhongwei
+沙坡头区	Shapotou District
+中宁县	Zhongning County
+海原县	Haiyuan County
+新疆	Xinjiang
+乌鲁木齐	Urumqi
+天山区	Tianshan area
+沙依巴克区	Saybagh District
+水磨沟区	Shuimogou District
+头屯河区	Toutun River District
+达坂城区	Dabancheng District
+米东区	Midong District
+乌鲁木齐县	Urumqi County
+克拉玛依	Karamay
+独山子区	Dushanzi District
+克拉玛依区	Karamay District
+白碱滩区	Baijiantan District
+乌尔禾区	Urho District
+吐鲁番	Turpan
+吐鲁番市	The city of Turpan
+鄯善县	Shanshan County
+托克逊县	Toksun County
+哈密	Hami
+哈密市	The city of Hami
+巴里坤哈萨克自治县	Barkol Kazak Autonomous County
+伊吾县	Yiwu County
+昌吉	Changji
+昌吉市	The city of Changji
+阜康市	Fukang City
+呼图壁县	Hutubi County
+玛纳斯县	Manasi County
+奇台县	Qitai County
+吉木萨尔县	Jimsar County
+木垒哈萨克自治县	Mori Kazak Autonomous County
+博尔塔拉	Bortala
+博乐市	Bole City
+精河县	Jinghe County
+温泉县	Hot Springs County
+巴音郭楞	Bayinguoleng
+库尔勒市	The city of Korla
+轮台县	Luntai County
+尉犁县	Yuli County
+若羌县	Ruoqiang County
+且末县	Qiemo County
+焉耆回族自治县	Yanqi Hui Autonomous County
+和静县	Hejing County
+和硕县	Hoxud County
+博湖县	Bohu County
+阿克苏市	The city of Akesu
+温宿县	Wensu County
+库车县	Kuche County
+沙雅县	Shaya County
+新和县	The new County
+拜城县	Baicheng County
+乌什县	Wushi County
+阿瓦提县	Awati County
+柯坪县	The Kalpin County
+克孜勒苏	Kizilsu
+阿图什市	Atushi City
+阿克陶县	Akto County
+阿合奇县	Akeqi County
+乌恰县	Wuqia County
+喀什	Kashi
+喀什市	The city of Kashi
+疏附县	Shufu County
+疏勒县	Shule County
+英吉沙县	The English Shaxian County
+泽普县	Zepu County
+莎车县	Shache County
+叶城县	Yecheng County
+麦盖提县	Mengaiti County
+岳普湖县	Yuepuhu County
+伽师县	Jiashi County
+巴楚县	Bachu County
+塔什库尔干塔吉克自治县	Tash Kurgan Taj J Autonomous County
+和田	And Tian
+和田市	The city of Hotan
+和田县	Hotan County
+墨玉县	Moyu County
+皮山县	Pishan County
+洛浦县	Luopu County
+策勒县	Qira County
+于田县	Yutian County
+民丰县	Minfeng County
+伊犁	Yili
+伊宁市	The city of Yining
+奎屯市	The city of Kuitun
+伊宁县	Yining County
+察布查尔锡伯自治县	Qapqal Xibe Autonomous County
+霍城县	Huocheng County
+巩留县	Gongliu County
+新源县	Xinyuan County
+昭苏县	Zhaosu County
+特克斯县	The Turks County
+尼勒克县	Nilka County
+塔城	Tacheng
+塔城市	The city of Tacheng
+乌苏市	Wusu city
+额敏县	Emin County
+沙湾县	Shawan County
+托里县	Tori County
+裕民县	Yumin County
+和布克赛尔蒙古自治县	Hoboksar Mongol Autonomous County
+阿勒泰	Aletai
+阿勒泰市	The city of Aletai
+布尔津县	Buerjin County
+富蕴县	Fuyun County
+福海县	Fuhai County
+哈巴河县	Habahe County
+青河县	Qinggil County
+吉木乃县	Jimunai County
+石河子	Shihezi
+阿拉尔	Alar
+图木舒克	Tumu Shuker
+五家渠	Wujiaqu
+北屯	Beitun
+台湾	Taiwan
+台北市	The city of Taipei
+高雄市	The city of Kaohsiung
+基隆市	The city of Keelung
+台中市	Taichung City
+台南市	The city of Tainan
+新竹市	The city of Hsinchu
+嘉义市	The city of Chiayi
+台北县	Taipei County
+宜兰县	Yilan County
+桃园县	Taoyuan County
+新竹县	Hsinchu County
+苗栗县	Miaoli County
+台中县	Taichung County
+彰化县	Changhua County
+南投县	Nantou County
+云林县	Yunlin County
+嘉义县	Chiayi County
+台南县	Tainan County
+高雄县	Kaohsiung County
+屏东县	Pingtung County
+台东县	Taitung County
+花莲县	Hualian County
+澎湖县	Penghu County
+香港	Hongkong
+中西区	Central and Western District
+东区	East Area
+九龙城区	Kowloon City District
+观塘区	Kwun Tong District
+南区	South Area
+深水埗区	Sham Shui Po District
+黄大仙区	Wong Tai Sin
+湾仔区	Wan Chai District
+油尖旺区	Yau Tsim Mong District
+离岛区	Islands District
+葵青区	Kwai Tsing District
+北区	North Area
+西贡区	Xigong District
+沙田区	Sha Tin District
+屯门区	Tuen Mun District
+大埔区	Tai Po District
+荃湾区	Tsuen Wan District
+元朗区	Yuen Long District
+澳门	Macao
+花地玛堂区	Fatima parish
+圣安多尼堂区	St. Anthony parish
+大堂区	The lobby area
+望德堂区	Wang detang area
+风顺堂区	Each parish
+氹仔	Taipa
+路环	Ring Road
