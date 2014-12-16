@@ -22,13 +22,21 @@ def clearhtmltags(str):
 def getinfobox(entryhxs):
   knowledge = {}
   infoboxhxs = entryhxs.select('//div[@class="module zoom"]//table')
-  if(len(infoboxhxs) != 0):
+  if len(infoboxhxs) != 0:
     infoboxhxs = infoboxhxs[0]
     for tdhxs in infoboxhxs.select('.//td[not(@class)]'):
       key = tdhxs.select('./strong').extract()[0]
       key = clearhtmltags(key)
       value = tdhxs.select('./span').extract()[0]
       value = clearhtmltags(value)
+      knowledge[key] = value
+  infoboxhxs = entryhxs.select("//div[@class='cpbkid bordb pr clearfix']/ul")
+  if len(infoboxhxs) > 0:
+    infoboxhxs = infoboxhxs[0]
+    for li in infoboxhxs.select('.//li[@class="clearfix"]'):
+      key = li.select('.//span[@class="fl"]/text()').extract()[0]
+      key = key.strip()[0:-1]
+      value = li.select('.//p[@class="fr"]/text()').extract()[0]
       knowledge[key] = value
   return knowledge
 
